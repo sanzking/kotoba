@@ -1,3 +1,4 @@
+console.log("KOTOBA VERSION RAILWAY TEST 999");
 const $ = (s) => document.querySelector(s);
 const $$ = (s) => [...document.querySelectorAll(s)];
 const state = {
