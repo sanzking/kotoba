@@ -28,7 +28,15 @@ const state = {
   xp: Number(localStorage.getItem('kotoba_xp') || 0),
   streak: Number(localStorage.getItem('kotoba_streak') || 0),
   lastStudyDate: localStorage.getItem('kotoba_last_study') || '',
-  waifu: localStorage.getItem('kotoba_waifu') || 'sakura'
+  waifu: localStorage.getItem('kotoba_waifu') || 'sakura',
+  flashSessionWords: [],
+  flashQueue: [],
+  flashRepeatQueue: [],
+  flashCompleted: [],
+  flashRound: 1,
+  flashStats: { remembered: 0, hard: 0, again: 0 },
+  quizMode: 'random',
+  sessionQuizScore: 0
 };
 
 async function api(path, opts={}) {
@@ -99,31 +107,92 @@ function getKanaFront(item){
   return term || '-';
 }
 
+function ensureFlashControls(){
+  const actions = document.querySelector('#flashcard .actions');
+  if(!actions) return;
+
+  if(!$('#halfBtn')){
+    const halfBtn = document.createElement('button');
+    halfBtn.id = 'halfBtn';
+    halfBtn.className = 'secondary';
+    halfBtn.textContent = 'Agak Ingat';
+    const wrongBtn = $('#wrongBtn');
+    actions.insertBefore(halfBtn, wrongBtn || null);
+    halfBtn.addEventListener('click', () => mark('half'));
+  }
+
+  if(!$('#sessionQuizBtn')){
+    const btn = document.createElement('button');
+    btn.id = 'sessionQuizBtn';
+    btn.className = 'secondary hidden';
+    btn.textContent = 'Mulai Quiz 25 Kotoba';
+    actions.appendChild(btn);
+    btn.addEventListener('click', startSessionQuiz);
+  }
+}
+
+function setFlashButtonsDisabled(disabled){
+  ['showAnswer','playAudio','correctBtn','halfBtn','wrongBtn'].forEach(id => {
+    const el = $('#' + id);
+    if(el) el.disabled = disabled;
+  });
+}
+
+function currentFlashItem(){
+  return state.flashQueue[state.current] || null;
+}
+
 function renderCard(){
-  const item = state.flashcards[state.current];
+  ensureFlashControls();
+  const item = currentFlashItem();
 
   if(!item){
-    $('#cardLevel').textContent = '';
-    $('#cardTerm').textContent = 'Sesi selesai';
-    $('#cardReading').textContent = '';
-    $('#cardAnswer').textContent = '';
-    $('#cardAnswer').classList.add('hidden');
-    $('#sessionInfo').textContent = 'Sesi selesai. Mantap 🔥';
+    renderFlashSessionComplete();
     return;
   }
 
+  setFlashButtonsDisabled(false);
   $('#cardLevel').textContent = item.level || '';
   $('#cardTerm').textContent = getKanaFront(item);
   $('#cardReading').textContent = '';
   $('#cardAnswer').textContent = item.meaning || 'Arti belum tersedia';
   $('#cardAnswer').classList.add('hidden');
-  $('#sessionInfo').textContent = `Kartu ${state.current + 1} dari ${state.flashcards.length}. Mastery: ${item.mastery}/10`;
+
+  const left = state.flashQueue.length - state.current;
+  const repeat = state.flashRepeatQueue.length;
+  $('#sessionInfo').textContent =
+    `Round ${state.flashRound} • Sisa ${left} kartu • Review ulang ${repeat} • Mastery: ${item.mastery}/10`;
+}
+
+function renderFlashSessionComplete(){
+  $('#cardLevel').textContent = '';
+  $('#cardTerm').textContent = 'Session Complete 🎉';
+  $('#cardReading').textContent = '';
+  $('#cardAnswer').classList.remove('hidden');
+
+  const total = state.flashSessionWords.length;
+  $('#cardAnswer').textContent =
+    `Kata sesi: ${total}\nIngat: ${state.flashStats.remembered}\nAgak ingat: ${state.flashStats.hard}\nSusah: ${state.flashStats.again}\n\nLanjut quiz dari kata yang baru dipelajari.`;
+
+  $('#sessionInfo').textContent = `Semua kata sesi sudah selesai. Siap quiz ${total} kotoba.`;
+  setFlashButtonsDisabled(true);
+  const quizBtn = $('#sessionQuizBtn');
+  if(quizBtn) quizBtn.classList.remove('hidden');
 }
 
 async function startFlash(){
+  ensureFlashControls();
   const data = await api(`/api/study?level=${state.level}&limit=25`);
-  state.flashcards = data.items;
+  state.flashSessionWords = data.items || [];
+  state.flashQueue = [...state.flashSessionWords];
+  state.flashRepeatQueue = [];
+  state.flashCompleted = [];
   state.current = 0;
+  state.flashRound = 1;
+  state.flashStats = { remembered: 0, hard: 0, again: 0 };
+  const quizBtn = $('#sessionQuizBtn');
+  if(quizBtn) quizBtn.classList.add('hidden');
+  setFlashButtonsDisabled(false);
   renderCard();
 }
 
@@ -131,12 +200,49 @@ function showAnswer(){
   $('#cardAnswer').classList.remove('hidden');
 }
 
+function enqueueReview(item, result){
+  const copy = {...item};
+  copy._reviewCount = (copy._reviewCount || 0) + 1;
+  copy._lastResult = result;
+  state.flashRepeatQueue.push(copy);
+}
+
 async function mark(result){
-  const item = state.flashcards[state.current];
+  const item = currentFlashItem();
   if(!item) return;
-  await api('/api/review', { method:'POST', body:JSON.stringify({word_id:item.id,result}) });
-  touchStudy(result === 'correct' ? 8 : 3);
+
+  const apiResult = result === 'correct' ? 'correct' : 'wrong';
+  await api('/api/review', { method:'POST', body:JSON.stringify({word_id:item.id,result:apiResult}) });
+
+  if(result === 'correct'){
+    state.flashStats.remembered++;
+    state.flashCompleted.push(item);
+    touchStudy(8);
+  } else if(result === 'half'){
+    state.flashStats.hard++;
+    enqueueReview(item, result);
+    touchStudy(4);
+  } else {
+    state.flashStats.again++;
+    enqueueReview(item, result);
+    touchStudy(2);
+  }
+
   state.current++;
+
+  if(state.current >= state.flashQueue.length){
+    if(state.flashRepeatQueue.length){
+      state.flashRound++;
+      state.flashQueue = [...state.flashRepeatQueue];
+      state.flashRepeatQueue = [];
+      state.current = 0;
+      shuffleInPlace(state.flashQueue);
+    } else {
+      state.flashQueue = [];
+      state.current = 0;
+    }
+  }
+
   renderCard();
   loadStats();
 }
@@ -172,10 +278,47 @@ async function playCurrentAudio(){
    KOTOBA QUIZ
 ========================= */
 async function startQuiz(){
+  state.quizMode = 'random';
   const data = await api(`/api/quiz?level=${state.level}&count=10`);
   state.quiz = data.items;
   state.quizIndex = 0;
+  state.sessionQuizScore = 0;
   $('#quizFeedback').textContent='';
+  renderQuiz();
+}
+
+function buildSessionQuizItems(words){
+  const pool = words && words.length ? words : [];
+  return shuffle(pool).slice(0, Math.min(25, pool.length)).map(item => {
+    const distractors = shuffle(pool.filter(w => w.id !== item.id && w.meaning && w.meaning !== item.meaning))
+      .slice(0, 3)
+      .map(w => w.meaning);
+
+    const fallback = ['tidak tahu', 'belum tersedia', 'arti lain'].filter(x => x !== item.meaning);
+    const choices = shuffle([...distractors, ...fallback].slice(0, 3).concat([item.meaning || 'Arti belum tersedia']));
+
+    return {
+      id: item.id,
+      level: item.level,
+      term: item.term,
+      reading: item.reading,
+      answer: item.meaning || 'Arti belum tersedia',
+      choices
+    };
+  });
+}
+
+function startSessionQuiz(){
+  if(!state.flashSessionWords.length){
+    alert('Belum ada sesi flashcard. Klik Start Session dulu.');
+    return;
+  }
+  state.quizMode = 'session';
+  state.quiz = buildSessionQuizItems(state.flashSessionWords);
+  state.quizIndex = 0;
+  state.sessionQuizScore = 0;
+  $('#quizFeedback').textContent='';
+  setScreen('quiz');
   renderQuiz();
 }
 
@@ -183,6 +326,20 @@ function renderQuiz(){
   const q = state.quiz[state.quizIndex];
 
   if(!q){
+    if(state.quizMode === 'session' && state.quiz.length){
+      const total = state.quiz.length;
+      const percent = Math.round((state.sessionQuizScore / total) * 100);
+      $('#quizTerm').textContent='Session Quiz selesai 🎉';
+      $('#quizReading').textContent=`Skor: ${state.sessionQuizScore}/${total} • Akurasi ${percent}%`;
+      $('#choices').innerHTML='';
+      $('#quizFeedback').textContent = percent >= 80
+        ? 'Mantap! Kotoba sesi ini sudah cukup kuat 🔥'
+        : 'Masih perlu review. Ulangi flashcard sesi ini lagi ya.';
+      $('#quizFeedback').style.color = percent >= 80 ? 'var(--good)' : 'var(--warn)';
+      touchStudy(percent >= 80 ? 40 : 15);
+      return;
+    }
+
     $('#quizTerm').textContent='Quiz selesai 🎉';
     $('#quizReading').textContent='Cek dashboard untuk progress.';
     $('#choices').innerHTML='';
@@ -190,11 +347,15 @@ function renderQuiz(){
   }
 
   $('#quizTerm').textContent = getKanaFront(q);
-  $('#quizReading').textContent = q.level || '';
+  $('#quizReading').textContent = state.quizMode === 'session'
+    ? `Quiz sesi • Soal ${state.quizIndex + 1}/${state.quiz.length}`
+    : (q.level || '');
 
   $('#choices').innerHTML = q.choices.map(c => `<button class="choice">${escapeHtml(c)}</button>`).join('');
   $$('.choice').forEach(btn => btn.addEventListener('click', async () => {
     const correct = btn.textContent === q.answer;
+    if(state.quizMode === 'session' && correct) state.sessionQuizScore++;
+
     $('#quizFeedback').textContent = correct ? 'Benar. Mantap 🔥' : `Kurang tepat. Jawaban: ${q.answer}`;
     $('#quizFeedback').style.color = correct ? 'var(--good)' : 'var(--bad)';
     await api('/api/review', { method:'POST', body:JSON.stringify({word_id:q.id,result:correct?'correct':'wrong'}) });
@@ -3589,6 +3750,14 @@ function shuffle(arr){
   return [...arr].sort(() => Math.random() - 0.5);
 }
 
+function shuffleInPlace(arr){
+  for(let i = arr.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
 function openMobileSidebar(){
   $('#sidebar').classList.add('open');
   $('#sidebarOverlay').classList.add('show');
@@ -3608,6 +3777,7 @@ $('#startFlash').addEventListener('click', startFlash);
 $('#showAnswer').addEventListener('click', showAnswer);
 $('#playAudio').addEventListener('click', playCurrentAudio);
 $('#flashcardBox').addEventListener('click', showAnswer);
+ensureFlashControls();
 $('#correctBtn').addEventListener('click', () => mark('correct'));
 $('#wrongBtn').addEventListener('click', () => mark('wrong'));
 $('#startQuiz').addEventListener('click', startQuiz);
