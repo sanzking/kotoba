@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kotoba Pro — JLPT N5/N4</title>
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <button id="mobileMenuBtn" class="mobile-menu-btn" aria-label="Buka menu">☰</button>
+  <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="logo">桜</div>
+      <div>
+        <h1>Kotoba Pro</h1>
+        <p>JLPT N5/N4 Trainer</p>
+      </div>
+    </div>
+    <nav>
+      <button class="nav active" data-screen="dashboard">🏯 Dashboard</button>
+      <button class="nav" data-screen="kana">🌸 Kana</button>
+      <button class="nav" data-screen="listening">🎧 Listening</button>
+      <button class="nav" data-screen="speaking">🎤 Speaking</button>
+      <button class="nav" data-screen="kanji">🈶 Kanji</button>
+      <button class="nav" data-screen="waifu">👘 Waifu AI</button>
+      <button class="nav" data-screen="flashcard">🎴 Flashcard</button>
+      <button class="nav" data-screen="quiz">📝 Quiz</button>
+      <button class="nav" data-screen="library">📚 Library</button>
+    </nav>
+    <div class="sidebar-card">
+      <strong>今日の目標</strong>
+      <span>20 kata baru + review lama</span>
+    </div>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">日本語を勉強しましょう</p>
+        <h2 id="pageTitle">Dashboard</h2>
+      </div>
+      <div class="controls">
+        <select id="levelSelect">
+          <option value="ALL">Semua Level</option>
+          <option value="N5">N5</option>
+          <option value="N4">N4</option>
+        </select>
+        <button id="resetBtn" class="ghost">Reset Progress</button>
+      </div>
+    </header>
+
+    <section id="dashboard" class="screen active">
+      <div class="hero-card">
+        <div>
+          <span class="hero-kicker">ようこそ</span>
+          <h3>Belajar Jepang dari Kana sampai Kotoba</h3>
+          <p>Mulai dari hiragana, katakana, dakuten, handakuten, yoon, kata panjang, lalu lanjut flashcard N5/N4 dengan suara.</p>
+        </div>
+        <div class="hero-symbol">あ</div>
+      </div>
+      <div class="stats-grid">
+        <article class="stat"><span>Total Kotoba</span><strong id="statTotal">0</strong></article>
+        <article class="stat"><span>Sudah Dilihat</span><strong id="statStudied">0</strong></article>
+        <article class="stat"><span>Mastery</span><strong id="statMastered">0</strong></article>
+        <article class="stat"><span>Akurasi Quiz</span><strong id="statAccuracy">0%</strong></article>
+      </div>
+      <div class="stats-grid mini-stats">
+        <article class="stat"><span>XP</span><strong id="xpValue">0</strong></article>
+        <article class="stat"><span>Level</span><strong id="levelValue">1</strong></article>
+        <article class="stat"><span>Streak</span><strong id="streakValue">0 hari</strong></article>
+        <article class="stat"><span>Misi Hari Ini</span><strong>20 kata</strong></article>
+      </div>
+      <div class="panel">
+        <h3>Strategi Belajar</h3>
+        <div class="plan-grid">
+          <div><b>1. Kana</b><p>Kuasai hiragana/katakana dulu, termasuk dakuten, handakuten, yoon, dan kata panjang.</p></div>
+          <div><b>2. Flashcard</b><p>Buka 20 kata baru. Klik kartu untuk lihat arti dan pakai tombol suara.</p></div>
+          <div><b>3. Quiz</b><p>Uji active recall. Jawaban benar menaikkan mastery.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="kana" class="screen">
+      <div class="kana-layout">
+        <div class="panel kana-panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">Kana Master</p>
+              <h3>Belajar Hiragana & Katakana</h3>
+            </div>
+            <div class="kana-tabs">
+              <button class="kana-tab active" data-kana-mode="hiragana">Hiragana</button>
+              <button class="kana-tab" data-kana-mode="katakana">Katakana</button>
+            </div>
+          </div>
+          <div class="kana-category-tabs">
+            <button class="kana-cat active" data-kana-cat="basic">Basic</button>
+            <button class="kana-cat" data-kana-cat="dakuten">Dakuten</button>
+            <button class="kana-cat" data-kana-cat="handakuten">Handakuten</button>
+            <button class="kana-cat" data-kana-cat="yoon">Yoon</button>
+            <button class="kana-cat" data-kana-cat="long">Kata Panjang</button>
+          </div>
+          <div id="kanaGrid" class="kana-grid"></div>
+        </div>
+
+        <div class="panel kana-test-panel">
+          <h3>Ujian Dasar Kana</h3>
+          <p class="muted">Pilih mode ujian, lalu jawab romaji dari huruf yang muncul.</p>
+          <div class="test-controls">
+            <select id="kanaTestMode">
+              <option value="mixed">Mixed Hiragana + Katakana</option>
+              <option value="hiragana">Hiragana only</option>
+              <option value="katakana">Katakana only</option>
+            </select>
+            <select id="kanaTestCat">
+              <option value="all">Semua Materi</option>
+              <option value="basic">Basic</option>
+              <option value="dakuten">Dakuten</option>
+              <option value="handakuten">Handakuten</option>
+              <option value="yoon">Yoon</option>
+              <option value="long">Kata Panjang</option>
+            </select>
+            <button id="startKanaTest">Mulai Ujian</button>
+          </div>
+          <div class="kana-question-card">
+            <div id="kanaQuestion" class="kana-question">?</div>
+            <div id="kanaQuestionHint" class="muted">Tekan Mulai Ujian</div>
+            <button id="kanaSound" class="secondary">🔊 Suara</button>
+          </div>
+          <div id="kanaChoices" class="choices kana-choices"></div>
+          <p id="kanaFeedback" class="feedback"></p>
+          <p id="kanaScore" class="muted">Skor: -</p>
+        </div>
+      </div>
+    </section>
+
+
+    <section id="listening" class="screen">
+      <div class="study-layout">
+        <div class="panel">
+          <div class="section-head"><div><p class="eyebrow">耳の練習</p><h3>Listening Learn</h3></div><button id="startListeningLearn">Mulai Learn</button></div>
+          <div class="listening-card">
+            <p id="listeningLearnInfo" class="muted">Tekan Mulai Learn</p>
+            <div id="listeningLearnTerm" class="japanese">?</div>
+            <div id="listeningLearnMeaning" class="answer">Dengarkan kata, lalu lihat artinya.</div>
+            <div class="actions"><button id="playListeningLearn" class="secondary">🔊 Putar</button><button id="nextListeningLearn">Lanjut</button></div>
+          </div>
+        </div>
+        <div class="panel">
+          <h3>Listening Test</h3>
+          <p class="muted">Audio diputar tanpa bantuan tulisan. Pilih arti yang benar.</p>
+          <div class="kana-question-card"><div id="listeningQuestion" class="listening-question">🎧</div><button id="replayListening" class="secondary">🔊 Ulangi</button></div>
+          <button id="startListeningTest">Mulai Test</button>
+          <div id="listeningChoices" class="choices"></div>
+          <p id="listeningFeedback" class="feedback"></p>
+          <p id="listeningScore" class="muted">Skor: -</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="speaking" class="screen">
+      <div class="study-layout">
+        <div class="panel speaking-panel">
+          <div class="section-head"><div><p class="eyebrow">話しましょう</p><h3>Speaking Test</h3></div><button id="startSpeaking">Mulai</button></div>
+          <p id="speakingProgress" class="muted">Latihan pengucapan pakai microphone browser.</p>
+          <div id="speakingTerm" class="japanese">?</div>
+          <div id="speakingMeaning" class="answer">Tekan Mulai</div>
+          <div class="actions"><button id="playSpeaking" class="secondary">🔊 Contoh</button><button id="recordSpeaking">🎤 Bicara</button><button id="nextSpeaking" class="secondary">Lanjut</button></div>
+          <p id="speakingResult" class="feedback"></p>
+        </div>
+        <div class="panel compact"><h3>Catatan</h3><p class="muted">Fitur ini paling stabil di Chrome. Izinkan akses microphone saat diminta.</p></div>
+      </div>
+    </section>
+
+    <section id="kanji" class="screen">
+      <div class="kanji-layout">
+        <div class="panel">
+          <div class="section-head">
+            <div>
+              <p class="eyebrow">漢字アカデミー</p>
+              <h3>Kanji Academy N5/N4</h3>
+              <p id="kanjiCount" class="muted">0 kanji</p>
+            </div>
+            <select id="kanjiLevel">
+              <option value="N5">N5</option>
+              <option value="N4">N4</option>
+              <option value="ALL">Semua</option>
+            </select>
+          </div>
+          <div id="kanjiGrid" class="kanji-grid"></div>
+        </div>
+        <div id="kanjiDetail" class="panel kanji-detail"><p class="muted">Pilih kanji untuk belajar.</p></div>
+      </div>
+
+      <div class="panel kanji-test-panel">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">漢字テスト</p>
+            <h3>Tes Hafalan Kanji</h3>
+            <p class="muted">Latihan pilih jawaban atau ketik manual supaya hafalan lebih nempel.</p>
+          </div>
+          <div class="test-controls">
+            <select id="kanjiTestMode">
+              <option value="meaning_to_kanji">Arti → Kanji</option>
+              <option value="kanji_to_meaning">Kanji → Arti</option>
+            </select>
+            <button id="startKanjiTest">Mulai Tes</button>
+          </div>
+        </div>
+        <div class="kana-question-card kanji-test-card">
+          <div id="kanjiTestQuestion" class="kanji-test-question">?</div>
+          <div id="kanjiTestHint" class="muted">Tekan Mulai Tes</div>
+        </div>
+        <div id="kanjiTestChoices" class="choices kanji-test-choices"></div>
+        <div class="typing-row">
+          <input id="kanjiTypeInput" placeholder="Ketik jawaban manual..." disabled />
+          <button id="kanjiTypeSubmit" class="secondary" disabled>Cek</button>
+        </div>
+        <p id="kanjiTestFeedback" class="feedback"></p>
+        <p id="kanjiTestScore" class="muted">Skor: -</p>
+      </div>
+    </section>
+
+    <section id="waifu" class="screen">
+      <div class="waifu-layout">
+        <div class="panel waifu-card">
+          <div id="waifuAvatar" class="waifu-avatar">🌸</div>
+          <h3 id="waifuName">Sakura Sensei</h3>
+          <p id="waifuMessage">Sugoi! Hari ini kita belajar bareng ya.</p>
+          <button id="waifuTalk">Minta Motivasi</button>
+        </div>
+        <div class="panel">
+          <h3>Pilih Sensei</h3>
+          <div class="waifu-picks">
+            <button class="waifu-pick" data-waifu="sakura">🌸 Sakura</button>
+            <button class="waifu-pick" data-waifu="yuki">❄️ Yuki</button>
+            <button class="waifu-pick" data-waifu="aoi">🍵 Aoi</button>
+          </div>
+          <p class="muted waifu-note">Waifu AI ini membaca XP, streak, dan progress lokal untuk memberi misi belajar harian.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="flashcard" class="screen">
+      <div class="study-layout">
+        <div class="card-area">
+          <div id="flashcardBox" class="flashcard">
+            <span class="badge" id="cardLevel">N5</span>
+            <div class="japanese" id="cardTerm">Klik Start</div>
+            <div class="reading" id="cardReading"></div>
+            <div class="answer hidden" id="cardAnswer"></div>
+          </div>
+          <div class="actions">
+            <button id="startFlash">Start Session</button>
+            <button id="showAnswer" class="secondary">Lihat Arti</button>
+            <button id="playAudio" class="secondary">🔊 Suara</button>
+            <button id="wrongBtn" class="danger">Susah</button>
+            <button id="correctBtn" class="success">Ingat</button>
+          </div>
+        </div>
+        <div class="panel compact">
+          <h3>Sesi Hari Ini</h3>
+          <p id="sessionInfo">Belum mulai.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="quiz" class="screen">
+      <div class="panel quiz-panel">
+        <div class="quiz-head">
+          <div>
+            <h3 id="quizTerm">Tekan Mulai Quiz</h3>
+            <p id="quizReading"></p>
+          </div>
+          <button id="startQuiz">Mulai Quiz</button>
+        </div>
+        <div id="choices" class="choices"></div>
+        <p id="quizFeedback" class="feedback"></p>
+      </div>
+    </section>
+
+    <section id="library" class="screen">
+      <div class="panel">
+        <div class="library-head">
+          <h3>Library Kotoba</h3>
+          <input id="searchInput" placeholder="Cari: makan, 見ます, terlambat..." />
+        </div>
+        <div id="wordList" class="word-list"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

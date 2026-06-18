@@ -1,0 +1,10388 @@
+[
+  {
+    "level": "N5",
+    "term": "わたし",
+    "reading": "",
+    "meaning": "saya"
+  },
+  {
+    "level": "N5",
+    "term": "あなた",
+    "reading": "",
+    "meaning": "anda"
+  },
+  {
+    "level": "N5",
+    "term": "あのひと",
+    "reading": "",
+    "meaning": "orang itu"
+  },
+  {
+    "level": "N5",
+    "term": "あのかた",
+    "reading": "",
+    "meaning": "orang itu (sopan)\nbeliau"
+  },
+  {
+    "level": "N5",
+    "term": "～さん",
+    "reading": "",
+    "meaning": "bapak/ibu\nsaudara/saudari"
+  },
+  {
+    "level": "N5",
+    "term": "～ちゃん",
+    "reading": "",
+    "meaning": "..dik\nakhiran di belakang nama anak-anak"
+  },
+  {
+    "level": "N5",
+    "term": "～じん",
+    "reading": "",
+    "meaning": "orang.. | warga..\nmenyatakan warga negara\nアメリカじん\norang amerika\nwarga amerika"
+  },
+  {
+    "level": "N5",
+    "term": "せんせい",
+    "reading": "",
+    "meaning": "guru, dosen\ntidak dipakai untuk menyebut diri sendiri"
+  },
+  {
+    "level": "N5",
+    "term": "きょうし",
+    "reading": "",
+    "meaning": "guru, dosen"
+  },
+  {
+    "level": "N5",
+    "term": "がくせい",
+    "reading": "",
+    "meaning": "siswa, mahasiswa"
+  },
+  {
+    "level": "N5",
+    "term": "かいしゃいん",
+    "reading": "",
+    "meaning": "karyawan perusahaan"
+  },
+  {
+    "level": "N5",
+    "term": "しゃいん",
+    "reading": "",
+    "meaning": "karyawan perusahaan\ndipakai bersama nama perusahaan\nYamahaのしゃいん"
+  },
+  {
+    "level": "N5",
+    "term": "ぎんこういん",
+    "reading": "",
+    "meaning": "pegawai bank"
+  },
+  {
+    "level": "N5",
+    "term": "いしゃ",
+    "reading": "",
+    "meaning": "dokter"
+  },
+  {
+    "level": "N5",
+    "term": "けんきゅうしゃ",
+    "reading": "",
+    "meaning": "peneliti"
+  },
+  {
+    "level": "N5",
+    "term": "だいがく",
+    "reading": "",
+    "meaning": "universitas"
+  },
+  {
+    "level": "N5",
+    "term": "びょういん",
+    "reading": "",
+    "meaning": "rumah sakit"
+  },
+  {
+    "level": "N5",
+    "term": "だれ",
+    "reading": "",
+    "meaning": "siapa"
+  },
+  {
+    "level": "N5",
+    "term": "どなた",
+    "reading": "",
+    "meaning": "siapa (sopan)"
+  },
+  {
+    "level": "N5",
+    "term": "なんさい",
+    "reading": "",
+    "meaning": "umur berapa"
+  },
+  {
+    "level": "N5",
+    "term": "おいくつ",
+    "reading": "",
+    "meaning": "umur berapa (sopan)"
+  },
+  {
+    "level": "N5",
+    "term": "はい",
+    "reading": "",
+    "meaning": "ya"
+  },
+  {
+    "level": "N5",
+    "term": "いいえ",
+    "reading": "",
+    "meaning": "tidak\nbukan"
+  },
+  {
+    "level": "N5",
+    "term": "はじめまして",
+    "reading": "",
+    "meaning": "perkenalkan\npembuka perkenalan diri"
+  },
+  {
+    "level": "N5",
+    "term": "～からきました",
+    "reading": "",
+    "meaning": "datang dari.."
+  },
+  {
+    "level": "N5",
+    "term": "どうぞ よろしく おねがいします",
+    "reading": "",
+    "meaning": "salam kenal\npenutup perkenalan diri"
+  },
+  {
+    "level": "N5",
+    "term": "しつれいですが",
+    "reading": "",
+    "meaning": "permisi, maaf\npembuka sebelum bertanya hal pribadi\nmisalkan nama, usia, alamat, dll"
+  },
+  {
+    "level": "N5",
+    "term": "おなまえは？",
+    "reading": "",
+    "meaning": "siapa namanya?"
+  },
+  {
+    "level": "N5",
+    "term": "こちらは ～さん です",
+    "reading": "",
+    "meaning": "ini adalah bapak/ibu..\nini adalah saudara/saudari.."
+  },
+  {
+    "level": "N5",
+    "term": "くに",
+    "reading": "",
+    "meaning": "negara"
+  },
+  {
+    "level": "N5",
+    "term": "ひと",
+    "reading": "",
+    "meaning": "orang"
+  },
+  {
+    "level": "N5",
+    "term": "～ご",
+    "reading": "",
+    "meaning": "bahasa..\n日本ご\nbahasa jepang"
+  },
+  {
+    "level": "N5",
+    "term": "ことば",
+    "reading": "",
+    "meaning": "kata"
+  },
+  {
+    "level": "N5",
+    "term": "くるま",
+    "reading": "",
+    "meaning": "mobil"
+  },
+  {
+    "level": "N5",
+    "term": "つくえ",
+    "reading": "",
+    "meaning": "meja"
+  },
+  {
+    "level": "N5",
+    "term": "いす",
+    "reading": "",
+    "meaning": "kursi"
+  },
+  {
+    "level": "N5",
+    "term": "おみやげ",
+    "reading": "",
+    "meaning": "oleh-oleh"
+  },
+  {
+    "level": "N5",
+    "term": "なん",
+    "reading": "",
+    "meaning": "apa"
+  },
+  {
+    "level": "N5",
+    "term": "なに",
+    "reading": "",
+    "meaning": "apa"
+  },
+  {
+    "level": "N5",
+    "term": "そう",
+    "reading": "",
+    "meaning": "begitu"
+  },
+  {
+    "level": "N5",
+    "term": "これ",
+    "reading": "",
+    "meaning": "ini"
+  },
+  {
+    "level": "N5",
+    "term": "それ",
+    "reading": "",
+    "meaning": "itu"
+  },
+  {
+    "level": "N5",
+    "term": "あれ",
+    "reading": "",
+    "meaning": "itu (jauh)"
+  },
+  {
+    "level": "N5",
+    "term": "この～",
+    "reading": "",
+    "meaning": "ini"
+  },
+  {
+    "level": "N5",
+    "term": "その～",
+    "reading": "",
+    "meaning": "itu"
+  },
+  {
+    "level": "N5",
+    "term": "あの～",
+    "reading": "",
+    "meaning": "itu (jauh)"
+  },
+  {
+    "level": "N5",
+    "term": "ほん",
+    "reading": "",
+    "meaning": "buku"
+  },
+  {
+    "level": "N5",
+    "term": "じしょ",
+    "reading": "",
+    "meaning": "kamus"
+  },
+  {
+    "level": "N5",
+    "term": "ざっし",
+    "reading": "",
+    "meaning": "majalah"
+  },
+  {
+    "level": "N5",
+    "term": "しんぶん",
+    "reading": "",
+    "meaning": "koran\nsurat kabar"
+  },
+  {
+    "level": "N5",
+    "term": "てちょう",
+    "reading": "",
+    "meaning": "buku agenda"
+  },
+  {
+    "level": "N5",
+    "term": "めいし",
+    "reading": "",
+    "meaning": "kartu nama"
+  },
+  {
+    "level": "N5",
+    "term": "えんぴつ",
+    "reading": "",
+    "meaning": "pensil"
+  },
+  {
+    "level": "N5",
+    "term": "かぎ",
+    "reading": "",
+    "meaning": "kunci"
+  },
+  {
+    "level": "N5",
+    "term": "とけい",
+    "reading": "",
+    "meaning": "jam\narloji"
+  },
+  {
+    "level": "N5",
+    "term": "かさ",
+    "reading": "",
+    "meaning": "payung"
+  },
+  {
+    "level": "N5",
+    "term": "かばん",
+    "reading": "",
+    "meaning": "tas"
+  },
+  {
+    "level": "N5",
+    "term": "ノート",
+    "reading": "",
+    "meaning": "buku tulis\nbuku catatan"
+  },
+  {
+    "level": "N5",
+    "term": "カード",
+    "reading": "",
+    "meaning": "kartu"
+  },
+  {
+    "level": "N5",
+    "term": "ボールペン",
+    "reading": "",
+    "meaning": "pulpen"
+  },
+  {
+    "level": "N5",
+    "term": "シャープペンシル",
+    "reading": "",
+    "meaning": "pensil mekanik\npensil isi"
+  },
+  {
+    "level": "N5",
+    "term": "テレビ",
+    "reading": "",
+    "meaning": "televisi"
+  },
+  {
+    "level": "N5",
+    "term": "ラジオ",
+    "reading": "",
+    "meaning": "radio"
+  },
+  {
+    "level": "N5",
+    "term": "カメラ",
+    "reading": "",
+    "meaning": "kamera"
+  },
+  {
+    "level": "N5",
+    "term": "コンピューター",
+    "reading": "",
+    "meaning": "komputer"
+  },
+  {
+    "level": "N5",
+    "term": "チョコレート",
+    "reading": "",
+    "meaning": "coklat"
+  },
+  {
+    "level": "N5",
+    "term": "コーヒー",
+    "reading": "",
+    "meaning": "kopi"
+  },
+  {
+    "level": "N5",
+    "term": "あのう",
+    "reading": "",
+    "meaning": "ee..\ndigunakan saat jeda berpikir saat berbicara"
+  },
+  {
+    "level": "N5",
+    "term": "どうぞ",
+    "reading": "",
+    "meaning": "silakan\ndigunakan ketika menawarkan/memberi sesuatu"
+  },
+  {
+    "level": "N5",
+    "term": "[どうも]ありがとう ございます",
+    "reading": "",
+    "meaning": "terima kasih banyak"
+  },
+  {
+    "level": "N5",
+    "term": "そうですか",
+    "reading": "",
+    "meaning": "oh begitu..?\noh iya..?"
+  },
+  {
+    "level": "N5",
+    "term": "ちがいます",
+    "reading": "",
+    "meaning": "bukan\ntidak\nsalah"
+  },
+  {
+    "level": "N5",
+    "term": "これから おせわに なります",
+    "reading": "",
+    "meaning": "mulai sekarang saya mohon bantuannya"
+  },
+  {
+    "level": "N5",
+    "term": "こちらこそ どうぞ よろしく おねがいします",
+    "reading": "",
+    "meaning": "iya sama-sama\njawaban dari\nどうぞ よろしく おねがいします"
+  },
+  {
+    "level": "N5",
+    "term": "ここ",
+    "reading": "",
+    "meaning": "sini"
+  },
+  {
+    "level": "N5",
+    "term": "そこ",
+    "reading": "",
+    "meaning": "situ"
+  },
+  {
+    "level": "N5",
+    "term": "あそこ",
+    "reading": "",
+    "meaning": "sana"
+  },
+  {
+    "level": "N5",
+    "term": "どこ",
+    "reading": "",
+    "meaning": "(di) mana"
+  },
+  {
+    "level": "N5",
+    "term": "こちら",
+    "reading": "",
+    "meaning": "sini (sopan)"
+  },
+  {
+    "level": "N5",
+    "term": "そちら",
+    "reading": "",
+    "meaning": "situ (sopan)"
+  },
+  {
+    "level": "N5",
+    "term": "あちら",
+    "reading": "",
+    "meaning": "sana (sopan)"
+  },
+  {
+    "level": "N5",
+    "term": "どちら",
+    "reading": "",
+    "meaning": "yang mana"
+  },
+  {
+    "level": "N5",
+    "term": "きょうしつ",
+    "reading": "",
+    "meaning": "ruang kelas"
+  },
+  {
+    "level": "N5",
+    "term": "しょくどう",
+    "reading": "",
+    "meaning": "kantin\nruang makan"
+  },
+  {
+    "level": "N5",
+    "term": "じむしょ",
+    "reading": "",
+    "meaning": "kantor"
+  },
+  {
+    "level": "N5",
+    "term": "かいぎしつ",
+    "reading": "",
+    "meaning": "ruang rapat"
+  },
+  {
+    "level": "N5",
+    "term": "うけつけ",
+    "reading": "",
+    "meaning": "meja informasi"
+  },
+  {
+    "level": "N5",
+    "term": "ロビー",
+    "reading": "",
+    "meaning": "lobi, ruang tunggu"
+  },
+  {
+    "level": "N5",
+    "term": "へや",
+    "reading": "",
+    "meaning": "kamar"
+  },
+  {
+    "level": "N5",
+    "term": "トイレ",
+    "reading": "おてあらい",
+    "meaning": "toilet\nkamar kecil"
+  },
+  {
+    "level": "N5",
+    "term": "かいだん",
+    "reading": "",
+    "meaning": "tangga"
+  },
+  {
+    "level": "N5",
+    "term": "エレベーター",
+    "reading": "",
+    "meaning": "lift\nelevator"
+  },
+  {
+    "level": "N5",
+    "term": "エスカレーター",
+    "reading": "",
+    "meaning": "tangga berjalan\neskalator"
+  },
+  {
+    "level": "N5",
+    "term": "じどうはんばいき",
+    "reading": "",
+    "meaning": "mesin penjual otomatis"
+  },
+  {
+    "level": "N5",
+    "term": "でんわ",
+    "reading": "",
+    "meaning": "telepon"
+  },
+  {
+    "level": "N5",
+    "term": "かいしゃ",
+    "reading": "",
+    "meaning": "perusahaan"
+  },
+  {
+    "level": "N5",
+    "term": "うち",
+    "reading": "",
+    "meaning": "rumah"
+  },
+  {
+    "level": "N5",
+    "term": "くつ",
+    "reading": "",
+    "meaning": "sepatu"
+  },
+  {
+    "level": "N5",
+    "term": "ネクタイ",
+    "reading": "",
+    "meaning": "dasi"
+  },
+  {
+    "level": "N5",
+    "term": "ワイン",
+    "reading": "",
+    "meaning": "anggur wine"
+  },
+  {
+    "level": "N5",
+    "term": "うりば",
+    "reading": "",
+    "meaning": "tempat penjualan"
+  },
+  {
+    "level": "N5",
+    "term": "ちか",
+    "reading": "",
+    "meaning": "bawah tanah\nbasement"
+  },
+  {
+    "level": "N5",
+    "term": "ーかい",
+    "reading": "ーがい",
+    "meaning": "lantai..\ntingkat.."
+  },
+  {
+    "level": "N5",
+    "term": "なんがい",
+    "reading": "",
+    "meaning": "lantai berapa"
+  },
+  {
+    "level": "N5",
+    "term": "ーえん",
+    "reading": "",
+    "meaning": "..yen"
+  },
+  {
+    "level": "N5",
+    "term": "いくら",
+    "reading": "",
+    "meaning": "berapa"
+  },
+  {
+    "level": "N5",
+    "term": "ひゃく",
+    "reading": "",
+    "meaning": "ratus"
+  },
+  {
+    "level": "N5",
+    "term": "せん",
+    "reading": "",
+    "meaning": "ribu"
+  },
+  {
+    "level": "N5",
+    "term": "まん",
+    "reading": "",
+    "meaning": "puluh ribu"
+  },
+  {
+    "level": "N5",
+    "term": "すみません",
+    "reading": "",
+    "meaning": "maaf"
+  },
+  {
+    "level": "N5",
+    "term": "どうも",
+    "reading": "",
+    "meaning": "terima kasih"
+  },
+  {
+    "level": "N5",
+    "term": "いらっしゃいませ",
+    "reading": "",
+    "meaning": "selamat datang, bisa saya bantu?\nucapan kepada tamu yang masuk ke toko"
+  },
+  {
+    "level": "N5",
+    "term": "～ください",
+    "reading": "",
+    "meaning": "tolong.."
+  },
+  {
+    "level": "N5",
+    "term": "みせてください",
+    "reading": "",
+    "meaning": "tolong perlihatkan"
+  },
+  {
+    "level": "N5",
+    "term": "じゃ",
+    "reading": "",
+    "meaning": "baiklah, kalau begitu.."
+  },
+  {
+    "level": "N5",
+    "term": "～から",
+    "reading": "",
+    "meaning": "karena"
+  },
+  {
+    "level": "N5",
+    "term": "～まで",
+    "reading": "",
+    "meaning": "sampai.."
+  },
+  {
+    "level": "N5",
+    "term": "～と",
+    "reading": "",
+    "meaning": "dan\nkata sambung"
+  },
+  {
+    "level": "N5",
+    "term": "たいへん",
+    "reading": "",
+    "meaning": "berat"
+  },
+  {
+    "level": "N5",
+    "term": "たいへんですね",
+    "reading": "",
+    "meaning": "berat ya..\nuntuk menyatakan simpati"
+  },
+  {
+    "level": "N5",
+    "term": "ばんごう",
+    "reading": "",
+    "meaning": "nomor"
+  },
+  {
+    "level": "N5",
+    "term": "なんばん",
+    "reading": "",
+    "meaning": "nomor berapa"
+  },
+  {
+    "level": "N5",
+    "term": "しけん",
+    "reading": "",
+    "meaning": "ujian"
+  },
+  {
+    "level": "N5",
+    "term": "かいぎ",
+    "reading": "",
+    "meaning": "rapat"
+  },
+  {
+    "level": "N5",
+    "term": "えいが",
+    "reading": "",
+    "meaning": "film"
+  },
+  {
+    "level": "N5",
+    "term": "まいあさ",
+    "reading": "",
+    "meaning": "setiap pagi"
+  },
+  {
+    "level": "N5",
+    "term": "まいばん",
+    "reading": "",
+    "meaning": "setiap malam"
+  },
+  {
+    "level": "N5",
+    "term": "まいにち",
+    "reading": "",
+    "meaning": "setiap hari"
+  },
+  {
+    "level": "N5",
+    "term": "げつようび",
+    "reading": "",
+    "meaning": "hari senin"
+  },
+  {
+    "level": "N5",
+    "term": "かようび",
+    "reading": "",
+    "meaning": "hari selasa"
+  },
+  {
+    "level": "N5",
+    "term": "すいようび",
+    "reading": "",
+    "meaning": "hari rabu"
+  },
+  {
+    "level": "N5",
+    "term": "もくようび",
+    "reading": "",
+    "meaning": "hari kamis"
+  },
+  {
+    "level": "N5",
+    "term": "きんようび",
+    "reading": "",
+    "meaning": "hari jumat"
+  },
+  {
+    "level": "N5",
+    "term": "どようび",
+    "reading": "",
+    "meaning": "hari sabtu"
+  },
+  {
+    "level": "N5",
+    "term": "にちようび",
+    "reading": "",
+    "meaning": "hari minggu"
+  },
+  {
+    "level": "N5",
+    "term": "なんようび",
+    "reading": "",
+    "meaning": "hari apa"
+  },
+  {
+    "level": "N5",
+    "term": "やすみ",
+    "reading": "",
+    "meaning": "istirahat\ncuti\nlibur"
+  },
+  {
+    "level": "N5",
+    "term": "ひるやすみ",
+    "reading": "",
+    "meaning": "istirahat siang"
+  },
+  {
+    "level": "N5",
+    "term": "けさ",
+    "reading": "",
+    "meaning": "pagi ini\ntadi pagi"
+  },
+  {
+    "level": "N5",
+    "term": "こんばん",
+    "reading": "",
+    "meaning": "malam ini\nnanti malam"
+  },
+  {
+    "level": "N5",
+    "term": "あさって",
+    "reading": "",
+    "meaning": "lusa"
+  },
+  {
+    "level": "N5",
+    "term": "あした",
+    "reading": "",
+    "meaning": "besok"
+  },
+  {
+    "level": "N5",
+    "term": "きょう",
+    "reading": "",
+    "meaning": "hari ini"
+  },
+  {
+    "level": "N5",
+    "term": "きのう",
+    "reading": "",
+    "meaning": "kemarin"
+  },
+  {
+    "level": "N5",
+    "term": "おととい",
+    "reading": "",
+    "meaning": "kemarin lusa"
+  },
+  {
+    "level": "N5",
+    "term": "あさ",
+    "reading": "",
+    "meaning": "pagi"
+  },
+  {
+    "level": "N5",
+    "term": "ひる",
+    "reading": "",
+    "meaning": "siang"
+  },
+  {
+    "level": "N5",
+    "term": "ばん",
+    "reading": "よる",
+    "meaning": "malam"
+  },
+  {
+    "level": "N5",
+    "term": "ごぜん",
+    "reading": "",
+    "meaning": "AM\njam 12 malam - jam 12 siang"
+  },
+  {
+    "level": "N5",
+    "term": "ごご",
+    "reading": "",
+    "meaning": "PM\njam 12 siang - jam 12 malam"
+  },
+  {
+    "level": "N5",
+    "term": "おきます",
+    "reading": "",
+    "meaning": "menaruh, meletakan, bangun, terjadi"
+  },
+  {
+    "level": "N5",
+    "term": "ねます",
+    "reading": "",
+    "meaning": "tidur"
+  },
+  {
+    "level": "N5",
+    "term": "はたらきます",
+    "reading": "",
+    "meaning": "bekerja"
+  },
+  {
+    "level": "N5",
+    "term": "やすみます",
+    "reading": "",
+    "meaning": "beristirahat\nlibur"
+  },
+  {
+    "level": "N5",
+    "term": "べんきょうします",
+    "reading": "",
+    "meaning": "belajar"
+  },
+  {
+    "level": "N5",
+    "term": "おわります",
+    "reading": "",
+    "meaning": "selesai"
+  },
+  {
+    "level": "N5",
+    "term": "デパート",
+    "reading": "",
+    "meaning": "departement store"
+  },
+  {
+    "level": "N5",
+    "term": "ぎんこう",
+    "reading": "",
+    "meaning": "bank"
+  },
+  {
+    "level": "N5",
+    "term": "ゆうびんきょく",
+    "reading": "",
+    "meaning": "kantor pos"
+  },
+  {
+    "level": "N5",
+    "term": "としょかん",
+    "reading": "",
+    "meaning": "perpustakaan"
+  },
+  {
+    "level": "N5",
+    "term": "びじゅつかん",
+    "reading": "",
+    "meaning": "gedung kesenian"
+  },
+  {
+    "level": "N5",
+    "term": "いま",
+    "reading": "",
+    "meaning": "sekarang"
+  },
+  {
+    "level": "N5",
+    "term": "ーじ",
+    "reading": "",
+    "meaning": "jam.."
+  },
+  {
+    "level": "N5",
+    "term": "ーふん",
+    "reading": "ーぶん",
+    "meaning": "..menit"
+  },
+  {
+    "level": "N5",
+    "term": "はん",
+    "reading": "",
+    "meaning": "setengah"
+  },
+  {
+    "level": "N5",
+    "term": "なんじ",
+    "reading": "",
+    "meaning": "jam berapa"
+  },
+  {
+    "level": "N5",
+    "term": "なんぷん",
+    "reading": "",
+    "meaning": "berapa menit"
+  },
+  {
+    "level": "N5",
+    "term": "いきます",
+    "reading": "",
+    "meaning": "pergi"
+  },
+  {
+    "level": "N5",
+    "term": "きます",
+    "reading": "",
+    "meaning": "datang,\nmemakai (kemeja, atasan)"
+  },
+  {
+    "level": "N5",
+    "term": "かえります",
+    "reading": "",
+    "meaning": "pulang"
+  },
+  {
+    "level": "N5",
+    "term": "がっこう",
+    "reading": "",
+    "meaning": "sekolah"
+  },
+  {
+    "level": "N5",
+    "term": "スーパー",
+    "reading": "",
+    "meaning": "supermarket"
+  },
+  {
+    "level": "N5",
+    "term": "えき",
+    "reading": "",
+    "meaning": "stasiun"
+  },
+  {
+    "level": "N5",
+    "term": "ひこうき",
+    "reading": "",
+    "meaning": "pesawat terbang"
+  },
+  {
+    "level": "N5",
+    "term": "ふね",
+    "reading": "",
+    "meaning": "kapal laut"
+  },
+  {
+    "level": "N5",
+    "term": "でんしゃ",
+    "reading": "",
+    "meaning": "kereta listrik"
+  },
+  {
+    "level": "N5",
+    "term": "ちかてつ",
+    "reading": "",
+    "meaning": "kereta bawah tanah"
+  },
+  {
+    "level": "N5",
+    "term": "しんかんせん",
+    "reading": "",
+    "meaning": "shinkansen"
+  },
+  {
+    "level": "N5",
+    "term": "バス",
+    "reading": "",
+    "meaning": "bis"
+  },
+  {
+    "level": "N5",
+    "term": "タクシー",
+    "reading": "",
+    "meaning": "taksi"
+  },
+  {
+    "level": "N5",
+    "term": "じてんしゃ",
+    "reading": "",
+    "meaning": "sepeda"
+  },
+  {
+    "level": "N5",
+    "term": "あるいて",
+    "reading": "",
+    "meaning": "berjalan kaki"
+  },
+  {
+    "level": "N5",
+    "term": "ひと",
+    "reading": "",
+    "meaning": "orang"
+  },
+  {
+    "level": "N5",
+    "term": "ともだち",
+    "reading": "",
+    "meaning": "teman"
+  },
+  {
+    "level": "N5",
+    "term": "かれ",
+    "reading": "",
+    "meaning": "dia (lk)"
+  },
+  {
+    "level": "N5",
+    "term": "かのじょ",
+    "reading": "",
+    "meaning": "dia (pr)"
+  },
+  {
+    "level": "N5",
+    "term": "かぞく",
+    "reading": "",
+    "meaning": "keluarga"
+  },
+  {
+    "level": "N5",
+    "term": "ひとりで",
+    "reading": "",
+    "meaning": "sendirian"
+  },
+  {
+    "level": "N5",
+    "term": "せんしゅう",
+    "reading": "",
+    "meaning": "minggu lalu"
+  },
+  {
+    "level": "N5",
+    "term": "こんしゅう",
+    "reading": "",
+    "meaning": "minggu ini"
+  },
+  {
+    "level": "N5",
+    "term": "らいしゅう",
+    "reading": "",
+    "meaning": "minggu depan"
+  },
+  {
+    "level": "N5",
+    "term": "せんげつ",
+    "reading": "",
+    "meaning": "bulan lalu"
+  },
+  {
+    "level": "N5",
+    "term": "こんげつ",
+    "reading": "",
+    "meaning": "bulan ini"
+  },
+  {
+    "level": "N5",
+    "term": "らいげつ",
+    "reading": "",
+    "meaning": "bulan depan"
+  },
+  {
+    "level": "N5",
+    "term": "きょねん",
+    "reading": "",
+    "meaning": "tahun lalu"
+  },
+  {
+    "level": "N5",
+    "term": "ことし",
+    "reading": "",
+    "meaning": "tahun ini"
+  },
+  {
+    "level": "N5",
+    "term": "らいねん",
+    "reading": "",
+    "meaning": "tahun depan"
+  },
+  {
+    "level": "N5",
+    "term": "ーねん",
+    "reading": "",
+    "meaning": "... tahun"
+  },
+  {
+    "level": "N5",
+    "term": "なんねん",
+    "reading": "",
+    "meaning": "tahun berapa"
+  },
+  {
+    "level": "N5",
+    "term": "ーがつ",
+    "reading": "",
+    "meaning": "bulan.."
+  },
+  {
+    "level": "N5",
+    "term": "なんがつ",
+    "reading": "",
+    "meaning": "bulan apa"
+  },
+  {
+    "level": "N5",
+    "term": "いつ",
+    "reading": "",
+    "meaning": "kapan"
+  },
+  {
+    "level": "N5",
+    "term": "[お]たんじょうび",
+    "reading": "",
+    "meaning": "hari ulang tahun"
+  },
+  {
+    "level": "N5",
+    "term": "そうですね",
+    "reading": "",
+    "meaning": "bagaimana ya.."
+  },
+  {
+    "level": "N5",
+    "term": "どう いたし まして",
+    "reading": "",
+    "meaning": "sama-sama\njawaban\nありがとう ございます"
+  },
+  {
+    "level": "N5",
+    "term": "すぎ",
+    "reading": "すぎの",
+    "meaning": "berikutnya\nsetelahnya"
+  },
+  {
+    "level": "N5",
+    "term": "ふつう",
+    "reading": "",
+    "meaning": "biasa"
+  },
+  {
+    "level": "N5",
+    "term": "きゅうこう",
+    "reading": "",
+    "meaning": "ekspres"
+  },
+  {
+    "level": "N5",
+    "term": "とっきゅう",
+    "reading": "",
+    "meaning": "super ekspres"
+  },
+  {
+    "level": "N5",
+    "term": "ーばんせん",
+    "reading": "",
+    "meaning": "peron nomor.."
+  },
+  {
+    "level": "N5",
+    "term": "ついたち",
+    "reading": "",
+    "meaning": "tanggal 1"
+  },
+  {
+    "level": "N5",
+    "term": "ふつか",
+    "reading": "",
+    "meaning": "tanggal 2\n2 hari"
+  },
+  {
+    "level": "N5",
+    "term": "みっか",
+    "reading": "",
+    "meaning": "tanggal 3\n3 hari"
+  },
+  {
+    "level": "N5",
+    "term": "よっか",
+    "reading": "",
+    "meaning": "tanggal 4\n4 hari"
+  },
+  {
+    "level": "N5",
+    "term": "いつか",
+    "reading": "",
+    "meaning": "tanggal 5\n5 hari"
+  },
+  {
+    "level": "N5",
+    "term": "むいか",
+    "reading": "",
+    "meaning": "tanggal 6\n6 hari"
+  },
+  {
+    "level": "N5",
+    "term": "なのか",
+    "reading": "",
+    "meaning": "tanggal 7\n7 hari"
+  },
+  {
+    "level": "N5",
+    "term": "ようか",
+    "reading": "",
+    "meaning": "tanggal 8\n8 hari"
+  },
+  {
+    "level": "N5",
+    "term": "ここのか",
+    "reading": "",
+    "meaning": "tanggal 9\n9 hari"
+  },
+  {
+    "level": "N5",
+    "term": "とおか",
+    "reading": "",
+    "meaning": "tanggal 10\n10 hari"
+  },
+  {
+    "level": "N5",
+    "term": "じゅうよっか",
+    "reading": "",
+    "meaning": "tanggal 14\n14 hari"
+  },
+  {
+    "level": "N5",
+    "term": "はつか",
+    "reading": "",
+    "meaning": "tanggal 20\n20 hari"
+  },
+  {
+    "level": "N5",
+    "term": "にじゅうよっか",
+    "reading": "",
+    "meaning": "tanggal 24\n24 hari"
+  },
+  {
+    "level": "N5",
+    "term": "ーにち",
+    "reading": "",
+    "meaning": "tanggal..\n..hari"
+  },
+  {
+    "level": "N5",
+    "term": "なんにち",
+    "reading": "",
+    "meaning": "tanggal berapa\nberapa hari"
+  },
+  {
+    "level": "N5",
+    "term": "のります",
+    "reading": "",
+    "meaning": "naik"
+  },
+  {
+    "level": "N5",
+    "term": "おります",
+    "reading": "",
+    "meaning": "turun"
+  },
+  {
+    "level": "N5",
+    "term": "のりかえます",
+    "reading": "",
+    "meaning": "pindah\nganti"
+  },
+  {
+    "level": "N5",
+    "term": "あびます",
+    "reading": "",
+    "meaning": "mandi"
+  },
+  {
+    "level": "N5",
+    "term": "いれます",
+    "reading": "",
+    "meaning": "memasukkan"
+  },
+  {
+    "level": "N5",
+    "term": "だします",
+    "reading": "",
+    "meaning": "mengeluarkan\nmenyerahkan\nmengirim"
+  },
+  {
+    "level": "N5",
+    "term": "おろします",
+    "reading": "",
+    "meaning": "mengeluarkan\nmengambil\n(misalnya uang)"
+  },
+  {
+    "level": "N5",
+    "term": "おします",
+    "reading": "",
+    "meaning": "menekan"
+  },
+  {
+    "level": "N5",
+    "term": "はじめます",
+    "reading": "",
+    "meaning": "mulai"
+  },
+  {
+    "level": "N5",
+    "term": "けんがくします",
+    "reading": "",
+    "meaning": "mengunjungi"
+  },
+  {
+    "level": "N5",
+    "term": "でんわします",
+    "reading": "",
+    "meaning": "menelepon"
+  },
+  {
+    "level": "N5",
+    "term": "わかい",
+    "reading": "",
+    "meaning": "muda"
+  },
+  {
+    "level": "N5",
+    "term": "ながい",
+    "reading": "",
+    "meaning": "panjang"
+  },
+  {
+    "level": "N5",
+    "term": "みじかい",
+    "reading": "",
+    "meaning": "pendek"
+  },
+  {
+    "level": "N5",
+    "term": "あかるい",
+    "reading": "",
+    "meaning": "terang"
+  },
+  {
+    "level": "N5",
+    "term": "くらい",
+    "reading": "",
+    "meaning": "gelap"
+  },
+  {
+    "level": "N5",
+    "term": "からだ",
+    "reading": "",
+    "meaning": "badan"
+  },
+  {
+    "level": "N5",
+    "term": "あたま",
+    "reading": "",
+    "meaning": "kepala"
+  },
+  {
+    "level": "N5",
+    "term": "かお",
+    "reading": "",
+    "meaning": "wajah"
+  },
+  {
+    "level": "N5",
+    "term": "め",
+    "reading": "",
+    "meaning": "mata"
+  },
+  {
+    "level": "N5",
+    "term": "みみ",
+    "reading": "",
+    "meaning": "telinga"
+  },
+  {
+    "level": "N5",
+    "term": "くち",
+    "reading": "",
+    "meaning": "mulut"
+  },
+  {
+    "level": "N5",
+    "term": "は",
+    "reading": "",
+    "meaning": "gigi"
+  },
+  {
+    "level": "N5",
+    "term": "おなか",
+    "reading": "",
+    "meaning": "perut"
+  },
+  {
+    "level": "N5",
+    "term": "あし",
+    "reading": "",
+    "meaning": "kaki"
+  },
+  {
+    "level": "N5",
+    "term": "せ",
+    "reading": "",
+    "meaning": "punggung"
+  },
+  {
+    "level": "N5",
+    "term": "サービス",
+    "reading": "",
+    "meaning": "pelayanan"
+  },
+  {
+    "level": "N5",
+    "term": "ジョギング",
+    "reading": "",
+    "meaning": "joging"
+  },
+  {
+    "level": "N5",
+    "term": "シャワー",
+    "reading": "",
+    "meaning": "shower"
+  },
+  {
+    "level": "N5",
+    "term": "みどり",
+    "reading": "",
+    "meaning": "hijau\ntumbuhan hijau"
+  },
+  {
+    "level": "N5",
+    "term": "てら",
+    "reading": "",
+    "meaning": "wihara"
+  },
+  {
+    "level": "N5",
+    "term": "じんじゃ",
+    "reading": "",
+    "meaning": "kuil shinto"
+  },
+  {
+    "level": "N5",
+    "term": "ーばん",
+    "reading": "",
+    "meaning": "nomor.."
+  },
+  {
+    "level": "N5",
+    "term": "どうやって",
+    "reading": "",
+    "meaning": "dengan cara bagaimana"
+  },
+  {
+    "level": "N5",
+    "term": "どの～",
+    "reading": "",
+    "meaning": "yang mana"
+  },
+  {
+    "level": "N5",
+    "term": "どれ",
+    "reading": "",
+    "meaning": "mana"
+  },
+  {
+    "level": "N5",
+    "term": "すごいですね",
+    "reading": "",
+    "meaning": "hebat"
+  },
+  {
+    "level": "N5",
+    "term": "まだまだです",
+    "reading": "",
+    "meaning": "tidak\nbelum"
+  },
+  {
+    "level": "N5",
+    "term": "ボタン",
+    "reading": "",
+    "meaning": "tombol"
+  },
+  {
+    "level": "N5",
+    "term": "かくにん",
+    "reading": "",
+    "meaning": "cek (mengecek)"
+  },
+  {
+    "level": "N5",
+    "term": "きんがく",
+    "reading": "",
+    "meaning": "jumlah uang"
+  },
+  {
+    "level": "N5",
+    "term": "あんしょうばんごう",
+    "reading": "",
+    "meaning": "PIN"
+  },
+  {
+    "level": "N5",
+    "term": "キャッシュカード",
+    "reading": "",
+    "meaning": "kartu ATM"
+  },
+  {
+    "level": "N5",
+    "term": "おひさだしですか",
+    "reading": "",
+    "meaning": "mau menarik uang?"
+  },
+  {
+    "level": "N5",
+    "term": "まず",
+    "reading": "",
+    "meaning": "pertama-tama\nterlebih dulu"
+  },
+  {
+    "level": "N5",
+    "term": "つぎに",
+    "reading": "",
+    "meaning": "kemudian"
+  },
+  {
+    "level": "N5",
+    "term": "おぼえます",
+    "reading": "",
+    "meaning": "mengingat\nmenghapal"
+  },
+  {
+    "level": "N5",
+    "term": "わすれます",
+    "reading": "",
+    "meaning": "lupa"
+  },
+  {
+    "level": "N5",
+    "term": "なくします",
+    "reading": "",
+    "meaning": "kehilangan"
+  },
+  {
+    "level": "N5",
+    "term": "はらいます",
+    "reading": "",
+    "meaning": "membayar"
+  },
+  {
+    "level": "N5",
+    "term": "かえします",
+    "reading": "",
+    "meaning": "mengembalikan"
+  },
+  {
+    "level": "N5",
+    "term": "でかけます",
+    "reading": "",
+    "meaning": "pergi\nkeluar\nberangkat"
+  },
+  {
+    "level": "N5",
+    "term": "ぬぎます",
+    "reading": "",
+    "meaning": "membuka\n(baju sepatu dll)"
+  },
+  {
+    "level": "N5",
+    "term": "もって いきます",
+    "reading": "",
+    "meaning": "membawa pergi"
+  },
+  {
+    "level": "N5",
+    "term": "もって きます",
+    "reading": "",
+    "meaning": "membawa datang"
+  },
+  {
+    "level": "N5",
+    "term": "しんぱいします",
+    "reading": "",
+    "meaning": "khawatir"
+  },
+  {
+    "level": "N5",
+    "term": "ざんぎょうします",
+    "reading": "",
+    "meaning": "lembur"
+  },
+  {
+    "level": "N5",
+    "term": "しゅっちょうします",
+    "reading": "",
+    "meaning": "dinas"
+  },
+  {
+    "level": "N5",
+    "term": "たいせつ",
+    "reading": "",
+    "meaning": "penting\nbernilai\nberharga"
+  },
+  {
+    "level": "N5",
+    "term": "だいじょうぶ",
+    "reading": "",
+    "meaning": "tidak masalah\nbaik-baik saja"
+  },
+  {
+    "level": "N5",
+    "term": "あぶない",
+    "reading": "",
+    "meaning": "berbahaya"
+  },
+  {
+    "level": "N5",
+    "term": "きんえん",
+    "reading": "",
+    "meaning": "dilarang merokok"
+  },
+  {
+    "level": "N5",
+    "term": "ほけんしょう",
+    "reading": "",
+    "meaning": "kartu asuransi"
+  },
+  {
+    "level": "N5",
+    "term": "ねつ",
+    "reading": "",
+    "meaning": "demam"
+  },
+  {
+    "level": "N5",
+    "term": "びょうき",
+    "reading": "",
+    "meaning": "sakit"
+  },
+  {
+    "level": "N5",
+    "term": "くすり",
+    "reading": "",
+    "meaning": "obat"
+  },
+  {
+    "level": "N5",
+    "term": "おふろ",
+    "reading": "",
+    "meaning": "mandi\ntempat mandi"
+  },
+  {
+    "level": "N5",
+    "term": "うわぎ",
+    "reading": "",
+    "meaning": "baju\njaket"
+  },
+  {
+    "level": "N5",
+    "term": "したぎ",
+    "reading": "",
+    "meaning": "pakaian dalam"
+  },
+  {
+    "level": "N5",
+    "term": "3にち",
+    "reading": "",
+    "meaning": "3 hari"
+  },
+  {
+    "level": "N5",
+    "term": "～までに",
+    "reading": "",
+    "meaning": "sampai dengan\ntentang batas waktu"
+  },
+  {
+    "level": "N5",
+    "term": "ですから",
+    "reading": "",
+    "meaning": "oleh karena itu"
+  },
+  {
+    "level": "N5",
+    "term": "どう しましたか",
+    "reading": "",
+    "meaning": "kenapa?\nada masalah apa?"
+  },
+  {
+    "level": "N5",
+    "term": "のど",
+    "reading": "",
+    "meaning": "tenggorokan"
+  },
+  {
+    "level": "N5",
+    "term": "～いたいです",
+    "reading": "",
+    "meaning": "sakit..."
+  },
+  {
+    "level": "N5",
+    "term": "かぜ",
+    "reading": "",
+    "meaning": "masuk angin"
+  },
+  {
+    "level": "N5",
+    "term": "おだいじに",
+    "reading": "",
+    "meaning": "semoga lekas sembuh"
+  },
+  {
+    "level": "N5",
+    "term": "できます",
+    "reading": "",
+    "meaning": "dapat\nbisa\nmampu"
+  },
+  {
+    "level": "N5",
+    "term": "おらいます",
+    "reading": "",
+    "meaning": "mencuci"
+  },
+  {
+    "level": "N5",
+    "term": "ひきます",
+    "reading": "",
+    "meaning": "tarik"
+  },
+  {
+    "level": "N5",
+    "term": "うたいます",
+    "reading": "",
+    "meaning": "bernyanyi"
+  },
+  {
+    "level": "N5",
+    "term": "あつめます",
+    "reading": "",
+    "meaning": "mengumpulkan"
+  },
+  {
+    "level": "N5",
+    "term": "すてきます",
+    "reading": "",
+    "meaning": "membuang"
+  },
+  {
+    "level": "N5",
+    "term": "かえます",
+    "reading": "",
+    "meaning": "mengubah"
+  },
+  {
+    "level": "N5",
+    "term": "うんてんします",
+    "reading": "",
+    "meaning": "menyetir\nmengendarai"
+  },
+  {
+    "level": "N5",
+    "term": "よやくします",
+    "reading": "",
+    "meaning": "memesan"
+  },
+  {
+    "level": "N5",
+    "term": "メートル",
+    "reading": "",
+    "meaning": "...meter"
+  },
+  {
+    "level": "N5",
+    "term": "ピアノ",
+    "reading": "",
+    "meaning": "piano"
+  },
+  {
+    "level": "N5",
+    "term": "げんきん",
+    "reading": "",
+    "meaning": "uang tunai"
+  },
+  {
+    "level": "N5",
+    "term": "しゅみ",
+    "reading": "",
+    "meaning": "hobi\nkegemaran"
+  },
+  {
+    "level": "N5",
+    "term": "にっき",
+    "reading": "",
+    "meaning": "catatan harian"
+  },
+  {
+    "level": "N5",
+    "term": "おいのり",
+    "reading": "",
+    "meaning": "doa (berdoa)"
+  },
+  {
+    "level": "N5",
+    "term": "かちょう",
+    "reading": "",
+    "meaning": "kepala seksi"
+  },
+  {
+    "level": "N5",
+    "term": "ぶちょう",
+    "reading": "",
+    "meaning": "kepala bagian"
+  },
+  {
+    "level": "N5",
+    "term": "しゃちょう",
+    "reading": "",
+    "meaning": "direktur utama"
+  },
+  {
+    "level": "N5",
+    "term": "どうぶつ",
+    "reading": "",
+    "meaning": "hewan\nbinatang"
+  },
+  {
+    "level": "N5",
+    "term": "うま",
+    "reading": "",
+    "meaning": "kuda"
+  },
+  {
+    "level": "N5",
+    "term": "インターネット",
+    "reading": "",
+    "meaning": "internet"
+  },
+  {
+    "level": "N5",
+    "term": "とくに",
+    "reading": "",
+    "meaning": "terutama\nkhususnya"
+  },
+  {
+    "level": "N5",
+    "term": "なかなか",
+    "reading": "",
+    "meaning": "jarang\ntidak mudah"
+  },
+  {
+    "level": "N5",
+    "term": "ぜひ",
+    "reading": "",
+    "meaning": "benar-benar\nmesti"
+  },
+  {
+    "level": "N5",
+    "term": "ほんとうですか",
+    "reading": "",
+    "meaning": "betul kah?"
+  },
+  {
+    "level": "N5",
+    "term": "のぼります",
+    "reading": "",
+    "meaning": "naik"
+  },
+  {
+    "level": "N5",
+    "term": "とまります",
+    "reading": "",
+    "meaning": "menginap"
+  },
+  {
+    "level": "N5",
+    "term": "そうじします",
+    "reading": "",
+    "meaning": "membersihkan"
+  },
+  {
+    "level": "N5",
+    "term": "せんたくします",
+    "reading": "",
+    "meaning": "mencuci pakaian"
+  },
+  {
+    "level": "N5",
+    "term": "なります",
+    "reading": "",
+    "meaning": "menjadi"
+  },
+  {
+    "level": "N5",
+    "term": "ねむい",
+    "reading": "",
+    "meaning": "mengantuk"
+  },
+  {
+    "level": "N5",
+    "term": "つよい",
+    "reading": "",
+    "meaning": "kuat"
+  },
+  {
+    "level": "N5",
+    "term": "よわい",
+    "reading": "",
+    "meaning": "lemah"
+  },
+  {
+    "level": "N5",
+    "term": "れんしゅう",
+    "reading": "",
+    "meaning": "latihan"
+  },
+  {
+    "level": "N5",
+    "term": "ゴルフ",
+    "reading": "",
+    "meaning": "golf"
+  },
+  {
+    "level": "N5",
+    "term": "すもう",
+    "reading": "",
+    "meaning": "sumo"
+  },
+  {
+    "level": "N5",
+    "term": "ひ",
+    "reading": "",
+    "meaning": "hari"
+  },
+  {
+    "level": "N5",
+    "term": "ちょうし",
+    "reading": "",
+    "meaning": "kondisi"
+  },
+  {
+    "level": "N5",
+    "term": "いちど",
+    "reading": "",
+    "meaning": "sekali"
+  },
+  {
+    "level": "N5",
+    "term": "いちども",
+    "reading": "",
+    "meaning": "sekali-kali\nsatu kali pun\n(negatif)"
+  },
+  {
+    "level": "N5",
+    "term": "だんだん",
+    "reading": "",
+    "meaning": "berangsur-angsur\nlama-kelamaan"
+  },
+  {
+    "level": "N5",
+    "term": "もうすぐ",
+    "reading": "",
+    "meaning": "tidak lama lagi"
+  },
+  {
+    "level": "N5",
+    "term": "おかげさまで",
+    "reading": "",
+    "meaning": "atas berkat\n(ucapan terima kasih)"
+  },
+  {
+    "level": "N5",
+    "term": "かんぱい",
+    "reading": "",
+    "meaning": "toast\nbersulang"
+  },
+  {
+    "level": "N5",
+    "term": "ダイエット",
+    "reading": "",
+    "meaning": "diet"
+  },
+  {
+    "level": "N5",
+    "term": "むい",
+    "reading": "",
+    "meaning": "memaksa\nberlebihan"
+  },
+  {
+    "level": "N5",
+    "term": "からだ",
+    "reading": "",
+    "meaning": "tubuh"
+  },
+  {
+    "level": "N5",
+    "term": "よかったら",
+    "reading": "",
+    "meaning": "kalau mau\nkalau suka"
+  },
+  {
+    "level": "N5",
+    "term": "～けど",
+    "reading": "",
+    "meaning": "tetapi (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "みんなで",
+    "reading": "",
+    "meaning": "kita semua\nkita sama-sama"
+  },
+  {
+    "level": "N5",
+    "term": "おなかが いっぱい です",
+    "reading": "",
+    "meaning": "sudah kenyang"
+  },
+  {
+    "level": "N5",
+    "term": "いります",
+    "reading": "",
+    "meaning": "memerlukan"
+  },
+  {
+    "level": "N5",
+    "term": "しらべます",
+    "reading": "",
+    "meaning": "memeriksa\nmengecek\nmeneliti"
+  },
+  {
+    "level": "N5",
+    "term": "しゅうりします",
+    "reading": "",
+    "meaning": "memperbaiki"
+  },
+  {
+    "level": "N5",
+    "term": "ぼく",
+    "reading": "",
+    "meaning": "saya (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "きみ",
+    "reading": "",
+    "meaning": "kamu (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "～くん",
+    "reading": "",
+    "meaning": "saudara\nbentuk casual dari さん"
+  },
+  {
+    "level": "N5",
+    "term": "うん",
+    "reading": "",
+    "meaning": "ya (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "ううん",
+    "reading": "",
+    "meaning": "tidak\nbukan\n(casual)"
+  },
+  {
+    "level": "N5",
+    "term": "きもの",
+    "reading": "",
+    "meaning": "kimono"
+  },
+  {
+    "level": "N5",
+    "term": "ビザ",
+    "reading": "",
+    "meaning": "visa"
+  },
+  {
+    "level": "N5",
+    "term": "はじめ",
+    "reading": "",
+    "meaning": "awal\npermulaan"
+  },
+  {
+    "level": "N5",
+    "term": "おわり",
+    "reading": "",
+    "meaning": "akhir\nselesai"
+  },
+  {
+    "level": "N5",
+    "term": "こっち",
+    "reading": "",
+    "meaning": "sini (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "そっち",
+    "reading": "",
+    "meaning": "situ (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "あっち",
+    "reading": "",
+    "meaning": "sana (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "どっち",
+    "reading": "",
+    "meaning": "mana (casual)"
+  },
+  {
+    "level": "N5",
+    "term": "おもいます",
+    "reading": "",
+    "meaning": "mengira\nberpikir"
+  },
+  {
+    "level": "N5",
+    "term": "いいます",
+    "reading": "",
+    "meaning": "mengatakan\nberkata"
+  },
+  {
+    "level": "N5",
+    "term": "かちます",
+    "reading": "",
+    "meaning": "menang"
+  },
+  {
+    "level": "N5",
+    "term": "まけます",
+    "reading": "",
+    "meaning": "kalah"
+  },
+  {
+    "level": "N5",
+    "term": "やくにたちます",
+    "reading": "",
+    "meaning": "berguna\nbermanfaat"
+  },
+  {
+    "level": "N5",
+    "term": "うごきます",
+    "reading": "",
+    "meaning": "pindah\nbergerak"
+  },
+  {
+    "level": "N5",
+    "term": "やめます",
+    "reading": "",
+    "meaning": "berhenti (kerja)"
+  },
+  {
+    "level": "N5",
+    "term": "きを つけます",
+    "reading": "",
+    "meaning": "waspada\nhati-hati"
+  },
+  {
+    "level": "N5",
+    "term": "りゅうがくします",
+    "reading": "",
+    "meaning": "study di luar negeri"
+  },
+  {
+    "level": "N5",
+    "term": "むだ",
+    "reading": "",
+    "meaning": "sia-sia\ntidak berguna"
+  },
+  {
+    "level": "N5",
+    "term": "ふべん",
+    "reading": "",
+    "meaning": "tidak praktis"
+  },
+  {
+    "level": "N5",
+    "term": "すごい",
+    "reading": "",
+    "meaning": "hebat"
+  },
+  {
+    "level": "N5",
+    "term": "ほんとう",
+    "reading": "",
+    "meaning": "betul\nbenar"
+  },
+  {
+    "level": "N5",
+    "term": "うそ",
+    "reading": "",
+    "meaning": "bohong"
+  },
+  {
+    "level": "N5",
+    "term": "じどうしゃ",
+    "reading": "",
+    "meaning": "mobil"
+  },
+  {
+    "level": "N5",
+    "term": "こうつう",
+    "reading": "",
+    "meaning": "lalu lintas"
+  },
+  {
+    "level": "N5",
+    "term": "ぶっか",
+    "reading": "",
+    "meaning": "harga barang"
+  },
+  {
+    "level": "N5",
+    "term": "ほうそう",
+    "reading": "",
+    "meaning": "siaran\npengumuman"
+  },
+  {
+    "level": "N5",
+    "term": "ニュース",
+    "reading": "",
+    "meaning": "warta berita"
+  },
+  {
+    "level": "N5",
+    "term": "アニメ",
+    "reading": "",
+    "meaning": "animasi"
+  },
+  {
+    "level": "N5",
+    "term": "マンガ",
+    "reading": "",
+    "meaning": "komik\nmanga"
+  },
+  {
+    "level": "N5",
+    "term": "デザイン",
+    "reading": "",
+    "meaning": "desain"
+  },
+  {
+    "level": "N5",
+    "term": "ゆめ",
+    "reading": "",
+    "meaning": "mimpi"
+  },
+  {
+    "level": "N5",
+    "term": "てんさい",
+    "reading": "",
+    "meaning": "jenius"
+  },
+  {
+    "level": "N5",
+    "term": "しあい",
+    "reading": "",
+    "meaning": "pertandingan"
+  },
+  {
+    "level": "N5",
+    "term": "いけん",
+    "reading": "",
+    "meaning": "pendapat"
+  },
+  {
+    "level": "N5",
+    "term": "はなし",
+    "reading": "",
+    "meaning": "cerita"
+  },
+  {
+    "level": "N5",
+    "term": "ちきゅう",
+    "reading": "",
+    "meaning": "bumi"
+  },
+  {
+    "level": "N5",
+    "term": "つき",
+    "reading": "",
+    "meaning": "bulan"
+  },
+  {
+    "level": "N5",
+    "term": "さいきん",
+    "reading": "",
+    "meaning": "akhir-akhir ini"
+  },
+  {
+    "level": "N5",
+    "term": "たぶん",
+    "reading": "",
+    "meaning": "mungkin\nbarangkali"
+  },
+  {
+    "level": "N5",
+    "term": "きっと",
+    "reading": "",
+    "meaning": "pasti"
+  },
+  {
+    "level": "N5",
+    "term": "ほんとうに",
+    "reading": "",
+    "meaning": "betul-betul\nsungguh"
+  },
+  {
+    "level": "N5",
+    "term": "そんなに",
+    "reading": "",
+    "meaning": "tidak begitu (negatif)"
+  },
+  {
+    "level": "N5",
+    "term": "～に ついて",
+    "reading": "",
+    "meaning": "tentang..."
+  },
+  {
+    "level": "N5",
+    "term": "ひさしぶりですね",
+    "reading": "",
+    "meaning": "lama tidak jumpa"
+  },
+  {
+    "level": "N5",
+    "term": "もちろん",
+    "reading": "",
+    "meaning": "tentu saja"
+  },
+  {
+    "level": "N5",
+    "term": "もう かえらないと",
+    "reading": "",
+    "meaning": "saya harus pulang..."
+  },
+  {
+    "level": "N5",
+    "term": "はきます",
+    "reading": "",
+    "meaning": "memakai\n(sepatu, celana, bawahan)"
+  },
+  {
+    "level": "N5",
+    "term": "かぶります",
+    "reading": "",
+    "meaning": "memakai\n(topi, helm)"
+  },
+  {
+    "level": "N5",
+    "term": "うまれます",
+    "reading": "",
+    "meaning": "lahir"
+  },
+  {
+    "level": "N5",
+    "term": "わたしたち",
+    "reading": "",
+    "meaning": "kami\nkita"
+  },
+  {
+    "level": "N5",
+    "term": "コート",
+    "reading": "",
+    "meaning": "mantel"
+  },
+  {
+    "level": "N5",
+    "term": "セーター",
+    "reading": "",
+    "meaning": "sweater"
+  },
+  {
+    "level": "N5",
+    "term": "スーツ",
+    "reading": "",
+    "meaning": "pakaian setelan"
+  },
+  {
+    "level": "N5",
+    "term": "ぼうし",
+    "reading": "",
+    "meaning": "topi"
+  },
+  {
+    "level": "N5",
+    "term": "めがね",
+    "reading": "",
+    "meaning": "kacamata"
+  },
+  {
+    "level": "N5",
+    "term": "ケーキ",
+    "reading": "",
+    "meaning": "kue"
+  },
+  {
+    "level": "N5",
+    "term": "べんとう",
+    "reading": "",
+    "meaning": "bekal"
+  },
+  {
+    "level": "N5",
+    "term": "ロボット",
+    "reading": "",
+    "meaning": "robot"
+  },
+  {
+    "level": "N5",
+    "term": "ユーモア",
+    "reading": "",
+    "meaning": "humor"
+  },
+  {
+    "level": "N5",
+    "term": "つごう",
+    "reading": "",
+    "meaning": "kondisi"
+  },
+  {
+    "level": "N5",
+    "term": "おめでとう～",
+    "reading": "",
+    "meaning": "selamat..."
+  },
+  {
+    "level": "N5",
+    "term": "おさがしですか",
+    "reading": "",
+    "meaning": "mencari apa?"
+  },
+  {
+    "level": "N5",
+    "term": "では",
+    "reading": "",
+    "meaning": "kalau begitu"
+  },
+  {
+    "level": "N5",
+    "term": "やちん",
+    "reading": "",
+    "meaning": "biaya sewa rumah"
+  },
+  {
+    "level": "N5",
+    "term": "わしつ",
+    "reading": "",
+    "meaning": "kamar ala jepang"
+  },
+  {
+    "level": "N5",
+    "term": "おしいれ",
+    "reading": "",
+    "meaning": "lemari dinding"
+  },
+  {
+    "level": "N5",
+    "term": "ふとん",
+    "reading": "",
+    "meaning": "selimut & kasur kapas"
+  },
+  {
+    "level": "N5",
+    "term": "ダイニングキッチン",
+    "reading": "",
+    "meaning": "ruang makan dengan dapur"
+  },
+  {
+    "level": "N5",
+    "term": "まわします",
+    "reading": "",
+    "meaning": "memutar"
+  },
+  {
+    "level": "N5",
+    "term": "さわります",
+    "reading": "",
+    "meaning": "menyentuh"
+  },
+  {
+    "level": "N5",
+    "term": "あるきます",
+    "reading": "",
+    "meaning": "berjalan kaki"
+  },
+  {
+    "level": "N5",
+    "term": "わたります",
+    "reading": "",
+    "meaning": "menyebrang"
+  },
+  {
+    "level": "N5",
+    "term": "まがります",
+    "reading": "",
+    "meaning": "belok"
+  },
+  {
+    "level": "N5",
+    "term": "さびしい",
+    "reading": "",
+    "meaning": "sepi"
+  },
+  {
+    "level": "N5",
+    "term": "ゆ",
+    "reading": "",
+    "meaning": "air panas"
+  },
+  {
+    "level": "N5",
+    "term": "おと",
+    "reading": "",
+    "meaning": "bunyi\nsuara"
+  },
+  {
+    "level": "N5",
+    "term": "サイズ",
+    "reading": "",
+    "meaning": "ukuran"
+  },
+  {
+    "level": "N5",
+    "term": "こしょう",
+    "reading": "",
+    "meaning": "kerusakan"
+  },
+  {
+    "level": "N5",
+    "term": "みち",
+    "reading": "",
+    "meaning": "jalan"
+  },
+  {
+    "level": "N5",
+    "term": "こうさてん",
+    "reading": "",
+    "meaning": "perempatan"
+  },
+  {
+    "level": "N5",
+    "term": "しんごう",
+    "reading": "",
+    "meaning": "lampu lalu lintas"
+  },
+  {
+    "level": "N5",
+    "term": "かど",
+    "reading": "",
+    "meaning": "sudut"
+  },
+  {
+    "level": "N5",
+    "term": "ちゅうしゃじょう",
+    "reading": "",
+    "meaning": "tempat parkir"
+  },
+  {
+    "level": "N5",
+    "term": "たてもの",
+    "reading": "",
+    "meaning": "gedung"
+  },
+  {
+    "level": "N5",
+    "term": "なんかいも",
+    "reading": "",
+    "meaning": "berkali-kali"
+  },
+  {
+    "level": "N5",
+    "term": "ーめ",
+    "reading": "",
+    "meaning": "yang ke..\n(urutan)"
+  },
+  {
+    "level": "N5",
+    "term": "ほかに",
+    "reading": "",
+    "meaning": "selain\nyang lain"
+  },
+  {
+    "level": "N5",
+    "term": "くれます",
+    "reading": "",
+    "meaning": "diberikan"
+  },
+  {
+    "level": "N5",
+    "term": "なおします",
+    "reading": "",
+    "meaning": "mengoreksi"
+  },
+  {
+    "level": "N5",
+    "term": "つれて いきます",
+    "reading": "",
+    "meaning": "membawa\nmengajak pergi"
+  },
+  {
+    "level": "N5",
+    "term": "つれて きます",
+    "reading": "",
+    "meaning": "membawa datang\nmengajak datang"
+  },
+  {
+    "level": "N5",
+    "term": "しょうかいします",
+    "reading": "",
+    "meaning": "memperkenalkan"
+  },
+  {
+    "level": "N5",
+    "term": "あんないします",
+    "reading": "",
+    "meaning": "mengantarkan"
+  },
+  {
+    "level": "N5",
+    "term": "せつめいします",
+    "reading": "",
+    "meaning": "menjelaskan\nmenerangkan"
+  },
+  {
+    "level": "N5",
+    "term": "おじいさん",
+    "reading": "",
+    "meaning": "kakek"
+  },
+  {
+    "level": "N5",
+    "term": "おばあさん",
+    "reading": "",
+    "meaning": "nenek"
+  },
+  {
+    "level": "N5",
+    "term": "じゅんび",
+    "reading": "",
+    "meaning": "persiapan"
+  },
+  {
+    "level": "N5",
+    "term": "ひっこし",
+    "reading": "",
+    "meaning": "pindah rumah"
+  },
+  {
+    "level": "N5",
+    "term": "おかし",
+    "reading": "",
+    "meaning": "kue"
+  },
+  {
+    "level": "N5",
+    "term": "ホームステイ",
+    "reading": "",
+    "meaning": "homestay"
+  },
+  {
+    "level": "N5",
+    "term": "ざんぶ",
+    "reading": "",
+    "meaning": "semua"
+  },
+  {
+    "level": "N5",
+    "term": "じぶんで",
+    "reading": "",
+    "meaning": "dengan sendiri"
+  },
+  {
+    "level": "N5",
+    "term": "もしもし",
+    "reading": "",
+    "meaning": "halo\n(ketika menelepon)"
+  },
+  {
+    "level": "N5",
+    "term": "てんきん",
+    "reading": "",
+    "meaning": "pindah ke kantor cabang lain"
+  },
+  {
+    "level": "N5",
+    "term": "こと",
+    "reading": "",
+    "meaning": "hal"
+  },
+  {
+    "level": "N5",
+    "term": "がんばります",
+    "reading": "",
+    "meaning": "berusaha\nbekerja keras"
+  },
+  {
+    "level": "N5",
+    "term": "どうぞ おげんきで",
+    "reading": "",
+    "meaning": "semoga sehat selalu\n(ketika perpisahan)"
+  },
+  {
+    "level": "N5",
+    "term": "おせわに なりました",
+    "reading": "",
+    "meaning": "terima kasih atas bantuannya"
+  },
+  {
+    "level": "N5",
+    "term": "かんがえます",
+    "reading": "",
+    "meaning": "berpikir\nmemikirkan"
+  },
+  {
+    "level": "N5",
+    "term": "つきます",
+    "reading": "",
+    "meaning": "tiba\nsampai"
+  },
+  {
+    "level": "N5",
+    "term": "たります",
+    "reading": "",
+    "meaning": "cukup"
+  },
+  {
+    "level": "N5",
+    "term": "いなか",
+    "reading": "",
+    "meaning": "desa\nkampung halaman"
+  },
+  {
+    "level": "N5",
+    "term": "いみ",
+    "reading": "",
+    "meaning": "arti\nmakna"
+  },
+  {
+    "level": "N5",
+    "term": "もし",
+    "reading": "",
+    "meaning": "kalau"
+  },
+  {
+    "level": "N5",
+    "term": "おく",
+    "reading": "",
+    "meaning": "ratus juta"
+  },
+  {
+    "level": "N5",
+    "term": "チャンス",
+    "reading": "",
+    "meaning": "kesempatan"
+  },
+  {
+    "level": "N5",
+    "term": "たべます",
+    "reading": "",
+    "meaning": "makan"
+  },
+  {
+    "level": "N5",
+    "term": "のみます",
+    "reading": "",
+    "meaning": "minum"
+  },
+  {
+    "level": "N5",
+    "term": "すいます",
+    "reading": "",
+    "meaning": "menghisap [rokok]"
+  },
+  {
+    "level": "N5",
+    "term": "みます",
+    "reading": "",
+    "meaning": "melihat, menonton"
+  },
+  {
+    "level": "N5",
+    "term": "ききます",
+    "reading": "",
+    "meaning": "mendengar"
+  },
+  {
+    "level": "N5",
+    "term": "よみます",
+    "reading": "",
+    "meaning": "membaca"
+  },
+  {
+    "level": "N5",
+    "term": "かきます",
+    "reading": "",
+    "meaning": "menulis, menggambar"
+  },
+  {
+    "level": "N5",
+    "term": "かいます",
+    "reading": "",
+    "meaning": "membeli"
+  },
+  {
+    "level": "N5",
+    "term": "とります",
+    "reading": "",
+    "meaning": "mengambil"
+  },
+  {
+    "level": "N5",
+    "term": "します",
+    "reading": "",
+    "meaning": "mengerjakan<br>melakukan<br>berbuat"
+  },
+  {
+    "level": "N5",
+    "term": "あいます",
+    "reading": "",
+    "meaning": "bertemu"
+  },
+  {
+    "level": "N5",
+    "term": "ごはん",
+    "reading": "",
+    "meaning": "nasi"
+  },
+  {
+    "level": "N5",
+    "term": "あさごはん",
+    "reading": "",
+    "meaning": "sarapan"
+  },
+  {
+    "level": "N5",
+    "term": "ひるごはん",
+    "reading": "",
+    "meaning": "makan siang"
+  },
+  {
+    "level": "N5",
+    "term": "ばんごはん",
+    "reading": "",
+    "meaning": "makan malam"
+  },
+  {
+    "level": "N5",
+    "term": "パン",
+    "reading": "",
+    "meaning": "roti"
+  },
+  {
+    "level": "N5",
+    "term": "たまご",
+    "reading": "",
+    "meaning": "telur"
+  },
+  {
+    "level": "N5",
+    "term": "にく",
+    "reading": "",
+    "meaning": "daging"
+  },
+  {
+    "level": "N5",
+    "term": "さかな",
+    "reading": "",
+    "meaning": "ikan"
+  },
+  {
+    "level": "N5",
+    "term": "やさい",
+    "reading": "",
+    "meaning": "sayur"
+  },
+  {
+    "level": "N5",
+    "term": "くだもの",
+    "reading": "",
+    "meaning": "buah-buahan"
+  },
+  {
+    "level": "N5",
+    "term": "みず",
+    "reading": "",
+    "meaning": "air"
+  },
+  {
+    "level": "N5",
+    "term": "おちゃ",
+    "reading": "",
+    "meaning": "teh hijau"
+  },
+  {
+    "level": "N5",
+    "term": "こうちゃ",
+    "reading": "",
+    "meaning": "teh"
+  },
+  {
+    "level": "N5",
+    "term": "ぎゅうにゅう",
+    "reading": "",
+    "meaning": "susu"
+  },
+  {
+    "level": "N5",
+    "term": "ミルク",
+    "reading": "",
+    "meaning": "susu"
+  },
+  {
+    "level": "N5",
+    "term": "ジュース",
+    "reading": "",
+    "meaning": "jus"
+  },
+  {
+    "level": "N5",
+    "term": "ビール",
+    "reading": "",
+    "meaning": "bir"
+  },
+  {
+    "level": "N5",
+    "term": "おさけ",
+    "reading": "",
+    "meaning": "sake, miras"
+  },
+  {
+    "level": "N5",
+    "term": "たばこ",
+    "reading": "",
+    "meaning": "rokok"
+  },
+  {
+    "level": "N5",
+    "term": "てがみ",
+    "reading": "",
+    "meaning": "surat"
+  },
+  {
+    "level": "N5",
+    "term": "レポート",
+    "reading": "",
+    "meaning": "laporan"
+  },
+  {
+    "level": "N5",
+    "term": "しゃしん",
+    "reading": "",
+    "meaning": "foto"
+  },
+  {
+    "level": "N5",
+    "term": "ビデオ",
+    "reading": "",
+    "meaning": "video"
+  },
+  {
+    "level": "N5",
+    "term": "みせ",
+    "reading": "",
+    "meaning": "toko"
+  },
+  {
+    "level": "N5",
+    "term": "にわ",
+    "reading": "",
+    "meaning": "halaman"
+  },
+  {
+    "level": "N5",
+    "term": "しゅくだい",
+    "reading": "",
+    "meaning": "PR<br>pekerjaan rumah"
+  },
+  {
+    "level": "N5",
+    "term": "テニス",
+    "reading": "",
+    "meaning": "tenis"
+  },
+  {
+    "level": "N5",
+    "term": "サッカー",
+    "reading": "",
+    "meaning": "sepak bola"
+  },
+  {
+    "level": "N5",
+    "term": "おはなみ",
+    "reading": "",
+    "meaning": "melihat bunga sakura"
+  },
+  {
+    "level": "N5",
+    "term": "いっしょに",
+    "reading": "",
+    "meaning": "bersama-sama"
+  },
+  {
+    "level": "N5",
+    "term": "ちょっと",
+    "reading": "",
+    "meaning": "sebentar, sedikit"
+  },
+  {
+    "level": "N5",
+    "term": "いつも",
+    "reading": "",
+    "meaning": "selalu"
+  },
+  {
+    "level": "N5",
+    "term": "ときどき",
+    "reading": "",
+    "meaning": "kadang-kadang"
+  },
+  {
+    "level": "N5",
+    "term": "それから",
+    "reading": "",
+    "meaning": "setelah itu, kemudian"
+  },
+  {
+    "level": "N5",
+    "term": "ええ / うん",
+    "reading": "",
+    "meaning": "ya"
+  },
+  {
+    "level": "N5",
+    "term": "いいですね",
+    "reading": "",
+    "meaning": "bagus ya, baik ya"
+  },
+  {
+    "level": "N5",
+    "term": "わかりました",
+    "reading": "",
+    "meaning": "mengerti, baik"
+  },
+  {
+    "level": "N5",
+    "term": "なんですか",
+    "reading": "",
+    "meaning": "apa?"
+  },
+  {
+    "level": "N5",
+    "term": "じゃ また",
+    "reading": "",
+    "meaning": "sampai jumpa"
+  },
+  {
+    "level": "N5",
+    "term": "ちち / おとうさん",
+    "reading": "",
+    "meaning": "ayah"
+  },
+  {
+    "level": "N5",
+    "term": "はは / おかあさん",
+    "reading": "",
+    "meaning": "ibu"
+  },
+  {
+    "level": "N5",
+    "term": "もう",
+    "reading": "",
+    "meaning": "sudah"
+  },
+  {
+    "level": "N5",
+    "term": "まだ",
+    "reading": "",
+    "meaning": "belum"
+  },
+  {
+    "level": "N5",
+    "term": "それから",
+    "reading": "",
+    "meaning": "mulai dari sekarang"
+  },
+  {
+    "level": "N5",
+    "term": "すてきですね",
+    "reading": "",
+    "meaning": "bagus ya, indah ya"
+  },
+  {
+    "level": "N5",
+    "term": "いらっしゃい",
+    "reading": "",
+    "meaning": "selamat datang"
+  },
+  {
+    "level": "N5",
+    "term": "どうぞ おあがり ください",
+    "reading": "",
+    "meaning": "silakan masuk"
+  },
+  {
+    "level": "N5",
+    "term": "しつれいします",
+    "reading": "",
+    "meaning": "permisi"
+  },
+  {
+    "level": "N5",
+    "term": "いかがですか",
+    "reading": "",
+    "meaning": "bagaimana kalau..<br><br>digunakan untuk menawarkan sesuatu"
+  },
+  {
+    "level": "N5",
+    "term": "いただきます",
+    "reading": "",
+    "meaning": "selamat makan<br><br>diucapkan sebelum makan/minum"
+  },
+  {
+    "level": "N5",
+    "term": "ごちそうさまでした",
+    "reading": "",
+    "meaning": "terima kasih hidangannya<br><br>diucapkan setelah makan/minum"
+  },
+  {
+    "level": "N5",
+    "term": "きります",
+    "reading": "",
+    "meaning": "memotong, menggunting"
+  },
+  {
+    "level": "N5",
+    "term": "おくります",
+    "reading": "",
+    "meaning": "mengirim"
+  },
+  {
+    "level": "N5",
+    "term": "あげます",
+    "reading": "",
+    "meaning": "memberikan"
+  },
+  {
+    "level": "N5",
+    "term": "もらいます",
+    "reading": "",
+    "meaning": "menerima, mendapatkan"
+  },
+  {
+    "level": "N5",
+    "term": "かします",
+    "reading": "",
+    "meaning": "meminjamkan, menyewakan"
+  },
+  {
+    "level": "N5",
+    "term": "おしえます",
+    "reading": "",
+    "meaning": "memberitahu"
+  },
+  {
+    "level": "N5",
+    "term": "ならいます",
+    "reading": "",
+    "meaning": "belajar"
+  },
+  {
+    "level": "N5",
+    "term": "かけます",
+    "reading": "",
+    "meaning": "menelpon"
+  },
+  {
+    "level": "N5",
+    "term": "て",
+    "reading": "",
+    "meaning": "tangan"
+  },
+  {
+    "level": "N5",
+    "term": "はし",
+    "reading": "",
+    "meaning": "sumpit"
+  },
+  {
+    "level": "N5",
+    "term": "スプーン",
+    "reading": "",
+    "meaning": "sendok"
+  },
+  {
+    "level": "N5",
+    "term": "ナイフ",
+    "reading": "",
+    "meaning": "pisau"
+  },
+  {
+    "level": "N5",
+    "term": "フォーク",
+    "reading": "",
+    "meaning": "garpu"
+  },
+  {
+    "level": "N5",
+    "term": "はさみ",
+    "reading": "",
+    "meaning": "gunting"
+  },
+  {
+    "level": "N5",
+    "term": "パソコン",
+    "reading": "",
+    "meaning": "komputer, PC"
+  },
+  {
+    "level": "N5",
+    "term": "ケータイ でんわ",
+    "reading": "",
+    "meaning": "handphone"
+  },
+  {
+    "level": "N5",
+    "term": "メール",
+    "reading": "",
+    "meaning": "email"
+  },
+  {
+    "level": "N5",
+    "term": "ねんがじょう",
+    "reading": "",
+    "meaning": "kartu tahun baru"
+  },
+  {
+    "level": "N5",
+    "term": "パンチ",
+    "reading": "",
+    "meaning": "pelubang kertas"
+  },
+  {
+    "level": "N5",
+    "term": "ホッチキス",
+    "reading": "",
+    "meaning": "staples"
+  },
+  {
+    "level": "N5",
+    "term": "セロテープ",
+    "reading": "",
+    "meaning": "selotip"
+  },
+  {
+    "level": "N5",
+    "term": "けしゴム",
+    "reading": "",
+    "meaning": "penghapus"
+  },
+  {
+    "level": "N5",
+    "term": "かみ",
+    "reading": "",
+    "meaning": "kertas"
+  },
+  {
+    "level": "N5",
+    "term": "はな",
+    "reading": "",
+    "meaning": "bunga"
+  },
+  {
+    "level": "N5",
+    "term": "シャツ",
+    "reading": "",
+    "meaning": "kemeja"
+  },
+  {
+    "level": "N5",
+    "term": "プレゼント",
+    "reading": "",
+    "meaning": "hadiah"
+  },
+  {
+    "level": "N5",
+    "term": "にもつ",
+    "reading": "",
+    "meaning": "barang"
+  },
+  {
+    "level": "N5",
+    "term": "おかね",
+    "reading": "",
+    "meaning": "uang"
+  },
+  {
+    "level": "N5",
+    "term": "きっぷ",
+    "reading": "",
+    "meaning": "karcis"
+  },
+  {
+    "level": "N5",
+    "term": "クリスマス",
+    "reading": "",
+    "meaning": "natal"
+  },
+  {
+    "level": "N5",
+    "term": "ハンサム",
+    "reading": "",
+    "meaning": "tampan, gagah"
+  },
+  {
+    "level": "N5",
+    "term": "きれい",
+    "reading": "",
+    "meaning": "cantik, bersih"
+  },
+  {
+    "level": "N5",
+    "term": "しずか",
+    "reading": "",
+    "meaning": "sunyi, tenang"
+  },
+  {
+    "level": "N5",
+    "term": "にぎやか",
+    "reading": "",
+    "meaning": "ramai"
+  },
+  {
+    "level": "N5",
+    "term": "ゆうめい",
+    "reading": "",
+    "meaning": "terkenal"
+  },
+  {
+    "level": "N5",
+    "term": "しんせつ",
+    "reading": "",
+    "meaning": "baik hati"
+  },
+  {
+    "level": "N5",
+    "term": "げんき",
+    "reading": "",
+    "meaning": "sehat, semangat"
+  },
+  {
+    "level": "N5",
+    "term": "ひま",
+    "reading": "",
+    "meaning": "senggang, luang"
+  },
+  {
+    "level": "N5",
+    "term": "べんり",
+    "reading": "",
+    "meaning": "praktis"
+  },
+  {
+    "level": "N5",
+    "term": "すてき",
+    "reading": "",
+    "meaning": "bagus"
+  },
+  {
+    "level": "N5",
+    "term": "おおきい",
+    "reading": "",
+    "meaning": "besar"
+  },
+  {
+    "level": "N5",
+    "term": "ちいさい",
+    "reading": "",
+    "meaning": "kecil"
+  },
+  {
+    "level": "N5",
+    "term": "あたらしい",
+    "reading": "",
+    "meaning": "baru"
+  },
+  {
+    "level": "N5",
+    "term": "ふるい",
+    "reading": "",
+    "meaning": "lama, tua"
+  },
+  {
+    "level": "N5",
+    "term": "いい / よい",
+    "reading": "",
+    "meaning": "baik, bagus"
+  },
+  {
+    "level": "N5",
+    "term": "わるい",
+    "reading": "",
+    "meaning": "buruk, jelek"
+  },
+  {
+    "level": "N5",
+    "term": "あつい",
+    "reading": "",
+    "meaning": "panas"
+  },
+  {
+    "level": "N5",
+    "term": "さむい",
+    "reading": "",
+    "meaning": "dingin (udara)"
+  },
+  {
+    "level": "N5",
+    "term": "つめたい",
+    "reading": "",
+    "meaning": "dingin (benda)"
+  },
+  {
+    "level": "N5",
+    "term": "むずかしい",
+    "reading": "",
+    "meaning": "susah, sulit"
+  },
+  {
+    "level": "N5",
+    "term": "やさしい",
+    "reading": "",
+    "meaning": "gampang, mudah"
+  },
+  {
+    "level": "N5",
+    "term": "たかい",
+    "reading": "",
+    "meaning": "mahal, tinggi"
+  },
+  {
+    "level": "N5",
+    "term": "やすい",
+    "reading": "",
+    "meaning": "murah"
+  },
+  {
+    "level": "N5",
+    "term": "ひくい",
+    "reading": "",
+    "meaning": "rendah"
+  },
+  {
+    "level": "N5",
+    "term": "おもしろい",
+    "reading": "",
+    "meaning": "menarik"
+  },
+  {
+    "level": "N5",
+    "term": "おいしい",
+    "reading": "",
+    "meaning": "enak"
+  },
+  {
+    "level": "N5",
+    "term": "いそがしい",
+    "reading": "",
+    "meaning": "sibuk"
+  },
+  {
+    "level": "N5",
+    "term": "たのしい",
+    "reading": "",
+    "meaning": "senang"
+  },
+  {
+    "level": "N5",
+    "term": "しろい",
+    "reading": "",
+    "meaning": "putih"
+  },
+  {
+    "level": "N5",
+    "term": "くろい",
+    "reading": "",
+    "meaning": "hitam"
+  },
+  {
+    "level": "N5",
+    "term": "あかい",
+    "reading": "",
+    "meaning": "merah"
+  },
+  {
+    "level": "N5",
+    "term": "あおい",
+    "reading": "",
+    "meaning": "biru"
+  },
+  {
+    "level": "N5",
+    "term": "さくら",
+    "reading": "",
+    "meaning": "sakura"
+  },
+  {
+    "level": "N5",
+    "term": "やま",
+    "reading": "",
+    "meaning": "gunung"
+  },
+  {
+    "level": "N5",
+    "term": "まち",
+    "reading": "",
+    "meaning": "kota"
+  },
+  {
+    "level": "N5",
+    "term": "たべもの",
+    "reading": "",
+    "meaning": "makanan"
+  },
+  {
+    "level": "N5",
+    "term": "ところ",
+    "reading": "",
+    "meaning": "tempat"
+  },
+  {
+    "level": "N5",
+    "term": "りょう",
+    "reading": "",
+    "meaning": "asrama"
+  },
+  {
+    "level": "N5",
+    "term": "レストラン",
+    "reading": "",
+    "meaning": "restoran"
+  },
+  {
+    "level": "N5",
+    "term": "せいかつ",
+    "reading": "",
+    "meaning": "kehidupan"
+  },
+  {
+    "level": "N5",
+    "term": "おしごと",
+    "reading": "",
+    "meaning": "pekerjaan"
+  },
+  {
+    "level": "N5",
+    "term": "どう",
+    "reading": "",
+    "meaning": "bagaimana"
+  },
+  {
+    "level": "N5",
+    "term": "どんな～",
+    "reading": "",
+    "meaning": "yang bagaimana"
+  },
+  {
+    "level": "N5",
+    "term": "とても",
+    "reading": "",
+    "meaning": "sangat"
+  },
+  {
+    "level": "N5",
+    "term": "あまり",
+    "reading": "",
+    "meaning": "tidak begitu.."
+  },
+  {
+    "level": "N5",
+    "term": "そして",
+    "reading": "",
+    "meaning": "dan, lalu, kemudian"
+  },
+  {
+    "level": "N5",
+    "term": "～が",
+    "reading": "",
+    "meaning": "tetapi"
+  },
+  {
+    "level": "N5",
+    "term": "でも",
+    "reading": "",
+    "meaning": "tetapi"
+  },
+  {
+    "level": "N5",
+    "term": "おげんきですか",
+    "reading": "",
+    "meaning": "apa kabar?"
+  },
+  {
+    "level": "N5",
+    "term": "もう いっぱい いかがですか",
+    "reading": "",
+    "meaning": "mau tambah lagi?"
+  },
+  {
+    "level": "N5",
+    "term": "けっこうです",
+    "reading": "",
+    "meaning": "sudah cukup"
+  },
+  {
+    "level": "N5",
+    "term": "そろそろ しつれいします",
+    "reading": "",
+    "meaning": "maaf saya mau pamit"
+  },
+  {
+    "level": "N5",
+    "term": "また いらっしゃって ください",
+    "reading": "",
+    "meaning": "silakan datang lagi"
+  },
+  {
+    "level": "N5",
+    "term": "わかります",
+    "reading": "",
+    "meaning": "mengerti"
+  },
+  {
+    "level": "N5",
+    "term": "あります",
+    "reading": "",
+    "meaning": "ada, punya (benda mati)"
+  },
+  {
+    "level": "N5",
+    "term": "すき",
+    "reading": "",
+    "meaning": "suka, gemar"
+  },
+  {
+    "level": "N5",
+    "term": "きらい",
+    "reading": "",
+    "meaning": "tidak suka"
+  },
+  {
+    "level": "N5",
+    "term": "じょうず",
+    "reading": "",
+    "meaning": "pintar"
+  },
+  {
+    "level": "N5",
+    "term": "へた",
+    "reading": "",
+    "meaning": "bodoh"
+  },
+  {
+    "level": "N5",
+    "term": "のみもの",
+    "reading": "",
+    "meaning": "minuman"
+  },
+  {
+    "level": "N5",
+    "term": "りょうり",
+    "reading": "",
+    "meaning": "masakan"
+  },
+  {
+    "level": "N5",
+    "term": "スポーツ",
+    "reading": "",
+    "meaning": "olahraga"
+  },
+  {
+    "level": "N5",
+    "term": "やきゅう",
+    "reading": "",
+    "meaning": "baseball"
+  },
+  {
+    "level": "N5",
+    "term": "ダンス",
+    "reading": "",
+    "meaning": "dansa"
+  },
+  {
+    "level": "N5",
+    "term": "りょこう",
+    "reading": "",
+    "meaning": "wisata, tamasya"
+  },
+  {
+    "level": "N5",
+    "term": "おんがく",
+    "reading": "",
+    "meaning": "musik"
+  },
+  {
+    "level": "N5",
+    "term": "うた",
+    "reading": "",
+    "meaning": "lagu"
+  },
+  {
+    "level": "N5",
+    "term": "クラシック",
+    "reading": "",
+    "meaning": "klasik"
+  },
+  {
+    "level": "N5",
+    "term": "ジュズ",
+    "reading": "",
+    "meaning": "jazz"
+  },
+  {
+    "level": "N5",
+    "term": "コンサート",
+    "reading": "",
+    "meaning": "konser"
+  },
+  {
+    "level": "N5",
+    "term": "カラオケ",
+    "reading": "",
+    "meaning": "karaoke"
+  },
+  {
+    "level": "N5",
+    "term": "かぶき",
+    "reading": "",
+    "meaning": "kabuki<br><br>drama tradisional jepang"
+  },
+  {
+    "level": "N5",
+    "term": "え",
+    "reading": "",
+    "meaning": "gambar"
+  },
+  {
+    "level": "N5",
+    "term": "じ",
+    "reading": "",
+    "meaning": "huruf"
+  },
+  {
+    "level": "N5",
+    "term": "かんじ",
+    "reading": "",
+    "meaning": "kanji"
+  },
+  {
+    "level": "N5",
+    "term": "ひらがな",
+    "reading": "",
+    "meaning": "hiragana"
+  },
+  {
+    "level": "N5",
+    "term": "かたかな",
+    "reading": "",
+    "meaning": "katakana"
+  },
+  {
+    "level": "N5",
+    "term": "ローマじ",
+    "reading": "",
+    "meaning": "huruf latin"
+  },
+  {
+    "level": "N5",
+    "term": "こまかい おかね",
+    "reading": "",
+    "meaning": "uang receh"
+  },
+  {
+    "level": "N5",
+    "term": "チケット",
+    "reading": "",
+    "meaning": "tiket"
+  },
+  {
+    "level": "N5",
+    "term": "じかん",
+    "reading": "",
+    "meaning": "waktu"
+  },
+  {
+    "level": "N5",
+    "term": "ようじ",
+    "reading": "",
+    "meaning": "urusan"
+  },
+  {
+    "level": "N5",
+    "term": "やくそく",
+    "reading": "",
+    "meaning": "janji"
+  },
+  {
+    "level": "N5",
+    "term": "アルバイト",
+    "reading": "",
+    "meaning": "kerja part time"
+  },
+  {
+    "level": "N5",
+    "term": "おっと / しゅじん<br>ごしゅじん",
+    "reading": "",
+    "meaning": "suami"
+  },
+  {
+    "level": "N5",
+    "term": "つま / かない<br>おくさん",
+    "reading": "",
+    "meaning": "istri"
+  },
+  {
+    "level": "N5",
+    "term": "こども",
+    "reading": "",
+    "meaning": "anak"
+  },
+  {
+    "level": "N5",
+    "term": "よく",
+    "reading": "",
+    "meaning": "dengan baik"
+  },
+  {
+    "level": "N5",
+    "term": "だいたい",
+    "reading": "",
+    "meaning": "kira-kira"
+  },
+  {
+    "level": "N5",
+    "term": "たくさん",
+    "reading": "",
+    "meaning": "banyak"
+  },
+  {
+    "level": "N5",
+    "term": "すこし",
+    "reading": "",
+    "meaning": "sedikit"
+  },
+  {
+    "level": "N5",
+    "term": "ぜんぜん",
+    "reading": "",
+    "meaning": "sama sekali"
+  },
+  {
+    "level": "N5",
+    "term": "はやく",
+    "reading": "",
+    "meaning": "dengan cepat"
+  },
+  {
+    "level": "N5",
+    "term": "どうして",
+    "reading": "",
+    "meaning": "kenapa"
+  },
+  {
+    "level": "N5",
+    "term": "また こんど おねがいします",
+    "reading": "",
+    "meaning": "maaf lain kali saja"
+  },
+  {
+    "level": "N5",
+    "term": "だめですか",
+    "reading": "",
+    "meaning": "tidak bisa ya?<br>tidak boleh ya?"
+  },
+  {
+    "level": "N5",
+    "term": "ちょっと...",
+    "reading": "",
+    "meaning": "maaf tidak bisa<br><br>untuk menolak secara halus"
+  },
+  {
+    "level": "N5",
+    "term": "いっしょに いかがですか",
+    "reading": "",
+    "meaning": "bagaimana kalau bersama-sama?"
+  },
+  {
+    "level": "N5",
+    "term": "かして ください",
+    "reading": "",
+    "meaning": "tolong pinjamkan"
+  },
+  {
+    "level": "N5",
+    "term": "いいですよ",
+    "reading": "",
+    "meaning": "boleh"
+  },
+  {
+    "level": "N5",
+    "term": "さんねん ですか",
+    "reading": "",
+    "meaning": "sayang sekali"
+  },
+  {
+    "level": "N5",
+    "term": "あります",
+    "reading": "",
+    "meaning": "ada<br>untuk benda mati"
+  },
+  {
+    "level": "N5",
+    "term": "います",
+    "reading": "",
+    "meaning": "ada, punya (makhluk hidup)"
+  },
+  {
+    "level": "N5",
+    "term": "いろいろ",
+    "reading": "",
+    "meaning": "berbagai-macam"
+  },
+  {
+    "level": "N5",
+    "term": "おとこ",
+    "reading": "",
+    "meaning": "laki-laki"
+  },
+  {
+    "level": "N5",
+    "term": "おんな",
+    "reading": "",
+    "meaning": "perempuan"
+  },
+  {
+    "level": "N5",
+    "term": "いぬ",
+    "reading": "",
+    "meaning": "anjing"
+  },
+  {
+    "level": "N5",
+    "term": "ねこ",
+    "reading": "",
+    "meaning": "kucing"
+  },
+  {
+    "level": "N5",
+    "term": "パンダ",
+    "reading": "",
+    "meaning": "panda"
+  },
+  {
+    "level": "N5",
+    "term": "ぞう",
+    "reading": "",
+    "meaning": "gajah"
+  },
+  {
+    "level": "N5",
+    "term": "き",
+    "reading": "",
+    "meaning": "pohon"
+  },
+  {
+    "level": "N5",
+    "term": "もの",
+    "reading": "",
+    "meaning": "barang"
+  },
+  {
+    "level": "N5",
+    "term": "でんち",
+    "reading": "",
+    "meaning": "baterai"
+  },
+  {
+    "level": "N5",
+    "term": "はこ",
+    "reading": "",
+    "meaning": "kotak"
+  },
+  {
+    "level": "N5",
+    "term": "スイッチ",
+    "reading": "",
+    "meaning": "tombol, saklar"
+  },
+  {
+    "level": "N5",
+    "term": "れいぞうこ",
+    "reading": "",
+    "meaning": "kulkas, lemari es"
+  },
+  {
+    "level": "N5",
+    "term": "テーブル",
+    "reading": "",
+    "meaning": "meja"
+  },
+  {
+    "level": "N5",
+    "term": "ベッド",
+    "reading": "",
+    "meaning": "tempat tidur"
+  },
+  {
+    "level": "N5",
+    "term": "たな",
+    "reading": "",
+    "meaning": "lemari"
+  },
+  {
+    "level": "N5",
+    "term": "まど",
+    "reading": "",
+    "meaning": "jendela"
+  },
+  {
+    "level": "N5",
+    "term": "ドア",
+    "reading": "",
+    "meaning": "pintu"
+  },
+  {
+    "level": "N5",
+    "term": "ポスト",
+    "reading": "",
+    "meaning": "kotak surat"
+  },
+  {
+    "level": "N5",
+    "term": "ビル",
+    "reading": "",
+    "meaning": "gedung"
+  },
+  {
+    "level": "N5",
+    "term": "こうえん",
+    "reading": "",
+    "meaning": "taman"
+  },
+  {
+    "level": "N5",
+    "term": "コンビニ",
+    "reading": "",
+    "meaning": "minimarket"
+  },
+  {
+    "level": "N5",
+    "term": "きっさてん",
+    "reading": "",
+    "meaning": "coffe shop"
+  },
+  {
+    "level": "N5",
+    "term": "～や",
+    "reading": "",
+    "meaning": "toko.."
+  },
+  {
+    "level": "N5",
+    "term": "のりば",
+    "reading": "",
+    "meaning": "tempat naik"
+  },
+  {
+    "level": "N5",
+    "term": "けん",
+    "reading": "",
+    "meaning": "prefektur, provinsi"
+  },
+  {
+    "level": "N5",
+    "term": "うえ",
+    "reading": "",
+    "meaning": "atas"
+  },
+  {
+    "level": "N5",
+    "term": "した",
+    "reading": "",
+    "meaning": "bawah"
+  },
+  {
+    "level": "N5",
+    "term": "まえ",
+    "reading": "",
+    "meaning": "depan"
+  },
+  {
+    "level": "N5",
+    "term": "うしろ",
+    "reading": "",
+    "meaning": "belakang"
+  },
+  {
+    "level": "N5",
+    "term": "みぎ",
+    "reading": "",
+    "meaning": "kanan"
+  },
+  {
+    "level": "N5",
+    "term": "ひだり",
+    "reading": "",
+    "meaning": "kiri"
+  },
+  {
+    "level": "N5",
+    "term": "なか",
+    "reading": "",
+    "meaning": "dalam"
+  },
+  {
+    "level": "N5",
+    "term": "そと",
+    "reading": "",
+    "meaning": "luar"
+  },
+  {
+    "level": "N5",
+    "term": "となり",
+    "reading": "",
+    "meaning": "sebelah"
+  },
+  {
+    "level": "N5",
+    "term": "ちかく",
+    "reading": "",
+    "meaning": "dekat"
+  },
+  {
+    "level": "N5",
+    "term": "あいだ",
+    "reading": "",
+    "meaning": "antara"
+  },
+  {
+    "level": "N5",
+    "term": "かかります",
+    "reading": "",
+    "meaning": "perlu\ndigunakan untuk uang atau waktu"
+  },
+  {
+    "level": "N5",
+    "term": "ひとつ",
+    "reading": "",
+    "meaning": "satu\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "ふたつ",
+    "reading": "",
+    "meaning": "dua\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "みっつ",
+    "reading": "",
+    "meaning": "tiga\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "よっつ",
+    "reading": "",
+    "meaning": "empat\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "いつつ",
+    "reading": "",
+    "meaning": "lima\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "むっつ",
+    "reading": "",
+    "meaning": "enam\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "ななつ",
+    "reading": "",
+    "meaning": "tujuh\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "やっつ",
+    "reading": "",
+    "meaning": "delapan\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "ここのつ",
+    "reading": "",
+    "meaning": "sembilan\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "とお",
+    "reading": "",
+    "meaning": "sepuluh\ndigunakan untuk menghitung barang"
+  },
+  {
+    "level": "N5",
+    "term": "いくつ",
+    "reading": "",
+    "meaning": "berapa banyak, berapa buah"
+  },
+  {
+    "level": "N5",
+    "term": "ひとり",
+    "reading": "",
+    "meaning": "seorang, sendiri"
+  },
+  {
+    "level": "N5",
+    "term": "ふたり",
+    "reading": "",
+    "meaning": "dua orang"
+  },
+  {
+    "level": "N5",
+    "term": "ーにん",
+    "reading": "",
+    "meaning": "... orang"
+  },
+  {
+    "level": "N5",
+    "term": "ーだい",
+    "reading": "",
+    "meaning": "... buah\nuntuk menghitung elektronik, mesin, kendaraan"
+  },
+  {
+    "level": "N5",
+    "term": "ーまい",
+    "reading": "",
+    "meaning": "lembar, helai\nuntuk menghitung benda tipis\nkertas, perangko, dll"
+  },
+  {
+    "level": "N5",
+    "term": "ーかい",
+    "reading": "",
+    "meaning": "... kali\nuntuk pengulangan\nにかい dua kali"
+  },
+  {
+    "level": "N5",
+    "term": "りんご",
+    "reading": "",
+    "meaning": "apel"
+  },
+  {
+    "level": "N5",
+    "term": "みかん",
+    "reading": "",
+    "meaning": "jeruk"
+  },
+  {
+    "level": "N5",
+    "term": "サンドイッチ",
+    "reading": "",
+    "meaning": "sandwich"
+  },
+  {
+    "level": "N5",
+    "term": "カレー",
+    "reading": "",
+    "meaning": "kare"
+  },
+  {
+    "level": "N5",
+    "term": "アイスクリーム",
+    "reading": "",
+    "meaning": "es krim"
+  },
+  {
+    "level": "N5",
+    "term": "きって",
+    "reading": "",
+    "meaning": "perangko"
+  },
+  {
+    "level": "N5",
+    "term": "はがき",
+    "reading": "",
+    "meaning": "kartu pos"
+  },
+  {
+    "level": "N5",
+    "term": "ふうとう",
+    "reading": "",
+    "meaning": "amplop"
+  },
+  {
+    "level": "N5",
+    "term": "りょうしん",
+    "reading": "",
+    "meaning": "orang tua"
+  },
+  {
+    "level": "N5",
+    "term": "きょうだい",
+    "reading": "",
+    "meaning": "saudara"
+  },
+  {
+    "level": "N5",
+    "term": "あに",
+    "reading": "おにいさん",
+    "meaning": "kakak (lk)"
+  },
+  {
+    "level": "N5",
+    "term": "あね",
+    "reading": "おねえさん",
+    "meaning": "kakak (pr)"
+  },
+  {
+    "level": "N5",
+    "term": "おとうと",
+    "reading": "おとうとさん",
+    "meaning": "adik (lk)"
+  },
+  {
+    "level": "N5",
+    "term": "いもうと",
+    "reading": "いもうとさん",
+    "meaning": "adik (pr)"
+  },
+  {
+    "level": "N5",
+    "term": "がいこく",
+    "reading": "",
+    "meaning": "luar negeri"
+  },
+  {
+    "level": "N5",
+    "term": "りゅう がくせい",
+    "reading": "",
+    "meaning": "pelajar asing"
+  },
+  {
+    "level": "N5",
+    "term": "クラス",
+    "reading": "",
+    "meaning": "kelas"
+  },
+  {
+    "level": "N5",
+    "term": "ーじかん",
+    "reading": "",
+    "meaning": "... jam"
+  },
+  {
+    "level": "N5",
+    "term": "ーしゅうかん",
+    "reading": "",
+    "meaning": "... minggu"
+  },
+  {
+    "level": "N5",
+    "term": "ーかげつ",
+    "reading": "",
+    "meaning": "... bulan"
+  },
+  {
+    "level": "N5",
+    "term": "～ぐらい",
+    "reading": "",
+    "meaning": "kira-kira, sekitar\ntentang jumlah"
+  },
+  {
+    "level": "N5",
+    "term": "～ごろ",
+    "reading": "",
+    "meaning": "kira-kira, sekitar\ntentang waktu"
+  },
+  {
+    "level": "N5",
+    "term": "どのくらい",
+    "reading": "",
+    "meaning": "berapa lama"
+  },
+  {
+    "level": "N5",
+    "term": "ぜんぶで",
+    "reading": "",
+    "meaning": "semuanya"
+  },
+  {
+    "level": "N5",
+    "term": "みんな",
+    "reading": "",
+    "meaning": "semua"
+  },
+  {
+    "level": "N5",
+    "term": "～だけ",
+    "reading": "",
+    "meaning": "hanya, cuma"
+  },
+  {
+    "level": "N5",
+    "term": "かしこまりました",
+    "reading": "",
+    "meaning": "baik, OK"
+  },
+  {
+    "level": "N5",
+    "term": "いいてんきですね",
+    "reading": "",
+    "meaning": "cuacanya bagus ya"
+  },
+  {
+    "level": "N5",
+    "term": "おでかけですか",
+    "reading": "",
+    "meaning": "mau keluar?"
+  },
+  {
+    "level": "N5",
+    "term": "いって らっしゃい",
+    "reading": "",
+    "meaning": "hati-hati"
+  },
+  {
+    "level": "N5",
+    "term": "いって きます",
+    "reading": "",
+    "meaning": "saya berangkat"
+  },
+  {
+    "level": "N5",
+    "term": "おねがいします",
+    "reading": "",
+    "meaning": "tolong (please)"
+  },
+  {
+    "level": "N5",
+    "term": "かんたん",
+    "reading": "",
+    "meaning": "gampang"
+  },
+  {
+    "level": "N5",
+    "term": "ちかい",
+    "reading": "",
+    "meaning": "dekat"
+  },
+  {
+    "level": "N5",
+    "term": "とおい",
+    "reading": "",
+    "meaning": "jauh"
+  },
+  {
+    "level": "N5",
+    "term": "はやい",
+    "reading": "",
+    "meaning": "cepat"
+  },
+  {
+    "level": "N5",
+    "term": "おそい",
+    "reading": "",
+    "meaning": "lambat"
+  },
+  {
+    "level": "N5",
+    "term": "おおい",
+    "reading": "",
+    "meaning": "banyak"
+  },
+  {
+    "level": "N5",
+    "term": "すくない",
+    "reading": "",
+    "meaning": "sedikit"
+  },
+  {
+    "level": "N5",
+    "term": "あたたかい",
+    "reading": "",
+    "meaning": "hangat"
+  },
+  {
+    "level": "N5",
+    "term": "すずしい",
+    "reading": "",
+    "meaning": "sejuk"
+  },
+  {
+    "level": "N5",
+    "term": "あまい",
+    "reading": "",
+    "meaning": "manis"
+  },
+  {
+    "level": "N5",
+    "term": "からい",
+    "reading": "",
+    "meaning": "pedas"
+  },
+  {
+    "level": "N5",
+    "term": "おもい",
+    "reading": "",
+    "meaning": "berat"
+  },
+  {
+    "level": "N5",
+    "term": "かるい",
+    "reading": "",
+    "meaning": "ringan"
+  },
+  {
+    "level": "N5",
+    "term": "きせつ",
+    "reading": "",
+    "meaning": "musim"
+  },
+  {
+    "level": "N5",
+    "term": "はる",
+    "reading": "",
+    "meaning": "musim semi"
+  },
+  {
+    "level": "N5",
+    "term": "なつ",
+    "reading": "",
+    "meaning": "musim panas"
+  },
+  {
+    "level": "N5",
+    "term": "あき",
+    "reading": "",
+    "meaning": "musim gugur"
+  },
+  {
+    "level": "N5",
+    "term": "ふゆ",
+    "reading": "",
+    "meaning": "musim dingin"
+  },
+  {
+    "level": "N5",
+    "term": "てんき",
+    "reading": "",
+    "meaning": "cuaca"
+  },
+  {
+    "level": "N5",
+    "term": "あめ",
+    "reading": "",
+    "meaning": "hujan"
+  },
+  {
+    "level": "N5",
+    "term": "ゆき",
+    "reading": "",
+    "meaning": "salju"
+  },
+  {
+    "level": "N5",
+    "term": "くもり",
+    "reading": "",
+    "meaning": "mendung"
+  },
+  {
+    "level": "N5",
+    "term": "ホテル",
+    "reading": "",
+    "meaning": "hotel"
+  },
+  {
+    "level": "N5",
+    "term": "くうこう",
+    "reading": "",
+    "meaning": "bandara"
+  },
+  {
+    "level": "N5",
+    "term": "うみ",
+    "reading": "",
+    "meaning": "laut"
+  },
+  {
+    "level": "N5",
+    "term": "せかい",
+    "reading": "",
+    "meaning": "dunia"
+  },
+  {
+    "level": "N5",
+    "term": "パーテイー",
+    "reading": "",
+    "meaning": "pesta"
+  },
+  {
+    "level": "N5",
+    "term": "まつり",
+    "reading": "",
+    "meaning": "perayaan"
+  },
+  {
+    "level": "N5",
+    "term": "すきやき",
+    "reading": "",
+    "meaning": "sukiyaki"
+  },
+  {
+    "level": "N5",
+    "term": "さしみ",
+    "reading": "",
+    "meaning": "sashimi"
+  },
+  {
+    "level": "N5",
+    "term": "すし",
+    "reading": "",
+    "meaning": "sushi"
+  },
+  {
+    "level": "N5",
+    "term": "たんぷら",
+    "reading": "",
+    "meaning": "tempura"
+  },
+  {
+    "level": "N5",
+    "term": "ぶたにく",
+    "reading": "",
+    "meaning": "daging babi"
+  },
+  {
+    "level": "N5",
+    "term": "とりいく",
+    "reading": "",
+    "meaning": "daging ayam"
+  },
+  {
+    "level": "N5",
+    "term": "ぎゅうにく",
+    "reading": "",
+    "meaning": "daging sapi"
+  },
+  {
+    "level": "N5",
+    "term": "レモン",
+    "reading": "",
+    "meaning": "lemon"
+  },
+  {
+    "level": "N5",
+    "term": "いけばな",
+    "reading": "",
+    "meaning": "seni merangkai bunga"
+  },
+  {
+    "level": "N5",
+    "term": "もみじ",
+    "reading": "",
+    "meaning": "maple\ntumbuhan"
+  },
+  {
+    "level": "N5",
+    "term": "どちらも",
+    "reading": "",
+    "meaning": "yang manapun"
+  },
+  {
+    "level": "N5",
+    "term": "いちばん",
+    "reading": "",
+    "meaning": "paling"
+  },
+  {
+    "level": "N5",
+    "term": "ずっと",
+    "reading": "",
+    "meaning": "jauh lebih"
+  },
+  {
+    "level": "N5",
+    "term": "はじめて",
+    "reading": "",
+    "meaning": "pertama kali"
+  },
+  {
+    "level": "N5",
+    "term": "ただいま",
+    "reading": "",
+    "meaning": "saya pulang"
+  },
+  {
+    "level": "N5",
+    "term": "おかえり なさい",
+    "reading": "",
+    "meaning": "selamat datang"
+  },
+  {
+    "level": "N5",
+    "term": "つかれました",
+    "reading": "",
+    "meaning": "lelah"
+  },
+  {
+    "level": "N5",
+    "term": "あそびます",
+    "reading": "",
+    "meaning": "bermain"
+  },
+  {
+    "level": "N5",
+    "term": "およぎます",
+    "reading": "",
+    "meaning": "berenang"
+  },
+  {
+    "level": "N5",
+    "term": "むかえます",
+    "reading": "",
+    "meaning": "menjemput"
+  },
+  {
+    "level": "N5",
+    "term": "けっこんします",
+    "reading": "",
+    "meaning": "menikah"
+  },
+  {
+    "level": "N5",
+    "term": "かいものします",
+    "reading": "",
+    "meaning": "berbelanja"
+  },
+  {
+    "level": "N5",
+    "term": "しょくじします",
+    "reading": "",
+    "meaning": "makan"
+  },
+  {
+    "level": "N5",
+    "term": "さんぽします",
+    "reading": "",
+    "meaning": "berjalan-jalan"
+  },
+  {
+    "level": "N5",
+    "term": "たいへん",
+    "reading": "",
+    "meaning": "berat, sulit\ntentang situasi / kondisi"
+  },
+  {
+    "level": "N5",
+    "term": "ほしい",
+    "reading": "",
+    "meaning": "ingin, mau"
+  },
+  {
+    "level": "N5",
+    "term": "ひろい",
+    "reading": "",
+    "meaning": "luas"
+  },
+  {
+    "level": "N5",
+    "term": "せまい",
+    "reading": "",
+    "meaning": "sempit"
+  },
+  {
+    "level": "N5",
+    "term": "かわ",
+    "reading": "",
+    "meaning": "sungai"
+  },
+  {
+    "level": "N5",
+    "term": "プール",
+    "reading": "",
+    "meaning": "kolam renang"
+  },
+  {
+    "level": "N5",
+    "term": "びじゅつ",
+    "reading": "",
+    "meaning": "seni"
+  },
+  {
+    "level": "N5",
+    "term": "つり",
+    "reading": "",
+    "meaning": "pancing"
+  },
+  {
+    "level": "N5",
+    "term": "スキー",
+    "reading": "",
+    "meaning": "ski"
+  },
+  {
+    "level": "N5",
+    "term": "しゅうまつ",
+    "reading": "",
+    "meaning": "akhir pekan"
+  },
+  {
+    "level": "N5",
+    "term": "しょうがつ",
+    "reading": "",
+    "meaning": "tahun baru"
+  },
+  {
+    "level": "N5",
+    "term": "なにか",
+    "reading": "",
+    "meaning": "sesuatu"
+  },
+  {
+    "level": "N5",
+    "term": "どこか",
+    "reading": "",
+    "meaning": "suatu tempat"
+  },
+  {
+    "level": "N5",
+    "term": "のどが かわきます",
+    "reading": "のごが かわきました",
+    "meaning": "haus"
+  },
+  {
+    "level": "N5",
+    "term": "おなかが すきます",
+    "reading": "おなかが すきました",
+    "meaning": "lapar"
+  },
+  {
+    "level": "N5",
+    "term": "そう しましょう",
+    "reading": "",
+    "meaning": "yuk mari\nmenyetujui aksi yang disarankan lawan bicara"
+  },
+  {
+    "level": "N5",
+    "term": "べつべつに",
+    "reading": "",
+    "meaning": "sendiri-sendiri, masing-masing"
+  },
+  {
+    "level": "N5",
+    "term": "おまち ください",
+    "reading": "",
+    "meaning": "tolong tunggu"
+  },
+  {
+    "level": "N5",
+    "term": "ていしょく",
+    "reading": "",
+    "meaning": "menu paket"
+  },
+  {
+    "level": "N5",
+    "term": "ごちゅうもんは？",
+    "reading": "",
+    "meaning": "mau pesan apa?"
+  },
+  {
+    "level": "N5",
+    "term": "つけます",
+    "reading": "",
+    "meaning": "menyalakan, memasang, menghidupkan"
+  },
+  {
+    "level": "N5",
+    "term": "けします",
+    "reading": "",
+    "meaning": "mematikan, memadamkan"
+  },
+  {
+    "level": "N5",
+    "term": "あけます",
+    "reading": "",
+    "meaning": "membuka"
+  },
+  {
+    "level": "N5",
+    "term": "しめます",
+    "reading": "",
+    "meaning": "menutup"
+  },
+  {
+    "level": "N5",
+    "term": "いそぎます",
+    "reading": "",
+    "meaning": "buru-buru"
+  },
+  {
+    "level": "N5",
+    "term": "まちます",
+    "reading": "",
+    "meaning": "menunggu"
+  },
+  {
+    "level": "N5",
+    "term": "もちます",
+    "reading": "",
+    "meaning": "membawa"
+  },
+  {
+    "level": "N5",
+    "term": "てつだいます",
+    "reading": "",
+    "meaning": "membantu"
+  },
+  {
+    "level": "N5",
+    "term": "よびます",
+    "reading": "",
+    "meaning": "memanggil"
+  },
+  {
+    "level": "N5",
+    "term": "はなします",
+    "reading": "",
+    "meaning": "berbicara"
+  },
+  {
+    "level": "N5",
+    "term": "つかいます",
+    "reading": "",
+    "meaning": "memakai"
+  },
+  {
+    "level": "N5",
+    "term": "とめます",
+    "reading": "",
+    "meaning": "menghentikan, memarkir"
+  },
+  {
+    "level": "N5",
+    "term": "みせます",
+    "reading": "",
+    "meaning": "memperlihatkan"
+  },
+  {
+    "level": "N5",
+    "term": "すわります",
+    "reading": "",
+    "meaning": "duduk"
+  },
+  {
+    "level": "N5",
+    "term": "たちます",
+    "reading": "",
+    "meaning": "berdiri"
+  },
+  {
+    "level": "N5",
+    "term": "はいります",
+    "reading": "",
+    "meaning": "masuk"
+  },
+  {
+    "level": "N5",
+    "term": "でます",
+    "reading": "",
+    "meaning": "keluar"
+  },
+  {
+    "level": "N5",
+    "term": "ふります",
+    "reading": "",
+    "meaning": "turun (hujan)"
+  },
+  {
+    "level": "N5",
+    "term": "コピーします",
+    "reading": "",
+    "meaning": "memfotokopi"
+  },
+  {
+    "level": "N5",
+    "term": "でんき",
+    "reading": "",
+    "meaning": "listrik, lampu"
+  },
+  {
+    "level": "N5",
+    "term": "エアコン",
+    "reading": "",
+    "meaning": "AC"
+  },
+  {
+    "level": "N5",
+    "term": "パスポート",
+    "reading": "",
+    "meaning": "paspor"
+  },
+  {
+    "level": "N5",
+    "term": "なまえ",
+    "reading": "",
+    "meaning": "nama"
+  },
+  {
+    "level": "N5",
+    "term": "じゅうしょ",
+    "reading": "",
+    "meaning": "alamat"
+  },
+  {
+    "level": "N5",
+    "term": "ちず",
+    "reading": "",
+    "meaning": "peta"
+  },
+  {
+    "level": "N5",
+    "term": "しお",
+    "reading": "",
+    "meaning": "garam"
+  },
+  {
+    "level": "N5",
+    "term": "さとう",
+    "reading": "",
+    "meaning": "gula"
+  },
+  {
+    "level": "N5",
+    "term": "もんだい",
+    "reading": "",
+    "meaning": "soal, masalah"
+  },
+  {
+    "level": "N5",
+    "term": "こたえ",
+    "reading": "",
+    "meaning": "jawaban"
+  },
+  {
+    "level": "N5",
+    "term": "～かた",
+    "reading": "",
+    "meaning": "cara"
+  },
+  {
+    "level": "N5",
+    "term": "よみかた",
+    "reading": "",
+    "meaning": "cara membaca"
+  },
+  {
+    "level": "N5",
+    "term": "もう～",
+    "reading": "",
+    "meaning": "... lagi"
+  },
+  {
+    "level": "N5",
+    "term": "もう すこし",
+    "reading": "",
+    "meaning": "sedikit lagi"
+  },
+  {
+    "level": "N5",
+    "term": "あとで",
+    "reading": "",
+    "meaning": "nanti"
+  },
+  {
+    "level": "N5",
+    "term": "また",
+    "reading": "",
+    "meaning": "lagi"
+  },
+  {
+    "level": "N5",
+    "term": "すぐ",
+    "reading": "",
+    "meaning": "segera, langsung"
+  },
+  {
+    "level": "N5",
+    "term": "ゆっくり",
+    "reading": "",
+    "meaning": "pelan-pelan"
+  },
+  {
+    "level": "N5",
+    "term": "まっすぐ",
+    "reading": "",
+    "meaning": "lurus"
+  },
+  {
+    "level": "N5",
+    "term": "おつり",
+    "reading": "",
+    "meaning": "uang kembalian"
+  },
+  {
+    "level": "N5",
+    "term": "あれ?",
+    "reading": "",
+    "meaning": "ah?\ndigunakan ketika heran atau aneh"
+  },
+  {
+    "level": "N5",
+    "term": "さあ",
+    "reading": "",
+    "meaning": "mari\nketika mengajak/menyuruh"
+  },
+  {
+    "level": "N5",
+    "term": "しんごお を みぎへ まがって ください",
+    "reading": "",
+    "meaning": "di lampu lalu litas tolong belok kanan"
+  },
+  {
+    "level": "N5",
+    "term": "みなさん",
+    "reading": "",
+    "meaning": "semuanya"
+  },
+  {
+    "level": "N5",
+    "term": "おもいだします",
+    "reading": "",
+    "meaning": "teringat"
+  },
+  {
+    "level": "N5",
+    "term": "いらっしゃいます",
+    "reading": "",
+    "meaning": "bentuk sopan dari います"
+  },
+  {
+    "level": "N5",
+    "term": "つくります",
+    "reading": "",
+    "meaning": "membuat"
+  },
+  {
+    "level": "N5",
+    "term": "うります",
+    "reading": "",
+    "meaning": "menjual"
+  },
+  {
+    "level": "N5",
+    "term": "しります",
+    "reading": "",
+    "meaning": "tahu, kenal"
+  },
+  {
+    "level": "N5",
+    "term": "すみます",
+    "reading": "",
+    "meaning": "tinggal"
+  },
+  {
+    "level": "N5",
+    "term": "けんきゅうします",
+    "reading": "",
+    "meaning": "meneliti"
+  },
+  {
+    "level": "N5",
+    "term": "しりょう",
+    "reading": "",
+    "meaning": "bahan, data"
+  },
+  {
+    "level": "N5",
+    "term": "カタログ",
+    "reading": "",
+    "meaning": "katalog"
+  },
+  {
+    "level": "N5",
+    "term": "じこくひょう",
+    "reading": "",
+    "meaning": "jadwal"
+  },
+  {
+    "level": "N5",
+    "term": "ふく",
+    "reading": "",
+    "meaning": "baju"
+  },
+  {
+    "level": "N5",
+    "term": "せいひん",
+    "reading": "",
+    "meaning": "produk"
+  },
+  {
+    "level": "N5",
+    "term": "ソフト",
+    "reading": "",
+    "meaning": "software"
+  },
+  {
+    "level": "N5",
+    "term": "でんし じしょ",
+    "reading": "",
+    "meaning": "kamus elektronik"
+  },
+  {
+    "level": "N5",
+    "term": "けいざい",
+    "reading": "",
+    "meaning": "ekonomi"
+  },
+  {
+    "level": "N5",
+    "term": "どくしん",
+    "reading": "",
+    "meaning": "bujang, single"
+  },
+  {
+    "level": "N5",
+    "term": "はいしゃ",
+    "reading": "",
+    "meaning": "dokter gigi"
+  },
+  {
+    "level": "N5",
+    "term": "こうこう",
+    "reading": "",
+    "meaning": "SMA"
+  },
+  {
+    "level": "N5",
+    "term": "しやくしょ",
+    "reading": "",
+    "meaning": "kantor wali kota"
+  },
+  {
+    "level": "N4",
+    "term": "見ます",
+    "reading": "みます",
+    "meaning": "melihat\nmemeriksa"
+  },
+  {
+    "level": "N4",
+    "term": "探します",
+    "reading": "さがします",
+    "meaning": "mencari"
+  },
+  {
+    "level": "N4",
+    "term": "遅れます",
+    "reading": "おくれます",
+    "meaning": "terlambat"
+  },
+  {
+    "level": "N4",
+    "term": "間に合います",
+    "reading": "まにあいます",
+    "meaning": "sempat\nkeburu"
+  },
+  {
+    "level": "N4",
+    "term": "やります",
+    "reading": "",
+    "meaning": "melakukan\nmemberi"
+  },
+  {
+    "level": "N4",
+    "term": "拾います",
+    "reading": "ひろいます",
+    "meaning": "mendapat\nmengambil"
+  },
+  {
+    "level": "N4",
+    "term": "連絡します",
+    "reading": "れんらくします",
+    "meaning": "menghubungi"
+  },
+  {
+    "level": "N4",
+    "term": "気分がいい",
+    "reading": "きぶんがいい",
+    "meaning": "rasa enak\nsegar"
+  },
+  {
+    "level": "N4",
+    "term": "気分が悪い",
+    "reading": "きぶんがわるい",
+    "meaning": "rasa tidak enak"
+  },
+  {
+    "level": "N4",
+    "term": "運動会",
+    "reading": "うんどうかい",
+    "meaning": "lomba olahraga"
+  },
+  {
+    "level": "N4",
+    "term": "盆踊り",
+    "reading": "ぼんおどり",
+    "meaning": "tarian bon"
+  },
+  {
+    "level": "N4",
+    "term": "フリーマーケット",
+    "reading": "",
+    "meaning": "pasar loak"
+  },
+  {
+    "level": "N4",
+    "term": "場所",
+    "reading": "ばしょ",
+    "meaning": "tempat"
+  },
+  {
+    "level": "N4",
+    "term": "ボランティア",
+    "reading": "",
+    "meaning": "sukarelawan"
+  },
+  {
+    "level": "N4",
+    "term": "財布",
+    "reading": "さいふ",
+    "meaning": "dompet"
+  },
+  {
+    "level": "N4",
+    "term": "ごみ",
+    "reading": "",
+    "meaning": "sampah"
+  },
+  {
+    "level": "N4",
+    "term": "国会議事堂",
+    "reading": "こっかいぎじどう",
+    "meaning": "gedung parlemen"
+  },
+  {
+    "level": "N4",
+    "term": "平日",
+    "reading": "へいじつ",
+    "meaning": "hari kerja"
+  },
+  {
+    "level": "N4",
+    "term": "～弁",
+    "reading": "～べん",
+    "meaning": "dialek"
+  },
+  {
+    "level": "N4",
+    "term": "今度",
+    "reading": "こんど",
+    "meaning": "kali ini\nlain kali"
+  },
+  {
+    "level": "N4",
+    "term": "ずいぶん",
+    "reading": "",
+    "meaning": "sangat\namat"
+  },
+  {
+    "level": "N4",
+    "term": "直接",
+    "reading": "ちょくせつ",
+    "meaning": "langsung"
+  },
+  {
+    "level": "N4",
+    "term": "いつでも",
+    "reading": "",
+    "meaning": "kapan saja"
+  },
+  {
+    "level": "N4",
+    "term": "どこでも",
+    "reading": "",
+    "meaning": "di mana-mana"
+  },
+  {
+    "level": "N4",
+    "term": "だれでも",
+    "reading": "",
+    "meaning": "siapa saja"
+  },
+  {
+    "level": "N4",
+    "term": "何でも",
+    "reading": "なんでも",
+    "meaning": "apa saja"
+  },
+  {
+    "level": "N4",
+    "term": "こんな～",
+    "reading": "",
+    "meaning": "begini"
+  },
+  {
+    "level": "N4",
+    "term": "そんな～",
+    "reading": "",
+    "meaning": "begitu"
+  },
+  {
+    "level": "N4",
+    "term": "あんな～",
+    "reading": "",
+    "meaning": "begitu (jauh)"
+  },
+  {
+    "level": "N4",
+    "term": "方づきます",
+    "reading": "かたづきます",
+    "meaning": "membereskan"
+  },
+  {
+    "level": "N4",
+    "term": "出します",
+    "reading": "だします",
+    "meaning": "mengeluarkan\nmengirimkan\nmenghasilkan\nmenjadi"
+  },
+  {
+    "level": "N4",
+    "term": "燃えるごみ",
+    "reading": "もえるごみ",
+    "meaning": "sampah organik"
+  },
+  {
+    "level": "N4",
+    "term": "置き場",
+    "reading": "おきば",
+    "meaning": "tempat menaruh sampah"
+  },
+  {
+    "level": "N4",
+    "term": "横",
+    "reading": "よこ",
+    "meaning": "samping\nsebelah"
+  },
+  {
+    "level": "N4",
+    "term": "瓶",
+    "reading": "びん",
+    "meaning": "botol"
+  },
+  {
+    "level": "N4",
+    "term": "缶",
+    "reading": "かん",
+    "meaning": "kaleng"
+  },
+  {
+    "level": "N4",
+    "term": "ガス",
+    "reading": "",
+    "meaning": "gas"
+  },
+  {
+    "level": "N4",
+    "term": "飼います",
+    "reading": "かいます",
+    "meaning": "memelihara"
+  },
+  {
+    "level": "N4",
+    "term": "走ります",
+    "reading": "はしります",
+    "meaning": "berlari"
+  },
+  {
+    "level": "N4",
+    "term": "見えます",
+    "reading": "みえます",
+    "meaning": "terlihat"
+  },
+  {
+    "level": "N4",
+    "term": "聞こえます",
+    "reading": "きこえます",
+    "meaning": "terdengar"
+  },
+  {
+    "level": "N4",
+    "term": "できます",
+    "reading": "",
+    "meaning": "dibuat"
+  },
+  {
+    "level": "N4",
+    "term": "開きます",
+    "reading": "ひらきます",
+    "meaning": "membuka\nmengadakan"
+  },
+  {
+    "level": "N4",
+    "term": "心配",
+    "reading": "しんぱい",
+    "meaning": "khawatir"
+  },
+  {
+    "level": "N4",
+    "term": "ペット",
+    "reading": "",
+    "meaning": "hewan peliharaan"
+  },
+  {
+    "level": "N4",
+    "term": "鳥",
+    "reading": "とり",
+    "meaning": "burung\nayam"
+  },
+  {
+    "level": "N4",
+    "term": "声",
+    "reading": "こえ",
+    "meaning": "suara"
+  },
+  {
+    "level": "N4",
+    "term": "波",
+    "reading": "なみ",
+    "meaning": "ombak\ngelombang"
+  },
+  {
+    "level": "N4",
+    "term": "花火",
+    "reading": "はなび",
+    "meaning": "kembang api"
+  },
+  {
+    "level": "N4",
+    "term": "道具",
+    "reading": "どうぐ",
+    "meaning": "alat"
+  },
+  {
+    "level": "N4",
+    "term": "クリーニング",
+    "reading": "",
+    "meaning": "laundry"
+  },
+  {
+    "level": "N4",
+    "term": "家",
+    "reading": "いえ",
+    "meaning": "rumah"
+  },
+  {
+    "level": "N4",
+    "term": "マンション",
+    "reading": "",
+    "meaning": "apartemen"
+  },
+  {
+    "level": "N4",
+    "term": "キッチン",
+    "reading": "",
+    "meaning": "dapur"
+  },
+  {
+    "level": "N4",
+    "term": "～教室",
+    "reading": "～きょうしつ",
+    "meaning": "les~\nkelas~"
+  },
+  {
+    "level": "N4",
+    "term": "パーテイールーム",
+    "reading": "",
+    "meaning": "ruang pesta"
+  },
+  {
+    "level": "N4",
+    "term": "方",
+    "reading": "かた",
+    "meaning": "orang (sopan)\ncara (metode)"
+  },
+  {
+    "level": "N4",
+    "term": "～後",
+    "reading": "～ご",
+    "meaning": "setelah~\nsesudah~"
+  },
+  {
+    "level": "N4",
+    "term": "～しか",
+    "reading": "",
+    "meaning": "hanya \n(diikuti bentuk negatif)"
+  },
+  {
+    "level": "N4",
+    "term": "ほかの",
+    "reading": "",
+    "meaning": "lain"
+  },
+  {
+    "level": "N4",
+    "term": "はっきり",
+    "reading": "",
+    "meaning": "jelas"
+  },
+  {
+    "level": "N4",
+    "term": "家具",
+    "reading": "かぐ",
+    "meaning": "mebel\nperabot rumah"
+  },
+  {
+    "level": "N4",
+    "term": "本棚",
+    "reading": "ほんだな",
+    "meaning": "lemari buku"
+  },
+  {
+    "level": "N4",
+    "term": "いつか",
+    "reading": "",
+    "meaning": "kapan-kapan"
+  },
+  {
+    "level": "N4",
+    "term": "建てます",
+    "reading": "たてます",
+    "meaning": "membangun"
+  },
+  {
+    "level": "N4",
+    "term": "すばらしい",
+    "reading": "",
+    "meaning": "bagus"
+  },
+  {
+    "level": "N4",
+    "term": "子供たち",
+    "reading": "こどもたち",
+    "meaning": "anak-anak"
+  },
+  {
+    "level": "N4",
+    "term": "大好き",
+    "reading": "だいすき",
+    "meaning": "kesukaan"
+  },
+  {
+    "level": "N4",
+    "term": "主人公",
+    "reading": "しゅじんこう",
+    "meaning": "pelaku utama"
+  },
+  {
+    "level": "N4",
+    "term": "形",
+    "reading": "かたち",
+    "meaning": "bentuk\nsosok"
+  },
+  {
+    "level": "N4",
+    "term": "不思議",
+    "reading": "ふしぎ",
+    "meaning": "aneh\nmisterius\nmenakjubkan"
+  },
+  {
+    "level": "N4",
+    "term": "ポケット",
+    "reading": "",
+    "meaning": "kantong"
+  },
+  {
+    "level": "N4",
+    "term": "例えば",
+    "reading": "たとえば",
+    "meaning": "misalnya"
+  },
+  {
+    "level": "N4",
+    "term": "付けます",
+    "reading": "つけます",
+    "meaning": "memasang\nmenempelkan\nmenyalakan\nmemberikan"
+  },
+  {
+    "level": "N4",
+    "term": "自由に",
+    "reading": "じゆうに",
+    "meaning": "dengan bebas"
+  },
+  {
+    "level": "N4",
+    "term": "空",
+    "reading": "そら",
+    "meaning": "langit"
+  },
+  {
+    "level": "N4",
+    "term": "飛びます",
+    "reading": "とびます",
+    "meaning": "terbang"
+  },
+  {
+    "level": "N4",
+    "term": "昔",
+    "reading": "むかし",
+    "meaning": "dulu"
+  },
+  {
+    "level": "N4",
+    "term": "自分",
+    "reading": "じぶん",
+    "meaning": "diri sendiri"
+  },
+  {
+    "level": "N4",
+    "term": "将来",
+    "reading": "しょうらい",
+    "meaning": "masa depan"
+  },
+  {
+    "level": "N4",
+    "term": "売れます",
+    "reading": "うれます",
+    "meaning": "terjual"
+  },
+  {
+    "level": "N4",
+    "term": "踊ります",
+    "reading": "おどります",
+    "meaning": "menari"
+  },
+  {
+    "level": "N4",
+    "term": "かみます",
+    "reading": "",
+    "meaning": "makan\nmenggigit"
+  },
+  {
+    "level": "N4",
+    "term": "選びます",
+    "reading": "えらびます",
+    "meaning": "memilih"
+  },
+  {
+    "level": "N4",
+    "term": "通います",
+    "reading": "かよいます",
+    "meaning": "pergi"
+  },
+  {
+    "level": "N4",
+    "term": "メモします",
+    "reading": "",
+    "meaning": "mencatat"
+  },
+  {
+    "level": "N4",
+    "term": "まじめ",
+    "reading": "",
+    "meaning": "serius"
+  },
+  {
+    "level": "N4",
+    "term": "熱心",
+    "reading": "ねっしん",
+    "meaning": "tekun"
+  },
+  {
+    "level": "N4",
+    "term": "偉い",
+    "reading": "えらい",
+    "meaning": "hebat"
+  },
+  {
+    "level": "N4",
+    "term": "ちょうど",
+    "reading": "",
+    "meaning": "pas\ncocok"
+  },
+  {
+    "level": "N4",
+    "term": "景色",
+    "reading": "けしき",
+    "meaning": "pemandangan"
+  },
+  {
+    "level": "N4",
+    "term": "美容院",
+    "reading": "びよういん",
+    "meaning": "salon kecantikan"
+  },
+  {
+    "level": "N4",
+    "term": "台所",
+    "reading": "だいどころ",
+    "meaning": "dapur"
+  },
+  {
+    "level": "N4",
+    "term": "経験",
+    "reading": "けいけん",
+    "meaning": "pengalaman"
+  },
+  {
+    "level": "N4",
+    "term": "力",
+    "reading": "ちから",
+    "meaning": "tenaga"
+  },
+  {
+    "level": "N4",
+    "term": "人気",
+    "reading": "にんき",
+    "meaning": "populer\ndisenangi"
+  },
+  {
+    "level": "N4",
+    "term": "色",
+    "reading": "いろ",
+    "meaning": "warna"
+  },
+  {
+    "level": "N4",
+    "term": "味",
+    "reading": "あじ",
+    "meaning": "rasa"
+  },
+  {
+    "level": "N4",
+    "term": "ガム",
+    "reading": "",
+    "meaning": "permen karet"
+  },
+  {
+    "level": "N4",
+    "term": "品物",
+    "reading": "しなもの",
+    "meaning": "barang"
+  },
+  {
+    "level": "N4",
+    "term": "値段",
+    "reading": "ねだん",
+    "meaning": "harga"
+  },
+  {
+    "level": "N4",
+    "term": "給料",
+    "reading": "きゅうりょう",
+    "meaning": "gaji"
+  },
+  {
+    "level": "N4",
+    "term": "ゲーム",
+    "reading": "",
+    "meaning": "game"
+  },
+  {
+    "level": "N4",
+    "term": "番組",
+    "reading": "ばんぐみ",
+    "meaning": "acara tv"
+  },
+  {
+    "level": "N4",
+    "term": "ドラマ",
+    "reading": "",
+    "meaning": "drama"
+  },
+  {
+    "level": "N4",
+    "term": "歌手",
+    "reading": "かしゅ",
+    "meaning": "penyanyi"
+  },
+  {
+    "level": "N4",
+    "term": "小説",
+    "reading": "しょうせつ",
+    "meaning": "novel"
+  },
+  {
+    "level": "N4",
+    "term": "小説家",
+    "reading": "しょうせつか",
+    "meaning": "novelis"
+  },
+  {
+    "level": "N4",
+    "term": "～家",
+    "reading": "～か",
+    "meaning": "aliran~"
+  },
+  {
+    "level": "N4",
+    "term": "～機",
+    "reading": "～き",
+    "meaning": "mesin~"
+  },
+  {
+    "level": "N4",
+    "term": "息子",
+    "reading": "むすこ",
+    "meaning": "anak (lk)"
+  },
+  {
+    "level": "N4",
+    "term": "息子さん",
+    "reading": "むすこさん",
+    "meaning": "putra"
+  },
+  {
+    "level": "N4",
+    "term": "娘",
+    "reading": "むすめ",
+    "meaning": "anak (pr)"
+  },
+  {
+    "level": "N4",
+    "term": "娘さん",
+    "reading": "むすめさん",
+    "meaning": "putri"
+  },
+  {
+    "level": "N4",
+    "term": "しばらく",
+    "reading": "",
+    "meaning": "sebentar\nsementara"
+  },
+  {
+    "level": "N4",
+    "term": "たいてい",
+    "reading": "",
+    "meaning": "kebanyakan"
+  },
+  {
+    "level": "N4",
+    "term": "それに",
+    "reading": "",
+    "meaning": "selain itu"
+  },
+  {
+    "level": "N4",
+    "term": "それで",
+    "reading": "",
+    "meaning": "dan\nlalu\nkarena itu"
+  },
+  {
+    "level": "N4",
+    "term": "実は",
+    "reading": "じつは",
+    "meaning": "sebenarnya"
+  },
+  {
+    "level": "N4",
+    "term": "会話",
+    "reading": "かいわ",
+    "meaning": "percakapan"
+  },
+  {
+    "level": "N4",
+    "term": "お願いがあるんですが",
+    "reading": "おねがいがあるんですが",
+    "meaning": "minta sesuatu"
+  },
+  {
+    "level": "N4",
+    "term": "お知らせ",
+    "reading": "おしらせ",
+    "meaning": "pengumuman\npemberitahuan"
+  },
+  {
+    "level": "N4",
+    "term": "参加します",
+    "reading": "さんかします",
+    "meaning": "mengikuti"
+  },
+  {
+    "level": "N4",
+    "term": "日にち",
+    "reading": "ひにち",
+    "meaning": "tanggal"
+  },
+  {
+    "level": "N4",
+    "term": "体育館",
+    "reading": "たいいくかん",
+    "meaning": "gedung olahraga"
+  },
+  {
+    "level": "N4",
+    "term": "無料",
+    "reading": "むりょう",
+    "meaning": "gratis"
+  },
+  {
+    "level": "N4",
+    "term": "誘います",
+    "reading": "さそいます",
+    "meaning": "mengajak"
+  },
+  {
+    "level": "N4",
+    "term": "イベント",
+    "reading": "",
+    "meaning": "acara"
+  },
+  {
+    "level": "N4",
+    "term": "開きます",
+    "reading": "あきます",
+    "meaning": "terbuka"
+  },
+  {
+    "level": "N4",
+    "term": "閉まります",
+    "reading": "しまります",
+    "meaning": "tertutup"
+  },
+  {
+    "level": "N4",
+    "term": "つきます",
+    "reading": "",
+    "meaning": "menyala"
+  },
+  {
+    "level": "N4",
+    "term": "消えます",
+    "reading": "きえます",
+    "meaning": "padam"
+  },
+  {
+    "level": "N4",
+    "term": "壊れます",
+    "reading": "こわれます",
+    "meaning": "rusak"
+  },
+  {
+    "level": "N4",
+    "term": "割れます",
+    "reading": "われます",
+    "meaning": "pecah"
+  },
+  {
+    "level": "N4",
+    "term": "折れます",
+    "reading": "おれます",
+    "meaning": "patah"
+  },
+  {
+    "level": "N4",
+    "term": "破れます",
+    "reading": "やぶれます",
+    "meaning": "robek"
+  },
+  {
+    "level": "N4",
+    "term": "汚れます",
+    "reading": "よごれます",
+    "meaning": "menjadi kotor"
+  },
+  {
+    "level": "N4",
+    "term": "付きます",
+    "reading": "つきます",
+    "meaning": "terpasang\nmenempel\nmelekat"
+  },
+  {
+    "level": "N4",
+    "term": "外れます",
+    "reading": "はずれます",
+    "meaning": "terlepas"
+  },
+  {
+    "level": "N4",
+    "term": "止まります",
+    "reading": "とまります",
+    "meaning": "berhenti"
+  },
+  {
+    "level": "N4",
+    "term": "間違えます",
+    "reading": "まちがえます",
+    "meaning": "bersalah"
+  },
+  {
+    "level": "N4",
+    "term": "落とします",
+    "reading": "おとします",
+    "meaning": "menjatuhkan\nkehilangan"
+  },
+  {
+    "level": "N4",
+    "term": "掛かります",
+    "reading": "かかります",
+    "meaning": "terkunci"
+  },
+  {
+    "level": "N4",
+    "term": "拭きます",
+    "reading": "ふきます",
+    "meaning": "mengelap"
+  },
+  {
+    "level": "N4",
+    "term": "取り替えます",
+    "reading": "とりかえます",
+    "meaning": "mengganti"
+  },
+  {
+    "level": "N4",
+    "term": "片づけます",
+    "reading": "かたづけます",
+    "meaning": "membereskan"
+  },
+  {
+    "level": "N4",
+    "term": "皿",
+    "reading": "さら",
+    "meaning": "piring"
+  },
+  {
+    "level": "N4",
+    "term": "ちゃわん",
+    "reading": "",
+    "meaning": "mangkuk"
+  },
+  {
+    "level": "N4",
+    "term": "コップ",
+    "reading": "",
+    "meaning": "cangkir\ngelas"
+  },
+  {
+    "level": "N4",
+    "term": "ガラス",
+    "reading": "",
+    "meaning": "kaca"
+  },
+  {
+    "level": "N4",
+    "term": "袋",
+    "reading": "ふくろ",
+    "meaning": "kantong"
+  },
+  {
+    "level": "N4",
+    "term": "書類",
+    "reading": "しょるい",
+    "meaning": "dokumen"
+  },
+  {
+    "level": "N4",
+    "term": "枝",
+    "reading": "えだ",
+    "meaning": "ranting"
+  },
+  {
+    "level": "N4",
+    "term": "駅員",
+    "reading": "えきいん",
+    "meaning": "petugas stasiun"
+  },
+  {
+    "level": "N4",
+    "term": "交番",
+    "reading": "こうばん",
+    "meaning": "pos polisi"
+  },
+  {
+    "level": "N4",
+    "term": "スピーチ",
+    "reading": "",
+    "meaning": "pidato"
+  },
+  {
+    "level": "N4",
+    "term": "返事",
+    "reading": "へんじ",
+    "meaning": "jawaban"
+  },
+  {
+    "level": "N4",
+    "term": "忘れ物",
+    "reading": "わすれもの",
+    "meaning": "barang tertinggal"
+  },
+  {
+    "level": "N4",
+    "term": "このくらい",
+    "reading": "",
+    "meaning": "segini"
+  },
+  {
+    "level": "N4",
+    "term": "～側",
+    "reading": "～がわ",
+    "meaning": "sebelah~"
+  },
+  {
+    "level": "N4",
+    "term": "～辺",
+    "reading": "～へん",
+    "meaning": "sekitar~"
+  },
+  {
+    "level": "N4",
+    "term": "網棚",
+    "reading": "あみだな",
+    "meaning": "rak bagasi"
+  },
+  {
+    "level": "N4",
+    "term": "確か",
+    "reading": "たしか",
+    "meaning": "pasti\nseingat saya"
+  },
+  {
+    "level": "N4",
+    "term": "よかった",
+    "reading": "",
+    "meaning": "syukurlah"
+  },
+  {
+    "level": "N4",
+    "term": "地震",
+    "reading": "じしん",
+    "meaning": "gempa bumi"
+  },
+  {
+    "level": "N4",
+    "term": "壁",
+    "reading": "かべ",
+    "meaning": "tembok\ndinding"
+  },
+  {
+    "level": "N4",
+    "term": "針",
+    "reading": "はり",
+    "meaning": "jarum"
+  },
+  {
+    "level": "N4",
+    "term": "指します",
+    "reading": "さします",
+    "meaning": "menunjuk"
+  },
+  {
+    "level": "N4",
+    "term": "倒れます",
+    "reading": "たおれます",
+    "meaning": "jatuh\nroboh"
+  },
+  {
+    "level": "N4",
+    "term": "燃えます",
+    "reading": "もえます",
+    "meaning": "terbakar"
+  },
+  {
+    "level": "N4",
+    "term": "レポーター",
+    "reading": "",
+    "meaning": "jurnalis\nwartawan"
+  },
+  {
+    "level": "N4",
+    "term": "貼ります",
+    "reading": "はります",
+    "meaning": "menempelkan"
+  },
+  {
+    "level": "N4",
+    "term": "掛けます",
+    "reading": "かけます",
+    "meaning": "menggantungkan\nmemakai\nmenyalakan\nmenyebabkan"
+  },
+  {
+    "level": "N4",
+    "term": "飾ります",
+    "reading": "かざります",
+    "meaning": "menghiasi"
+  },
+  {
+    "level": "N4",
+    "term": "並べます",
+    "reading": "ならべます",
+    "meaning": "menata"
+  },
+  {
+    "level": "N4",
+    "term": "植えます",
+    "reading": "うえます",
+    "meaning": "menanam"
+  },
+  {
+    "level": "N4",
+    "term": "戻します",
+    "reading": "もどします",
+    "meaning": "mengembalikan"
+  },
+  {
+    "level": "N4",
+    "term": "纏めます",
+    "reading": "まとめます",
+    "meaning": "merangkum\nmeringkas"
+  },
+  {
+    "level": "N4",
+    "term": "仕舞います",
+    "reading": "しまいます",
+    "meaning": "menyimpan"
+  },
+  {
+    "level": "N4",
+    "term": "決めます",
+    "reading": "きめます",
+    "meaning": "menentukan"
+  },
+  {
+    "level": "N4",
+    "term": "予習します",
+    "reading": "よしゅうします",
+    "meaning": "mempersiapkan pelajaran\nbelajar sebelumnya"
+  },
+  {
+    "level": "N4",
+    "term": "復習します",
+    "reading": "ふくしゅうします",
+    "meaning": "mengulang pelajaran\nmempelajari kembali"
+  },
+  {
+    "level": "N4",
+    "term": "そのままにします",
+    "reading": "",
+    "meaning": "membiarkan begitu\nmembiarkan apa adanya"
+  },
+  {
+    "level": "N4",
+    "term": "授業",
+    "reading": "じゅぎょう",
+    "meaning": "kelas\npelajaran"
+  },
+  {
+    "level": "N4",
+    "term": "講義",
+    "reading": "こうぎ",
+    "meaning": "kuliah"
+  },
+  {
+    "level": "N4",
+    "term": "ミーティング",
+    "reading": "",
+    "meaning": "rapat"
+  },
+  {
+    "level": "N4",
+    "term": "予定",
+    "reading": "よてい",
+    "meaning": "acara"
+  },
+  {
+    "level": "N4",
+    "term": "ガイドブック",
+    "reading": "",
+    "meaning": "buku petunjuk"
+  },
+  {
+    "level": "N4",
+    "term": "カレンダー",
+    "reading": "",
+    "meaning": "kalender"
+  },
+  {
+    "level": "N4",
+    "term": "ポスター",
+    "reading": "",
+    "meaning": "poster\nplakat"
+  },
+  {
+    "level": "N4",
+    "term": "予定表",
+    "reading": "よていひょう",
+    "meaning": "jadwal acara"
+  },
+  {
+    "level": "N4",
+    "term": "ごみ箱",
+    "reading": "ごみばこ",
+    "meaning": "tong sampah\ntempat sampah"
+  },
+  {
+    "level": "N4",
+    "term": "人形",
+    "reading": "にんぎょう",
+    "meaning": "boneka\norang-orangan"
+  },
+  {
+    "level": "N4",
+    "term": "花瓶",
+    "reading": "かびん",
+    "meaning": "vas bunga"
+  },
+  {
+    "level": "N4",
+    "term": "鏡",
+    "reading": "かがみ",
+    "meaning": "cermin"
+  },
+  {
+    "level": "N4",
+    "term": "引き出し",
+    "reading": "ひきだし",
+    "meaning": "laci"
+  },
+  {
+    "level": "N4",
+    "term": "玄関",
+    "reading": "げんかん",
+    "meaning": "ruang depan"
+  },
+  {
+    "level": "N4",
+    "term": "廊下",
+    "reading": "ろうか",
+    "meaning": "gang\nkoridor"
+  },
+  {
+    "level": "N4",
+    "term": "池",
+    "reading": "いけ",
+    "meaning": "kolam"
+  },
+  {
+    "level": "N4",
+    "term": "元の所",
+    "reading": "もとのところ",
+    "meaning": "tempat semula"
+  },
+  {
+    "level": "N4",
+    "term": "周り",
+    "reading": "まわり",
+    "meaning": "sekitar"
+  },
+  {
+    "level": "N4",
+    "term": "真ん中",
+    "reading": "まんなか",
+    "meaning": "tengah"
+  },
+  {
+    "level": "N4",
+    "term": "隅",
+    "reading": "すむ",
+    "meaning": "pojok\nsudut"
+  },
+  {
+    "level": "N4",
+    "term": "まだ",
+    "reading": "",
+    "meaning": "masih"
+  },
+  {
+    "level": "N4",
+    "term": "リュック",
+    "reading": "",
+    "meaning": "ransel"
+  },
+  {
+    "level": "N4",
+    "term": "非常袋",
+    "reading": "ひじょうぶくろ",
+    "meaning": "kantong darurat"
+  },
+  {
+    "level": "N4",
+    "term": "非常時",
+    "reading": "ひじょうじ",
+    "meaning": "saat darurat"
+  },
+  {
+    "level": "N4",
+    "term": "生活します",
+    "reading": "せいかつします",
+    "meaning": "hidup"
+  },
+  {
+    "level": "N4",
+    "term": "懐中電灯",
+    "reading": "かいちゅうでんとう",
+    "meaning": "lampu senter"
+  },
+  {
+    "level": "N4",
+    "term": "～とか",
+    "reading": "",
+    "meaning": "atau~"
+  },
+  {
+    "level": "N4",
+    "term": "丸い",
+    "reading": "まるい",
+    "meaning": "bulat\nbundar"
+  },
+  {
+    "level": "N4",
+    "term": "ある～",
+    "reading": "",
+    "meaning": "suatu~"
+  },
+  {
+    "level": "N4",
+    "term": "夢を見ます",
+    "reading": "ゆめをみます",
+    "meaning": "bermimpi"
+  },
+  {
+    "level": "N4",
+    "term": "うれしい",
+    "reading": "",
+    "meaning": "senang \ngembira"
+  },
+  {
+    "level": "N4",
+    "term": "嫌",
+    "reading": "いや",
+    "meaning": "tidak suka\ntidak senang"
+  },
+  {
+    "level": "N4",
+    "term": "すると",
+    "reading": "",
+    "meaning": "kemudian"
+  },
+  {
+    "level": "N4",
+    "term": "目が覚めます",
+    "reading": "めがさめます",
+    "meaning": "sadar\nbangun"
+  },
+  {
+    "level": "N4",
+    "term": "続けます",
+    "reading": "つづけます",
+    "meaning": "melanjutkan"
+  },
+  {
+    "level": "N4",
+    "term": "見つけます",
+    "reading": "みつけます",
+    "meaning": "menemukan"
+  },
+  {
+    "level": "N4",
+    "term": "取ります",
+    "reading": "とります",
+    "meaning": "mengambil"
+  },
+  {
+    "level": "N4",
+    "term": "受けます",
+    "reading": "うけます",
+    "meaning": "mengikuti"
+  },
+  {
+    "level": "N4",
+    "term": "申し込みます",
+    "reading": "もうしこみます",
+    "meaning": "mendaftar"
+  },
+  {
+    "level": "N4",
+    "term": "休憩します",
+    "reading": "きゅうけいします",
+    "meaning": "beristirahat"
+  },
+  {
+    "level": "N4",
+    "term": "連休",
+    "reading": "れんきゅう",
+    "meaning": "libur berurutan"
+  },
+  {
+    "level": "N4",
+    "term": "作文",
+    "reading": "さくぶん",
+    "meaning": "karangan"
+  },
+  {
+    "level": "N4",
+    "term": "発表",
+    "reading": "はっぴょう",
+    "meaning": "presentasi"
+  },
+  {
+    "level": "N4",
+    "term": "展覧会",
+    "reading": "てんらんかい",
+    "meaning": "pameran"
+  },
+  {
+    "level": "N4",
+    "term": "結婚式",
+    "reading": "けっこんしき",
+    "meaning": "upacara pernikahan"
+  },
+  {
+    "level": "N4",
+    "term": "葬式",
+    "reading": "そうしき",
+    "meaning": "upacara kematian"
+  },
+  {
+    "level": "N4",
+    "term": "式",
+    "reading": "しき",
+    "meaning": "upacara"
+  },
+  {
+    "level": "N4",
+    "term": "本社",
+    "reading": "ほんしゃ",
+    "meaning": "kantor pusat"
+  },
+  {
+    "level": "N4",
+    "term": "支店",
+    "reading": "してん",
+    "meaning": "kantor cabang"
+  },
+  {
+    "level": "N4",
+    "term": "教会",
+    "reading": "きょうかい",
+    "meaning": "gereja"
+  },
+  {
+    "level": "N4",
+    "term": "大学院",
+    "reading": "だいがくいん",
+    "meaning": "program s2 s3"
+  },
+  {
+    "level": "N4",
+    "term": "動物園",
+    "reading": "どうぶつえん",
+    "meaning": "kebun binatang"
+  },
+  {
+    "level": "N4",
+    "term": "温泉",
+    "reading": "おんせん",
+    "meaning": "pemandian air panas"
+  },
+  {
+    "level": "N4",
+    "term": "帰り",
+    "reading": "かえり",
+    "meaning": "pulang"
+  },
+  {
+    "level": "N4",
+    "term": "お子さん",
+    "reading": "おこさん",
+    "meaning": "anak orang lain"
+  },
+  {
+    "level": "N4",
+    "term": "～号",
+    "reading": "～ごう",
+    "meaning": "nomor~"
+  },
+  {
+    "level": "N4",
+    "term": "～の方",
+    "reading": "～のほう",
+    "meaning": "sebelah~"
+  },
+  {
+    "level": "N4",
+    "term": "残ります",
+    "reading": "のこります",
+    "meaning": "tinggal"
+  },
+  {
+    "level": "N4",
+    "term": "入学試験",
+    "reading": "にゅうがくしけん",
+    "meaning": "ujian masuk"
+  },
+  {
+    "level": "N4",
+    "term": "月に",
+    "reading": "つきに",
+    "meaning": "dalam sebulan"
+  },
+  {
+    "level": "N4",
+    "term": "村",
+    "reading": "むら",
+    "meaning": "desa\nkampung"
+  },
+  {
+    "level": "N4",
+    "term": "卒業します",
+    "reading": "そつぎょうします",
+    "meaning": "lulus\ntamat"
+  },
+  {
+    "level": "N4",
+    "term": "閉じます",
+    "reading": "とじます",
+    "meaning": "tutup"
+  },
+  {
+    "level": "N4",
+    "term": "都会",
+    "reading": "とかい",
+    "meaning": "kota besar"
+  },
+  {
+    "level": "N4",
+    "term": "運動します",
+    "reading": "うんどうします",
+    "meaning": "berolahraga"
+  },
+  {
+    "level": "N4",
+    "term": "成功します",
+    "reading": "せいこうします",
+    "meaning": "berhasil"
+  },
+  {
+    "level": "N4",
+    "term": "失敗します",
+    "reading": "しっぱいします",
+    "meaning": "gagal"
+  },
+  {
+    "level": "N4",
+    "term": "合格します",
+    "reading": "ごうかくします",
+    "meaning": "lulus"
+  },
+  {
+    "level": "N4",
+    "term": "やみます",
+    "reading": "",
+    "meaning": "berhenti"
+  },
+  {
+    "level": "N4",
+    "term": "晴れます",
+    "reading": "はれます",
+    "meaning": "cerah"
+  },
+  {
+    "level": "N4",
+    "term": "曇ります",
+    "reading": "くもります",
+    "meaning": "mendung"
+  },
+  {
+    "level": "N4",
+    "term": "続きます",
+    "reading": "つづきます",
+    "meaning": "berlangsung"
+  },
+  {
+    "level": "N4",
+    "term": "ひきます",
+    "reading": "",
+    "meaning": "masuk"
+  },
+  {
+    "level": "N4",
+    "term": "冷やします",
+    "reading": "ひやします",
+    "meaning": "mendinginkan"
+  },
+  {
+    "level": "N4",
+    "term": "込みます",
+    "reading": "こみます",
+    "meaning": "macet"
+  },
+  {
+    "level": "N4",
+    "term": "すきます",
+    "reading": "",
+    "meaning": "sepi"
+  },
+  {
+    "level": "N4",
+    "term": "出ます",
+    "reading": "でます",
+    "meaning": "keluar\nberangkat\nhadir\nmuncul\nlulus"
+  },
+  {
+    "level": "N4",
+    "term": "無理をします",
+    "reading": "むりをします",
+    "meaning": "memaksakan diri"
+  },
+  {
+    "level": "N4",
+    "term": "十分",
+    "reading": "じゅうぶん",
+    "meaning": "dengan cukup"
+  },
+  {
+    "level": "N4",
+    "term": "おかしい",
+    "reading": "",
+    "meaning": "aneh\nmenarik"
+  },
+  {
+    "level": "N4",
+    "term": "うるさい",
+    "reading": "",
+    "meaning": "berisik"
+  },
+  {
+    "level": "N4",
+    "term": "先生",
+    "reading": "せんせい",
+    "meaning": "dokter"
+  },
+  {
+    "level": "N4",
+    "term": "やけど",
+    "reading": "",
+    "meaning": "luka bakar"
+  },
+  {
+    "level": "N4",
+    "term": "けが",
+    "reading": "",
+    "meaning": "luka"
+  },
+  {
+    "level": "N4",
+    "term": "せき",
+    "reading": "",
+    "meaning": "batuk"
+  },
+  {
+    "level": "N4",
+    "term": "インフルエンザ",
+    "reading": "",
+    "meaning": "influensa"
+  },
+  {
+    "level": "N4",
+    "term": "太陽",
+    "reading": "たいよう",
+    "meaning": "matahari"
+  },
+  {
+    "level": "N4",
+    "term": "星",
+    "reading": "ほし",
+    "meaning": "bintang"
+  },
+  {
+    "level": "N4",
+    "term": "風",
+    "reading": "かぜ",
+    "meaning": "angin"
+  },
+  {
+    "level": "N4",
+    "term": "国際",
+    "reading": "こくさい",
+    "meaning": "internasional"
+  },
+  {
+    "level": "N4",
+    "term": "水道",
+    "reading": "すいどう",
+    "meaning": "air pam"
+  },
+  {
+    "level": "N4",
+    "term": "エンジン",
+    "reading": "",
+    "meaning": "mesin"
+  },
+  {
+    "level": "N4",
+    "term": "今夜",
+    "reading": "こんや",
+    "meaning": "nanti malam\nmalam ini"
+  },
+  {
+    "level": "N4",
+    "term": "夕方",
+    "reading": "ゆうがた",
+    "meaning": "sore\nsenja"
+  },
+  {
+    "level": "N4",
+    "term": "遅く",
+    "reading": "おそく",
+    "meaning": "kemalaman"
+  },
+  {
+    "level": "N4",
+    "term": "こんなに",
+    "reading": "",
+    "meaning": "begini"
+  },
+  {
+    "level": "N4",
+    "term": "あんなに",
+    "reading": "",
+    "meaning": "begitu"
+  },
+  {
+    "level": "N4",
+    "term": "恋愛",
+    "reading": "れんあい",
+    "meaning": "asmara"
+  },
+  {
+    "level": "N4",
+    "term": "健康",
+    "reading": "けんこう",
+    "meaning": "kesehatan"
+  },
+  {
+    "level": "N4",
+    "term": "当たります",
+    "reading": "あたります",
+    "meaning": "menang"
+  },
+  {
+    "level": "N4",
+    "term": "宝くじ",
+    "reading": "たからくじ",
+    "meaning": "lotre"
+  },
+  {
+    "level": "N4",
+    "term": "困ります",
+    "reading": "こまります",
+    "meaning": "bingung"
+  },
+  {
+    "level": "N4",
+    "term": "星占い",
+    "reading": "ほしうらない",
+    "meaning": "horoskop"
+  },
+  {
+    "level": "N4",
+    "term": "胃",
+    "reading": "い",
+    "meaning": "lambung"
+  },
+  {
+    "level": "N4",
+    "term": "逃げます",
+    "reading": "にげます",
+    "meaning": "berlari"
+  },
+  {
+    "level": "N4",
+    "term": "騒ぎます",
+    "reading": "さわぎます",
+    "meaning": "menghebohkan"
+  },
+  {
+    "level": "N4",
+    "term": "諦めます",
+    "reading": "あきらめます",
+    "meaning": "menyerah\nputus asa"
+  },
+  {
+    "level": "N4",
+    "term": "投げます",
+    "reading": "なげます",
+    "meaning": "melempar"
+  },
+  {
+    "level": "N4",
+    "term": "守ります",
+    "reading": "まもります",
+    "meaning": "menjaga"
+  },
+  {
+    "level": "N4",
+    "term": "始まります",
+    "reading": "はじまります",
+    "meaning": "dimulai"
+  },
+  {
+    "level": "N4",
+    "term": "出席します",
+    "reading": "しゅっせきします",
+    "meaning": "menghadiri"
+  },
+  {
+    "level": "N4",
+    "term": "伝えます",
+    "reading": "つたえます",
+    "meaning": "menyampaikan"
+  },
+  {
+    "level": "N4",
+    "term": "注意します",
+    "reading": "ちゅういします",
+    "meaning": "memperhatikan\nberhati-hati\nmenasihati"
+  },
+  {
+    "level": "N4",
+    "term": "外します",
+    "reading": "はずします",
+    "meaning": "meninggalkan"
+  },
+  {
+    "level": "N4",
+    "term": "戻ります",
+    "reading": "もどります",
+    "meaning": "kembali"
+  },
+  {
+    "level": "N4",
+    "term": "リサイクルします",
+    "reading": "",
+    "meaning": "mendaur ulang"
+  },
+  {
+    "level": "N4",
+    "term": "同じ",
+    "reading": "おなじ",
+    "meaning": "sama"
+  },
+  {
+    "level": "N4",
+    "term": "警察",
+    "reading": "けいさつ",
+    "meaning": "polisi"
+  },
+  {
+    "level": "N4",
+    "term": "席",
+    "reading": "せき",
+    "meaning": "tempat\nkursi"
+  },
+  {
+    "level": "N4",
+    "term": "締め切り",
+    "reading": "しめきり",
+    "meaning": "batas waktu"
+  },
+  {
+    "level": "N4",
+    "term": "規則",
+    "reading": "きそく",
+    "meaning": "peraturan"
+  },
+  {
+    "level": "N4",
+    "term": "危険",
+    "reading": "きけん",
+    "meaning": "bahaya"
+  },
+  {
+    "level": "N4",
+    "term": "使用禁止",
+    "reading": "しようきんし",
+    "meaning": "dilarang pakai"
+  },
+  {
+    "level": "N4",
+    "term": "徐行",
+    "reading": "じょこう",
+    "meaning": "berjalan perlahan"
+  },
+  {
+    "level": "N4",
+    "term": "入口",
+    "reading": "いりぐち",
+    "meaning": "pintu masuk"
+  },
+  {
+    "level": "N4",
+    "term": "出口",
+    "reading": "でぐち",
+    "meaning": "pintu keluar"
+  },
+  {
+    "level": "N4",
+    "term": "非常口",
+    "reading": "ひじょうぐち",
+    "meaning": "pintu darurat"
+  },
+  {
+    "level": "N4",
+    "term": "割引",
+    "reading": "わりびき",
+    "meaning": "diskon"
+  },
+  {
+    "level": "N4",
+    "term": "飲み放題",
+    "reading": "のみほうだい",
+    "meaning": "minum sepuasnya"
+  },
+  {
+    "level": "N4",
+    "term": "使用中",
+    "reading": "しようちゅう",
+    "meaning": "sedang dipakai"
+  },
+  {
+    "level": "N4",
+    "term": "募集中",
+    "reading": "ぼしゅうちゅう",
+    "meaning": "sedang dicari"
+  },
+  {
+    "level": "N4",
+    "term": "～中",
+    "reading": "～ちゅう",
+    "meaning": "sedang"
+  },
+  {
+    "level": "N4",
+    "term": "どういう～",
+    "reading": "",
+    "meaning": "bagaimana"
+  },
+  {
+    "level": "N4",
+    "term": "～ほど",
+    "reading": "",
+    "meaning": "kira-kira"
+  },
+  {
+    "level": "N4",
+    "term": "駐車違反",
+    "reading": "ちゅうしゃいはん",
+    "meaning": "pelanggaran lalu lintas"
+  },
+  {
+    "level": "N4",
+    "term": "罰金",
+    "reading": "ばっきん",
+    "meaning": "denda"
+  },
+  {
+    "level": "N4",
+    "term": "起きます",
+    "reading": "おきます",
+    "meaning": "terjadi"
+  },
+  {
+    "level": "N4",
+    "term": "助け合います",
+    "reading": "たすけあいます",
+    "meaning": "bantu-membantu"
+  },
+  {
+    "level": "N4",
+    "term": "もともと",
+    "reading": "",
+    "meaning": "memang"
+  },
+  {
+    "level": "N4",
+    "term": "悲しい",
+    "reading": "かなしい",
+    "meaning": "sedih"
+  },
+  {
+    "level": "N4",
+    "term": "あいさつ",
+    "reading": "",
+    "meaning": "salam"
+  },
+  {
+    "level": "N4",
+    "term": "相手",
+    "reading": "あいて",
+    "meaning": "kawan\npasangan\nlawan"
+  },
+  {
+    "level": "N4",
+    "term": "気持ち",
+    "reading": "きもち",
+    "meaning": "perasaan"
+  },
+  {
+    "level": "N4",
+    "term": "磨きます",
+    "reading": "みがきます",
+    "meaning": "menggosok"
+  },
+  {
+    "level": "N4",
+    "term": "組み立てます",
+    "reading": "くみたてます",
+    "meaning": "memasang"
+  },
+  {
+    "level": "N4",
+    "term": "折ります",
+    "reading": "おります",
+    "meaning": "melipat"
+  },
+  {
+    "level": "N4",
+    "term": "気がつきます",
+    "reading": "きがつきます",
+    "meaning": "teringat"
+  },
+  {
+    "level": "N4",
+    "term": "つけます",
+    "reading": "",
+    "meaning": "membubuhkan"
+  },
+  {
+    "level": "N4",
+    "term": "見つかります",
+    "reading": "みつかります",
+    "meaning": "ditemukan"
+  },
+  {
+    "level": "N4",
+    "term": "質問します",
+    "reading": "しつもんします",
+    "meaning": "bertanya"
+  },
+  {
+    "level": "N4",
+    "term": "さします",
+    "reading": "",
+    "meaning": "memakai"
+  },
+  {
+    "level": "N4",
+    "term": "お城",
+    "reading": "おしろ",
+    "meaning": "istana"
+  },
+  {
+    "level": "N4",
+    "term": "説明書",
+    "reading": "せつめいしょ",
+    "meaning": "petunjuk"
+  },
+  {
+    "level": "N4",
+    "term": "図",
+    "reading": "ず",
+    "meaning": "gambar"
+  },
+  {
+    "level": "N4",
+    "term": "線",
+    "reading": "せん",
+    "meaning": "garis"
+  },
+  {
+    "level": "N4",
+    "term": "矢印",
+    "reading": "やじるし",
+    "meaning": "tanda panah"
+  },
+  {
+    "level": "N4",
+    "term": "黒",
+    "reading": "くろ",
+    "meaning": "hitam"
+  },
+  {
+    "level": "N4",
+    "term": "白",
+    "reading": "しろ",
+    "meaning": "putih"
+  },
+  {
+    "level": "N4",
+    "term": "赤",
+    "reading": "あか",
+    "meaning": "merah"
+  },
+  {
+    "level": "N4",
+    "term": "青",
+    "reading": "あお",
+    "meaning": "biru"
+  },
+  {
+    "level": "N4",
+    "term": "紺",
+    "reading": "こん",
+    "meaning": "biru tua"
+  },
+  {
+    "level": "N4",
+    "term": "黄色",
+    "reading": "きいろ",
+    "meaning": "kuning"
+  },
+  {
+    "level": "N4",
+    "term": "茶色",
+    "reading": "ちゃいろ",
+    "meaning": "coklat"
+  },
+  {
+    "level": "N4",
+    "term": "しょうゆ",
+    "reading": "",
+    "meaning": "kecap asin"
+  },
+  {
+    "level": "N4",
+    "term": "お客",
+    "reading": "おきゃく",
+    "meaning": "tamu"
+  },
+  {
+    "level": "N4",
+    "term": "ゆうべ",
+    "reading": "",
+    "meaning": "tadi malam"
+  },
+  {
+    "level": "N4",
+    "term": "さっき",
+    "reading": "",
+    "meaning": "tadi"
+  },
+  {
+    "level": "N4",
+    "term": "茶道",
+    "reading": "さどう",
+    "meaning": "upacara teh"
+  },
+  {
+    "level": "N4",
+    "term": "載せます",
+    "reading": "のせます",
+    "meaning": "memuatkan"
+  },
+  {
+    "level": "N4",
+    "term": "苦い",
+    "reading": "にがい",
+    "meaning": "pahit"
+  },
+  {
+    "level": "N4",
+    "term": "親子どんぶり",
+    "reading": "おやこどんぶり",
+    "meaning": "oyakodonburi\n(nama makanan)"
+  },
+  {
+    "level": "N4",
+    "term": "材料",
+    "reading": "ざいりょう",
+    "meaning": "bahan"
+  },
+  {
+    "level": "N4",
+    "term": "たまねぎ",
+    "reading": "",
+    "meaning": "bawang bombai"
+  },
+  {
+    "level": "N4",
+    "term": "適当な大きさに",
+    "reading": "てきとうなおおきさに",
+    "meaning": "ukuran sedang"
+  },
+  {
+    "level": "N4",
+    "term": "なべ",
+    "reading": "",
+    "meaning": "panci"
+  },
+  {
+    "level": "N4",
+    "term": "火",
+    "reading": "ひ",
+    "meaning": "api"
+  },
+  {
+    "level": "N4",
+    "term": "火にかけます",
+    "reading": "ひにかけます",
+    "meaning": "memasak\nmemanaskan"
+  },
+  {
+    "level": "N4",
+    "term": "煮ます",
+    "reading": "にます",
+    "meaning": "merebus"
+  },
+  {
+    "level": "N4",
+    "term": "煮えます",
+    "reading": "にえます",
+    "meaning": "telah matang"
+  },
+  {
+    "level": "N4",
+    "term": "どんぶり",
+    "reading": "",
+    "meaning": "mangkuk"
+  },
+  {
+    "level": "N4",
+    "term": "たちます",
+    "reading": "",
+    "meaning": "lewat\nberlalu"
+  },
+  {
+    "level": "N4",
+    "term": "咲きます",
+    "reading": "さきます",
+    "meaning": "mekar"
+  },
+  {
+    "level": "N4",
+    "term": "変わります",
+    "reading": "かわります",
+    "meaning": "berubah"
+  },
+  {
+    "level": "N4",
+    "term": "治ります",
+    "reading": "なおります",
+    "meaning": "sembuh\nmembaik"
+  },
+  {
+    "level": "N4",
+    "term": "クリックします",
+    "reading": "",
+    "meaning": "klik"
+  },
+  {
+    "level": "N4",
+    "term": "入力します",
+    "reading": "にゅうりょくします",
+    "meaning": "mengisi"
+  },
+  {
+    "level": "N4",
+    "term": "正しい",
+    "reading": "ただしい",
+    "meaning": "benar"
+  },
+  {
+    "level": "N4",
+    "term": "向こう",
+    "reading": "むこう",
+    "meaning": "di sana\n di seberang"
+  },
+  {
+    "level": "N4",
+    "term": "島",
+    "reading": "しま",
+    "meaning": "pulau"
+  },
+  {
+    "level": "N4",
+    "term": "港",
+    "reading": "みなと",
+    "meaning": "pelabuhan"
+  },
+  {
+    "level": "N4",
+    "term": "近所",
+    "reading": "きんじょ",
+    "meaning": "tetangga"
+  },
+  {
+    "level": "N4",
+    "term": "屋上",
+    "reading": "おくじょう",
+    "meaning": "loteng"
+  },
+  {
+    "level": "N4",
+    "term": "海外",
+    "reading": "かいがい",
+    "meaning": "luar negeri"
+  },
+  {
+    "level": "N4",
+    "term": "山登り",
+    "reading": "やまのぼり",
+    "meaning": "mendaki gunung"
+  },
+  {
+    "level": "N4",
+    "term": "歴史",
+    "reading": "れきし",
+    "meaning": "sejarah"
+  },
+  {
+    "level": "N4",
+    "term": "機会",
+    "reading": "きかい",
+    "meaning": "kesempatan"
+  },
+  {
+    "level": "N4",
+    "term": "許可",
+    "reading": "きょか",
+    "meaning": "izin"
+  },
+  {
+    "level": "N4",
+    "term": "丸",
+    "reading": "まる",
+    "meaning": "bulat"
+  },
+  {
+    "level": "N4",
+    "term": "設備",
+    "reading": "せつび",
+    "meaning": "fasilitas"
+  },
+  {
+    "level": "N4",
+    "term": "レバー",
+    "reading": "",
+    "meaning": "tuas"
+  },
+  {
+    "level": "N4",
+    "term": "キー",
+    "reading": "",
+    "meaning": "tombol\nkeyboard"
+  },
+  {
+    "level": "N4",
+    "term": "カーテン",
+    "reading": "",
+    "meaning": "gorden\ntirai"
+  },
+  {
+    "level": "N4",
+    "term": "ひも",
+    "reading": "",
+    "meaning": "tali"
+  },
+  {
+    "level": "N4",
+    "term": "炊飯器",
+    "reading": "すいはんき",
+    "meaning": "rice cooker"
+  },
+  {
+    "level": "N4",
+    "term": "葉",
+    "reading": "は",
+    "meaning": "daun"
+  },
+  {
+    "level": "N4",
+    "term": "それなら",
+    "reading": "",
+    "meaning": "kalau begitu"
+  },
+  {
+    "level": "N4",
+    "term": "夜行バス",
+    "reading": "やこうばす",
+    "meaning": "bus malam"
+  },
+  {
+    "level": "N4",
+    "term": "旅行社",
+    "reading": "りょこうしゃ",
+    "meaning": "agen perjalanan"
+  },
+  {
+    "level": "N4",
+    "term": "詳しい",
+    "reading": "くわしい",
+    "meaning": "teliti"
+  },
+  {
+    "level": "N4",
+    "term": "スキー場",
+    "reading": "スキーじょう",
+    "meaning": "lapangan ski"
+  },
+  {
+    "level": "N4",
+    "term": "朱",
+    "reading": "しゅ",
+    "meaning": "merah terang"
+  },
+  {
+    "level": "N4",
+    "term": "交わります",
+    "reading": "まじわります",
+    "meaning": "bergaul"
+  },
+  {
+    "level": "N4",
+    "term": "ことわざ",
+    "reading": "",
+    "meaning": "pepatah"
+  },
+  {
+    "level": "N4",
+    "term": "関係",
+    "reading": "かんけい",
+    "meaning": "hubungan"
+  },
+  {
+    "level": "N4",
+    "term": "中よくします",
+    "reading": "なかよくします",
+    "meaning": "bergaul akrab"
+  },
+  {
+    "level": "N4",
+    "term": "必要",
+    "reading": "ひつよう",
+    "meaning": "perlu"
+  },
+  {
+    "level": "N4",
+    "term": "あいます",
+    "reading": "",
+    "meaning": "tertimpa"
+  },
+  {
+    "level": "N4",
+    "term": "貯金します",
+    "reading": "ちょきんします",
+    "meaning": "menabung"
+  },
+  {
+    "level": "N4",
+    "term": "過ぎます",
+    "reading": "すぎます",
+    "meaning": "lewat"
+  },
+  {
+    "level": "N4",
+    "term": "慣れます",
+    "reading": "なれます",
+    "meaning": "terbiasa"
+  },
+  {
+    "level": "N4",
+    "term": "腐ります",
+    "reading": "くさります",
+    "meaning": "busuk"
+  },
+  {
+    "level": "N4",
+    "term": "剣道",
+    "reading": "けんどう",
+    "meaning": "kendo"
+  },
+  {
+    "level": "N4",
+    "term": "柔道",
+    "reading": "じゅうどう",
+    "meaning": "judo"
+  },
+  {
+    "level": "N4",
+    "term": "ラッシュ",
+    "reading": "",
+    "meaning": "keramaian\nkesibukan"
+  },
+  {
+    "level": "N4",
+    "term": "宇宙",
+    "reading": "うちゅう",
+    "meaning": "angkasa"
+  },
+  {
+    "level": "N4",
+    "term": "曲",
+    "reading": "きょく",
+    "meaning": "musik"
+  },
+  {
+    "level": "N4",
+    "term": "このごろ",
+    "reading": "",
+    "meaning": "akhir-akhir ini"
+  },
+  {
+    "level": "N4",
+    "term": "やっと",
+    "reading": "",
+    "meaning": "akhirnya"
+  },
+  {
+    "level": "N4",
+    "term": "かなり",
+    "reading": "",
+    "meaning": "cukup"
+  },
+  {
+    "level": "N4",
+    "term": "必ず",
+    "reading": "かならず",
+    "meaning": "pasti"
+  },
+  {
+    "level": "N4",
+    "term": "絶対に",
+    "reading": "ぜったいに",
+    "meaning": "mutlak"
+  },
+  {
+    "level": "N4",
+    "term": "上手に",
+    "reading": "じょうずに",
+    "meaning": "dengan pandai"
+  },
+  {
+    "level": "N4",
+    "term": "できるだけ",
+    "reading": "",
+    "meaning": "sedapat mungkin"
+  },
+  {
+    "level": "N4",
+    "term": "ほとんど",
+    "reading": "",
+    "meaning": "sebagian besar"
+  },
+  {
+    "level": "N4",
+    "term": "お客様",
+    "reading": "おきゃくさま",
+    "meaning": "tamu\npelanggan"
+  },
+  {
+    "level": "N4",
+    "term": "特別",
+    "reading": "とくべつ",
+    "meaning": "spesial\nkhusus"
+  },
+  {
+    "level": "N4",
+    "term": "水泳",
+    "reading": "すいえい",
+    "meaning": "berenang"
+  },
+  {
+    "level": "N4",
+    "term": "チャレンジします",
+    "reading": "",
+    "meaning": "menantang"
+  },
+  {
+    "level": "N4",
+    "term": "乗り物",
+    "reading": "のりもの",
+    "meaning": "kendaraan"
+  },
+  {
+    "level": "N4",
+    "term": "世紀",
+    "reading": "せいき",
+    "meaning": "abad"
+  },
+  {
+    "level": "N4",
+    "term": "遠く",
+    "reading": "とおく",
+    "meaning": "jauh"
+  },
+  {
+    "level": "N4",
+    "term": "汽車",
+    "reading": "きしゃ",
+    "meaning": "kereta api"
+  },
+  {
+    "level": "N4",
+    "term": "汽船",
+    "reading": "きせん",
+    "meaning": "kapal api"
+  },
+  {
+    "level": "N4",
+    "term": "運びます",
+    "reading": "はこびます",
+    "meaning": "mengangkut"
+  },
+  {
+    "level": "N4",
+    "term": "利用します",
+    "reading": "りようします",
+    "meaning": "menggunakan"
+  },
+  {
+    "level": "N4",
+    "term": "褒めます",
+    "reading": "ほめます",
+    "meaning": "memuji"
+  },
+  {
+    "level": "N4",
+    "term": "しかります",
+    "reading": "",
+    "meaning": "memarahi"
+  },
+  {
+    "level": "N4",
+    "term": "招待します",
+    "reading": "しょうたいします",
+    "meaning": "mengundang"
+  },
+  {
+    "level": "N4",
+    "term": "頼みます",
+    "reading": "たのみます",
+    "meaning": "meminta"
+  },
+  {
+    "level": "N4",
+    "term": "とります",
+    "reading": "",
+    "meaning": "mencuri\nmengambil"
+  },
+  {
+    "level": "N4",
+    "term": "踏みます",
+    "reading": "ふみます",
+    "meaning": "menginjak"
+  },
+  {
+    "level": "N4",
+    "term": "壊します",
+    "reading": "こわします",
+    "meaning": "merusak"
+  },
+  {
+    "level": "N4",
+    "term": "汚します",
+    "reading": "よごします",
+    "meaning": "mengotori"
+  },
+  {
+    "level": "N4",
+    "term": "行います",
+    "reading": "おこないます",
+    "meaning": "mengadakan"
+  },
+  {
+    "level": "N4",
+    "term": "輸出します",
+    "reading": "ゆしゅつします",
+    "meaning": "mengekspor"
+  },
+  {
+    "level": "N4",
+    "term": "輸入します",
+    "reading": "ゆにゅうします",
+    "meaning": "mengimpor"
+  },
+  {
+    "level": "N4",
+    "term": "翻訳します",
+    "reading": "ほんやくします",
+    "meaning": "menerjemahkan"
+  },
+  {
+    "level": "N4",
+    "term": "発明します",
+    "reading": "はつめいします",
+    "meaning": "menciptakan"
+  },
+  {
+    "level": "N4",
+    "term": "発見します",
+    "reading": "はっけんします",
+    "meaning": "menemukan"
+  },
+  {
+    "level": "N4",
+    "term": "米",
+    "reading": "こめ",
+    "meaning": "beras"
+  },
+  {
+    "level": "N4",
+    "term": "麦",
+    "reading": "むぎ",
+    "meaning": "gadum"
+  },
+  {
+    "level": "N4",
+    "term": "石油",
+    "reading": "せきゆ",
+    "meaning": "minyak tanah"
+  },
+  {
+    "level": "N4",
+    "term": "原料",
+    "reading": "げんりょう",
+    "meaning": "bahan baku"
+  },
+  {
+    "level": "N4",
+    "term": "インスタントラーメン",
+    "reading": "",
+    "meaning": "mie instan"
+  },
+  {
+    "level": "N4",
+    "term": "泥棒",
+    "reading": "どろぼう",
+    "meaning": "pencuri"
+  },
+  {
+    "level": "N4",
+    "term": "警官",
+    "reading": "けいかん",
+    "meaning": "polisi"
+  },
+  {
+    "level": "N4",
+    "term": "世界中",
+    "reading": "せかいじゅう",
+    "meaning": "seluruh dunia"
+  },
+  {
+    "level": "N4",
+    "term": "皆様",
+    "reading": "みなさま",
+    "meaning": "semuanya"
+  },
+  {
+    "level": "N4",
+    "term": "焼けます",
+    "reading": "やけます",
+    "meaning": "terbakar\ndibakar"
+  },
+  {
+    "level": "N4",
+    "term": "その後",
+    "reading": "そのご",
+    "meaning": "setelah\nsesudah"
+  },
+  {
+    "level": "N4",
+    "term": "世界遺産",
+    "reading": "せかいいさん",
+    "meaning": "situs warisan dunia unesco"
+  },
+  {
+    "level": "N4",
+    "term": "金色",
+    "reading": "きんいろ",
+    "meaning": "warna emas"
+  },
+  {
+    "level": "N4",
+    "term": "本物",
+    "reading": "ほんもの",
+    "meaning": "asli"
+  },
+  {
+    "level": "N4",
+    "term": "美しい",
+    "reading": "うつくしい",
+    "meaning": "indah"
+  },
+  {
+    "level": "N4",
+    "term": "豪華",
+    "reading": "ごうか",
+    "meaning": "mewah"
+  },
+  {
+    "level": "N4",
+    "term": "彫刻",
+    "reading": "ちょうこく",
+    "meaning": "ukiran\npahatan"
+  },
+  {
+    "level": "N4",
+    "term": "言い伝え",
+    "reading": "いいつたえ",
+    "meaning": "tradisi"
+  },
+  {
+    "level": "N4",
+    "term": "眠ります",
+    "reading": "ねむります",
+    "meaning": "tidur"
+  },
+  {
+    "level": "N4",
+    "term": "彫ります",
+    "reading": "ほります",
+    "meaning": "mengukir\nmemahat"
+  },
+  {
+    "level": "N4",
+    "term": "仲間",
+    "reading": "なかま",
+    "meaning": "rekan\nteman"
+  },
+  {
+    "level": "N4",
+    "term": "しかし",
+    "reading": "",
+    "meaning": "tetapi"
+  },
+  {
+    "level": "N4",
+    "term": "そのあと",
+    "reading": "",
+    "meaning": "setelah itu"
+  },
+  {
+    "level": "N4",
+    "term": "一生懸命",
+    "reading": "いっしょうけんめい",
+    "meaning": "sungguh-sungguh"
+  },
+  {
+    "level": "N4",
+    "term": "ねずみ",
+    "reading": "",
+    "meaning": "tikus"
+  },
+  {
+    "level": "N4",
+    "term": "育てます",
+    "reading": "そだてます",
+    "meaning": "memelihara"
+  },
+  {
+    "level": "N4",
+    "term": "入院します",
+    "reading": "にゅういんします",
+    "meaning": "masuk opname"
+  },
+  {
+    "level": "N4",
+    "term": "退院します",
+    "reading": "たいいんします",
+    "meaning": "keluar opname"
+  },
+  {
+    "level": "N4",
+    "term": "入れます",
+    "reading": "いれます",
+    "meaning": "menghidupkan\nmemasukkan\nmenambahkan"
+  },
+  {
+    "level": "N4",
+    "term": "切ります",
+    "reading": "きります",
+    "meaning": "mematikan\nmemotong\nmemutuskan\nmengakhiri"
+  },
+  {
+    "level": "N4",
+    "term": "気持ちがいい",
+    "reading": "きもちがいい",
+    "meaning": "rasa enak"
+  },
+  {
+    "level": "N4",
+    "term": "気持ちが悪い",
+    "reading": "きもちがわるい",
+    "meaning": "jijik\nrasa tidak enak"
+  },
+  {
+    "level": "N4",
+    "term": "赤ちゃん",
+    "reading": "あかちゃん",
+    "meaning": "bayi"
+  },
+  {
+    "level": "N4",
+    "term": "小学校",
+    "reading": "しょうがっこう",
+    "meaning": "SD"
+  },
+  {
+    "level": "N4",
+    "term": "中学校",
+    "reading": "ちゅうがっこう",
+    "meaning": "SMP"
+  },
+  {
+    "level": "N4",
+    "term": "海岸",
+    "reading": "かいがん",
+    "meaning": "pantai\npesisir"
+  },
+  {
+    "level": "N4",
+    "term": "工場",
+    "reading": "こうじょう",
+    "meaning": "pabrik"
+  },
+  {
+    "level": "N4",
+    "term": "指輪",
+    "reading": "ゆびわ",
+    "meaning": "cincin"
+  },
+  {
+    "level": "N4",
+    "term": "電源",
+    "reading": "でんげん",
+    "meaning": "power suply"
+  },
+  {
+    "level": "N4",
+    "term": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "kebiasaan"
+  },
+  {
+    "level": "N4",
+    "term": "おととし",
+    "reading": "",
+    "meaning": "dua tahun lalu"
+  },
+  {
+    "level": "N4",
+    "term": "いけない",
+    "reading": "",
+    "meaning": "salah"
+  },
+  {
+    "level": "N4",
+    "term": "お先に",
+    "reading": "おさきに",
+    "meaning": "duluan"
+  },
+  {
+    "level": "N4",
+    "term": "回覧",
+    "reading": "かいらん",
+    "meaning": "edaran"
+  },
+  {
+    "level": "N4",
+    "term": "研究室",
+    "reading": "けんきゅうしつ",
+    "meaning": "laboratorium"
+  },
+  {
+    "level": "N4",
+    "term": "きちんと",
+    "reading": "",
+    "meaning": "dengan rapi"
+  },
+  {
+    "level": "N4",
+    "term": "整理します",
+    "reading": "せいりします",
+    "meaning": "mengatur"
+  },
+  {
+    "level": "N4",
+    "term": "方法",
+    "reading": "ほうほう",
+    "meaning": "cara"
+  },
+  {
+    "level": "N4",
+    "term": "はんこ",
+    "reading": "",
+    "meaning": "cap"
+  },
+  {
+    "level": "N4",
+    "term": "双子",
+    "reading": "ふたご",
+    "meaning": "anak kembar"
+  },
+  {
+    "level": "N4",
+    "term": "姉妹",
+    "reading": "しまい",
+    "meaning": "saudara perempuan"
+  },
+  {
+    "level": "N4",
+    "term": "５年生",
+    "reading": "ごねんせい",
+    "meaning": "kelas lima"
+  },
+  {
+    "level": "N4",
+    "term": "似ています",
+    "reading": "にています",
+    "meaning": "mirip"
+  },
+  {
+    "level": "N4",
+    "term": "性格",
+    "reading": "せいかく",
+    "meaning": "sifat"
+  },
+  {
+    "level": "N4",
+    "term": "おとなしい",
+    "reading": "",
+    "meaning": "pendiam"
+  },
+  {
+    "level": "N4",
+    "term": "世話をします",
+    "reading": "せわをします",
+    "meaning": "merawat\nmenjaga\nmembantu"
+  },
+  {
+    "level": "N4",
+    "term": "時間がたちます",
+    "reading": "じかんがたちます",
+    "meaning": "waktu berlalu"
+  },
+  {
+    "level": "N4",
+    "term": "気が強い",
+    "reading": "きがつよい",
+    "meaning": "galak\nbersifat keras"
+  },
+  {
+    "level": "N4",
+    "term": "けんかします",
+    "reading": "",
+    "meaning": "bertengkar"
+  },
+  {
+    "level": "N4",
+    "term": "年齢",
+    "reading": "ねんれい",
+    "meaning": "usia\numur"
+  },
+  {
+    "level": "N4",
+    "term": "しかた",
+    "reading": "",
+    "meaning": "cara"
+  },
+  {
+    "level": "N4",
+    "term": "答えます",
+    "reading": "こたえます",
+    "meaning": "menjawab"
+  },
+  {
+    "level": "N4",
+    "term": "通ります",
+    "reading": "とおります",
+    "meaning": "lewat\nmelalui"
+  },
+  {
+    "level": "N4",
+    "term": "死にます",
+    "reading": "しにます",
+    "meaning": "mati\nmeninggal"
+  },
+  {
+    "level": "N4",
+    "term": "びっくりします",
+    "reading": "",
+    "meaning": "kaget"
+  },
+  {
+    "level": "N4",
+    "term": "がっかりします",
+    "reading": "",
+    "meaning": "putus asa"
+  },
+  {
+    "level": "N4",
+    "term": "安心します",
+    "reading": "あんしんします",
+    "meaning": "lega\ntenang"
+  },
+  {
+    "level": "N4",
+    "term": "離婚します",
+    "reading": "りこんします",
+    "meaning": "bercerai"
+  },
+  {
+    "level": "N4",
+    "term": "太ります",
+    "reading": "ふとります",
+    "meaning": "menjadi gemuk"
+  },
+  {
+    "level": "N4",
+    "term": "やせます",
+    "reading": "",
+    "meaning": "menjadi kurus"
+  },
+  {
+    "level": "N4",
+    "term": "複雑",
+    "reading": "ふくざつ",
+    "meaning": "rumit"
+  },
+  {
+    "level": "N4",
+    "term": "邪魔",
+    "reading": "じゃま",
+    "meaning": "gangguan"
+  },
+  {
+    "level": "N4",
+    "term": "硬い",
+    "reading": "かたい",
+    "meaning": "keras"
+  },
+  {
+    "level": "N4",
+    "term": "軟らかい",
+    "reading": "やわらかい",
+    "meaning": "lembut"
+  },
+  {
+    "level": "N4",
+    "term": "汚い",
+    "reading": "きたない",
+    "meaning": "kotor"
+  },
+  {
+    "level": "N4",
+    "term": "恥ずかしい",
+    "reading": "はずかしい",
+    "meaning": "malu"
+  },
+  {
+    "level": "N4",
+    "term": "首相",
+    "reading": "しゅしょう",
+    "meaning": "perdana menteri"
+  },
+  {
+    "level": "N4",
+    "term": "津波",
+    "reading": "つなみ",
+    "meaning": "tsunami"
+  },
+  {
+    "level": "N4",
+    "term": "台風",
+    "reading": "たいふう",
+    "meaning": "angin topan"
+  },
+  {
+    "level": "N4",
+    "term": "雷",
+    "reading": "かみなり",
+    "meaning": "petir"
+  },
+  {
+    "level": "N4",
+    "term": "火事",
+    "reading": "かじ",
+    "meaning": "kebakaran"
+  },
+  {
+    "level": "N4",
+    "term": "事故",
+    "reading": "じこ",
+    "meaning": "kecelakaan"
+  },
+  {
+    "level": "N4",
+    "term": "ハイキング",
+    "reading": "",
+    "meaning": "hiking"
+  },
+  {
+    "level": "N4",
+    "term": "お見合い",
+    "reading": "おみあい",
+    "meaning": "perjodohan"
+  },
+  {
+    "level": "N4",
+    "term": "操作",
+    "reading": "そうさ",
+    "meaning": "operasi"
+  },
+  {
+    "level": "N4",
+    "term": "会場",
+    "reading": "かいじょう",
+    "meaning": "tempat"
+  },
+  {
+    "level": "N4",
+    "term": "タオル",
+    "reading": "",
+    "meaning": "handuk"
+  },
+  {
+    "level": "N4",
+    "term": "せっけん",
+    "reading": "",
+    "meaning": "sabun"
+  },
+  {
+    "level": "N4",
+    "term": "大勢",
+    "reading": "おおぜい",
+    "meaning": "banyak"
+  },
+  {
+    "level": "N4",
+    "term": "途中",
+    "reading": "とちゅう",
+    "meaning": "di tengah\n(tentang sikon)"
+  },
+  {
+    "level": "N4",
+    "term": "ぶつかります",
+    "reading": "",
+    "meaning": "menabrak"
+  },
+  {
+    "level": "N4",
+    "term": "大人",
+    "reading": "おとな",
+    "meaning": "dewasa"
+  },
+  {
+    "level": "N4",
+    "term": "洋服",
+    "reading": "ようふく",
+    "meaning": "baju"
+  },
+  {
+    "level": "N4",
+    "term": "西洋化します",
+    "reading": "せいようかします",
+    "meaning": "kebarat-baratan"
+  },
+  {
+    "level": "N4",
+    "term": "会います",
+    "reading": "あいます",
+    "meaning": "cocok\nbertemu"
+  },
+  {
+    "level": "N4",
+    "term": "成人式",
+    "reading": "せいじんしき",
+    "meaning": "upacara pendewasaan"
+  },
+  {
+    "level": "N4",
+    "term": "伝統的",
+    "reading": "でんとうてき",
+    "meaning": "secara tradisional"
+  },
+  {
+    "level": "N4",
+    "term": "数えます",
+    "reading": "かぞえます",
+    "meaning": "menghitung"
+  },
+  {
+    "level": "N4",
+    "term": "測ります",
+    "reading": "量ります / はかります",
+    "meaning": "mengukur\nmenimbang"
+  },
+  {
+    "level": "N4",
+    "term": "確かめます",
+    "reading": "たしかめます",
+    "meaning": "mengecek"
+  },
+  {
+    "level": "N4",
+    "term": "出発します",
+    "reading": "しゅっぱつします",
+    "meaning": "berangkat"
+  },
+  {
+    "level": "N4",
+    "term": "到着します",
+    "reading": "とうちゃくします",
+    "meaning": "tiba"
+  },
+  {
+    "level": "N4",
+    "term": "酔います",
+    "reading": "よいます",
+    "meaning": "mabuk"
+  },
+  {
+    "level": "N4",
+    "term": "うまくいきます",
+    "reading": "",
+    "meaning": "berhasil dengan baik"
+  },
+  {
+    "level": "N4",
+    "term": "相談します",
+    "reading": "そうだんします",
+    "meaning": "berkonsultasi"
+  },
+  {
+    "level": "N4",
+    "term": "天気予報",
+    "reading": "てんきよほう",
+    "meaning": "prakiraan cuaca"
+  },
+  {
+    "level": "N4",
+    "term": "忘年会",
+    "reading": "ぼうねんかい",
+    "meaning": "pesta akhir tahun"
+  },
+  {
+    "level": "N4",
+    "term": "新年会",
+    "reading": "しんねんかい",
+    "meaning": "pesta tahun baru"
+  },
+  {
+    "level": "N4",
+    "term": "二次会",
+    "reading": "にじかい",
+    "meaning": "pesta untuk kedua kali"
+  },
+  {
+    "level": "N4",
+    "term": "発表会",
+    "reading": "はっぴょうかい",
+    "meaning": "presentasi"
+  },
+  {
+    "level": "N4",
+    "term": "大会",
+    "reading": "たいかい",
+    "meaning": "lomba"
+  },
+  {
+    "level": "N4",
+    "term": "マラソン",
+    "reading": "",
+    "meaning": "maraton"
+  },
+  {
+    "level": "N4",
+    "term": "コンテスト",
+    "reading": "",
+    "meaning": "pertandingan"
+  },
+  {
+    "level": "N4",
+    "term": "表",
+    "reading": "おもて",
+    "meaning": "muka"
+  },
+  {
+    "level": "N4",
+    "term": "裏",
+    "reading": "うら",
+    "meaning": "belakang"
+  },
+  {
+    "level": "N4",
+    "term": "まちがい",
+    "reading": "",
+    "meaning": "kesalahan"
+  },
+  {
+    "level": "N4",
+    "term": "傷",
+    "reading": "きず",
+    "meaning": "cacat\nluka"
+  },
+  {
+    "level": "N4",
+    "term": "ズボン",
+    "reading": "",
+    "meaning": "celana"
+  },
+  {
+    "level": "N4",
+    "term": "年寄り",
+    "reading": "としより",
+    "meaning": "lansia"
+  },
+  {
+    "level": "N4",
+    "term": "長さ",
+    "reading": "ながさ",
+    "meaning": "panjangnya"
+  },
+  {
+    "level": "N4",
+    "term": "重さ",
+    "reading": "おもさ",
+    "meaning": "beratnya"
+  },
+  {
+    "level": "N4",
+    "term": "高さ",
+    "reading": "たかさ",
+    "meaning": "tingginya"
+  },
+  {
+    "level": "N4",
+    "term": "大きさ",
+    "reading": "おおきさ",
+    "meaning": "besarnya"
+  },
+  {
+    "level": "N4",
+    "term": "~便",
+    "reading": "~びん",
+    "meaning": "~botol"
+  },
+  {
+    "level": "N4",
+    "term": "~個",
+    "reading": "~こ",
+    "meaning": "~buah"
+  },
+  {
+    "level": "N4",
+    "term": "～本",
+    "reading": "～ほん",
+    "meaning": "~batang"
+  },
+  {
+    "level": "N4",
+    "term": "～杯",
+    "reading": "～はい",
+    "meaning": "~cangkir\n~gelas"
+  },
+  {
+    "level": "N4",
+    "term": "センチ",
+    "reading": "",
+    "meaning": "centimeter"
+  },
+  {
+    "level": "N4",
+    "term": "ミリ",
+    "reading": "",
+    "meaning": "milimeter"
+  },
+  {
+    "level": "N4",
+    "term": "グラム",
+    "reading": "",
+    "meaning": "gram"
+  },
+  {
+    "level": "N4",
+    "term": "以上",
+    "reading": "いじょう",
+    "meaning": "di atas\nlebih dari"
+  },
+  {
+    "level": "N4",
+    "term": "以下",
+    "reading": "いか",
+    "meaning": "di bawah\nkurang dari"
+  },
+  {
+    "level": "N4",
+    "term": "どうでしょうか",
+    "reading": "",
+    "meaning": "bagaimana"
+  },
+  {
+    "level": "N4",
+    "term": "成績",
+    "reading": "せいせき",
+    "meaning": "nilai"
+  },
+  {
+    "level": "N4",
+    "term": "ところで",
+    "reading": "",
+    "meaning": "ngomong-ngomong"
+  },
+  {
+    "level": "N4",
+    "term": "様子",
+    "reading": "ようす",
+    "meaning": "kondisi\nsuasana"
+  },
+  {
+    "level": "N4",
+    "term": "事件",
+    "reading": "じけん",
+    "meaning": "kejadian"
+  },
+  {
+    "level": "N4",
+    "term": "オートバイ",
+    "reading": "",
+    "meaning": "sepeda motor"
+  },
+  {
+    "level": "N4",
+    "term": "爆弾",
+    "reading": "ばくだん",
+    "meaning": "bom"
+  },
+  {
+    "level": "N4",
+    "term": "運転手",
+    "reading": "うんてんしゅ",
+    "meaning": "sopir"
+  },
+  {
+    "level": "N4",
+    "term": "離れた",
+    "reading": "はなれた",
+    "meaning": "terpisah"
+  },
+  {
+    "level": "N4",
+    "term": "急に",
+    "reading": "きゅうに",
+    "meaning": "mendadak\ntiba-tiba"
+  },
+  {
+    "level": "N4",
+    "term": "動かします",
+    "reading": "うごかします",
+    "meaning": "menggerakkan"
+  },
+  {
+    "level": "N4",
+    "term": "犯人",
+    "reading": "はんにん",
+    "meaning": "pelaku"
+  },
+  {
+    "level": "N4",
+    "term": "手に入れます",
+    "reading": "てにいれます",
+    "meaning": "mendapatkan"
+  },
+  {
+    "level": "N4",
+    "term": "今でも",
+    "reading": "いまでも",
+    "meaning": "sampai sekarang"
+  },
+  {
+    "level": "N4",
+    "term": "くださいます",
+    "reading": "",
+    "meaning": "memberi (sopan)"
+  },
+  {
+    "level": "N4",
+    "term": "上げます",
+    "reading": "あげます",
+    "meaning": "menaikkan"
+  },
+  {
+    "level": "N4",
+    "term": "下げます",
+    "reading": "さげます",
+    "meaning": "menurunkan"
+  },
+  {
+    "level": "N4",
+    "term": "親切にします",
+    "reading": "しんせつにします",
+    "meaning": "berbaik hati"
+  },
+  {
+    "level": "N4",
+    "term": "お祝い",
+    "reading": "おいわい",
+    "meaning": "perayaan\nhadiah"
+  },
+  {
+    "level": "N4",
+    "term": "お年玉",
+    "reading": "おとしだま",
+    "meaning": "angpao"
+  },
+  {
+    "level": "N4",
+    "term": "お見舞い",
+    "reading": "おみまい",
+    "meaning": "membesuk\nbarang bantuan"
+  },
+  {
+    "level": "N4",
+    "term": "興味",
+    "reading": "きょうみ",
+    "meaning": "minat\nketertarikan"
+  },
+  {
+    "level": "N4",
+    "term": "情報",
+    "reading": "じょうほう",
+    "meaning": "informasi"
+  },
+  {
+    "level": "N4",
+    "term": "文法",
+    "reading": "ぶんぽう",
+    "meaning": "tata bahasa"
+  },
+  {
+    "level": "N4",
+    "term": "発音",
+    "reading": "はつおん",
+    "meaning": "ungkapan"
+  },
+  {
+    "level": "N4",
+    "term": "猿",
+    "reading": "さる",
+    "meaning": "monyet"
+  },
+  {
+    "level": "N4",
+    "term": "えさ",
+    "reading": "",
+    "meaning": "makanan"
+  },
+  {
+    "level": "N4",
+    "term": "おもちゃ",
+    "reading": "",
+    "meaning": "mainan"
+  },
+  {
+    "level": "N4",
+    "term": "絵本",
+    "reading": "えほん",
+    "meaning": "buku gambar"
+  },
+  {
+    "level": "N4",
+    "term": "絵はがき",
+    "reading": "えはがき",
+    "meaning": "kartu pos bergambar"
+  },
+  {
+    "level": "N4",
+    "term": "ハンカチ",
+    "reading": "",
+    "meaning": "sapu tangan"
+  },
+  {
+    "level": "N4",
+    "term": "靴下",
+    "reading": "くつした",
+    "meaning": "kaos kaki"
+  },
+  {
+    "level": "N4",
+    "term": "手袋",
+    "reading": "てぶくろ",
+    "meaning": "sarung tangan"
+  },
+  {
+    "level": "N4",
+    "term": "幼稚園",
+    "reading": "ようちえん",
+    "meaning": "TK\n(taman kanak-kanak)"
+  },
+  {
+    "level": "N4",
+    "term": "暖房",
+    "reading": "だんぼう",
+    "meaning": "alat pemanas"
+  },
+  {
+    "level": "N4",
+    "term": "冷房",
+    "reading": "れいぼう",
+    "meaning": "AC"
+  },
+  {
+    "level": "N4",
+    "term": "温度",
+    "reading": "おんど",
+    "meaning": "suhu"
+  },
+  {
+    "level": "N4",
+    "term": "祖父",
+    "reading": "そふ",
+    "meaning": "kakek"
+  },
+  {
+    "level": "N4",
+    "term": "祖母",
+    "reading": "そぼ",
+    "meaning": "nenek"
+  },
+  {
+    "level": "N4",
+    "term": "孫",
+    "reading": "まご",
+    "meaning": "cucu"
+  },
+  {
+    "level": "N4",
+    "term": "お孫さん",
+    "reading": "おまごさん",
+    "meaning": "cucu"
+  },
+  {
+    "level": "N4",
+    "term": "おじ",
+    "reading": "おじさん",
+    "meaning": "paman\nom"
+  },
+  {
+    "level": "N4",
+    "term": "おば",
+    "reading": "おばさん",
+    "meaning": "bibi\ntante"
+  },
+  {
+    "level": "N4",
+    "term": "管理人",
+    "reading": "かんりにん",
+    "meaning": "penjaga\npengelola"
+  },
+  {
+    "level": "N4",
+    "term": "この間",
+    "reading": "このあいだ",
+    "meaning": "beberapa waktu lalu"
+  },
+  {
+    "level": "N4",
+    "term": "ひとこと",
+    "reading": "",
+    "meaning": "sepatah kata"
+  },
+  {
+    "level": "N4",
+    "term": "お宅",
+    "reading": "おたく",
+    "meaning": "rumah (sopan)"
+  },
+  {
+    "level": "N4",
+    "term": "どうぞお幸せに",
+    "reading": "どうぞおしあわせに",
+    "meaning": "selamat berbahagia"
+  },
+  {
+    "level": "N4",
+    "term": "昔話",
+    "reading": "むかしはなし",
+    "meaning": "cerita dongeng"
+  },
+  {
+    "level": "N4",
+    "term": "いじめます",
+    "reading": "",
+    "meaning": "menyiksa\nmenganiaya"
+  },
+  {
+    "level": "N4",
+    "term": "かめ",
+    "reading": "",
+    "meaning": "kura-kura"
+  },
+  {
+    "level": "N4",
+    "term": "助けます",
+    "reading": "たすけます",
+    "meaning": "membantu\nmenolong"
+  },
+  {
+    "level": "N4",
+    "term": "お姫様",
+    "reading": "おひめさま",
+    "meaning": "tuan putri"
+  },
+  {
+    "level": "N4",
+    "term": "暮らします",
+    "reading": "くらします",
+    "meaning": "hidup"
+  },
+  {
+    "level": "N4",
+    "term": "陸",
+    "reading": "りく",
+    "meaning": "daratan"
+  },
+  {
+    "level": "N4",
+    "term": "煙",
+    "reading": "けむり",
+    "meaning": "asap"
+  },
+  {
+    "level": "N4",
+    "term": "真っ白",
+    "reading": "まっしろ",
+    "meaning": "putih"
+  },
+  {
+    "level": "N4",
+    "term": "中身",
+    "reading": "なかみ",
+    "meaning": "isi"
+  },
+  {
+    "level": "N4",
+    "term": "包みます",
+    "reading": "つつみます",
+    "meaning": "membungkus"
+  },
+  {
+    "level": "N4",
+    "term": "沸かします",
+    "reading": "わかします",
+    "meaning": "memasak"
+  },
+  {
+    "level": "N4",
+    "term": "混ぜます",
+    "reading": "まぜます",
+    "meaning": "mencampur"
+  },
+  {
+    "level": "N4",
+    "term": "計算します",
+    "reading": "けいさんします",
+    "meaning": "menghitung"
+  },
+  {
+    "level": "N4",
+    "term": "並びます",
+    "reading": "ならびます",
+    "meaning": "berbaris"
+  },
+  {
+    "level": "N4",
+    "term": "丈夫",
+    "reading": "じょうぶ",
+    "meaning": "kuat"
+  },
+  {
+    "level": "N4",
+    "term": "弁護士",
+    "reading": "べんごし",
+    "meaning": "pengacara"
+  },
+  {
+    "level": "N4",
+    "term": "音楽家",
+    "reading": "おんがくか",
+    "meaning": "musisi"
+  },
+  {
+    "level": "N4",
+    "term": "自然",
+    "reading": "しぜん",
+    "meaning": "alam\nalami"
+  },
+  {
+    "level": "N4",
+    "term": "教育",
+    "reading": "きょういく",
+    "meaning": "pendidikan"
+  },
+  {
+    "level": "N4",
+    "term": "文化",
+    "reading": "ぶんか",
+    "meaning": "budaya"
+  },
+  {
+    "level": "N4",
+    "term": "社会",
+    "reading": "しゃかい",
+    "meaning": "sosial"
+  },
+  {
+    "level": "N4",
+    "term": "政治",
+    "reading": "せいじ",
+    "meaning": "politik"
+  },
+  {
+    "level": "N4",
+    "term": "法律",
+    "reading": "ほうりつ",
+    "meaning": "hukum"
+  },
+  {
+    "level": "N4",
+    "term": "戦争",
+    "reading": "せんそう",
+    "meaning": "perang"
+  },
+  {
+    "level": "N4",
+    "term": "平和",
+    "reading": "へいわ",
+    "meaning": "damai\nperdamaian"
+  },
+  {
+    "level": "N4",
+    "term": "目的",
+    "reading": "もくてき",
+    "meaning": "tujuan"
+  },
+  {
+    "level": "N4",
+    "term": "論文",
+    "reading": "ろんぶん",
+    "meaning": "tesis"
+  },
+  {
+    "level": "N4",
+    "term": "楽しみ",
+    "reading": "たのしみ",
+    "meaning": "kesenangan"
+  },
+  {
+    "level": "N4",
+    "term": "ミキサー",
+    "reading": "",
+    "meaning": "mixer"
+  },
+  {
+    "level": "N4",
+    "term": "やかん",
+    "reading": "",
+    "meaning": "ceret\nketel"
+  },
+  {
+    "level": "N4",
+    "term": "ふた",
+    "reading": "",
+    "meaning": "tutup"
+  },
+  {
+    "level": "N4",
+    "term": "栓抜き",
+    "reading": "せんぬき",
+    "meaning": "pembuka botol"
+  },
+  {
+    "level": "N4",
+    "term": "缶切り",
+    "reading": "かんきり",
+    "meaning": "pembuka kaleng"
+  },
+  {
+    "level": "N4",
+    "term": "缶詰",
+    "reading": "かんづめ",
+    "meaning": "makanan kaleng"
+  },
+  {
+    "level": "N4",
+    "term": "のし袋",
+    "reading": "のしぶくろ",
+    "meaning": "amplop khusus uang"
+  },
+  {
+    "level": "N4",
+    "term": "ふろしく",
+    "reading": "",
+    "meaning": "kain pembungkus barang"
+  },
+  {
+    "level": "N4",
+    "term": "そろばん",
+    "reading": "",
+    "meaning": "sempoa"
+  },
+  {
+    "level": "N4",
+    "term": "体温計",
+    "reading": "たいおんけい",
+    "meaning": "termometer"
+  },
+  {
+    "level": "N4",
+    "term": "国連",
+    "reading": "こくれん",
+    "meaning": "perserikatan bangsa-bangsa"
+  },
+  {
+    "level": "N4",
+    "term": "世界初",
+    "reading": "せかいはつ",
+    "meaning": "pertama di dunia"
+  },
+  {
+    "level": "N4",
+    "term": "～によって",
+    "reading": "",
+    "meaning": "oleh~"
+  },
+  {
+    "level": "N4",
+    "term": "めん",
+    "reading": "",
+    "meaning": "mie"
+  },
+  {
+    "level": "N4",
+    "term": "広めます",
+    "reading": "ひろめます",
+    "meaning": "menyebarluaskan"
+  },
+  {
+    "level": "N4",
+    "term": "市場調査",
+    "reading": "しじょうちょうさ",
+    "meaning": "riset pemasaran"
+  },
+  {
+    "level": "N4",
+    "term": "割ります",
+    "reading": "わります",
+    "meaning": "membagi"
+  },
+  {
+    "level": "N4",
+    "term": "注ぎます",
+    "reading": "そそぎます",
+    "meaning": "menyiram"
+  },
+  {
+    "level": "N4",
+    "term": "増えます",
+    "reading": "ふえます",
+    "meaning": "bertambah"
+  },
+  {
+    "level": "N4",
+    "term": "減ります",
+    "reading": "へります",
+    "meaning": "berkurang"
+  },
+  {
+    "level": "N4",
+    "term": "上がります",
+    "reading": "あがります",
+    "meaning": "meningkat"
+  },
+  {
+    "level": "N4",
+    "term": "下がります",
+    "reading": "さがります",
+    "meaning": "menurun"
+  },
+  {
+    "level": "N4",
+    "term": "切れます",
+    "reading": "きれます",
+    "meaning": "terputus"
+  },
+  {
+    "level": "N4",
+    "term": "とれます",
+    "reading": "",
+    "meaning": "terlepas"
+  },
+  {
+    "level": "N4",
+    "term": "落ちます",
+    "reading": "おちます",
+    "meaning": "terjatuh"
+  },
+  {
+    "level": "N4",
+    "term": "なくなります",
+    "reading": "",
+    "meaning": "habis"
+  },
+  {
+    "level": "N4",
+    "term": "変",
+    "reading": "へん",
+    "meaning": "aneh"
+  },
+  {
+    "level": "N4",
+    "term": "幸せ",
+    "reading": "しあわせ",
+    "meaning": "bahagia"
+  },
+  {
+    "level": "N4",
+    "term": "楽",
+    "reading": "らく",
+    "meaning": "ringan"
+  },
+  {
+    "level": "N4",
+    "term": "上手い",
+    "reading": "うまい",
+    "meaning": "enak\nmahir"
+  },
+  {
+    "level": "N4",
+    "term": "ガソリン",
+    "reading": "",
+    "meaning": "bensin"
+  },
+  {
+    "level": "N4",
+    "term": "パンフレット",
+    "reading": "",
+    "meaning": "pamflet"
+  },
+  {
+    "level": "N4",
+    "term": "今にも",
+    "reading": "いまにも",
+    "meaning": "sekarang juga"
+  },
+  {
+    "level": "N4",
+    "term": "ぼら",
+    "reading": "",
+    "meaning": "mawar"
+  },
+  {
+    "level": "N4",
+    "term": "理由",
+    "reading": "りゆう",
+    "meaning": "alasan"
+  },
+  {
+    "level": "N4",
+    "term": "謝ります",
+    "reading": "あやまります",
+    "meaning": "memohon maaf"
+  },
+  {
+    "level": "N4",
+    "term": "知り合います",
+    "reading": "しりあいます",
+    "meaning": "berkenalan"
+  },
+  {
+    "level": "N4",
+    "term": "泣きます",
+    "reading": "なきます",
+    "meaning": "menangis"
+  },
+  {
+    "level": "N4",
+    "term": "笑います",
+    "reading": "わらいます",
+    "meaning": "tertawa"
+  },
+  {
+    "level": "N4",
+    "term": "乾きます",
+    "reading": "かわきます",
+    "meaning": "mengering"
+  },
+  {
+    "level": "N4",
+    "term": "ぬれます",
+    "reading": "",
+    "meaning": "basah"
+  },
+  {
+    "level": "N4",
+    "term": "滑ります",
+    "reading": "すべります",
+    "meaning": "licin"
+  },
+  {
+    "level": "N4",
+    "term": "調節します",
+    "reading": "ちょうせつします",
+    "meaning": "mengontrol"
+  },
+  {
+    "level": "N4",
+    "term": "安全",
+    "reading": "あんぜん",
+    "meaning": "aman"
+  },
+  {
+    "level": "N4",
+    "term": "濃い",
+    "reading": "こい",
+    "meaning": "kental (rasa)\ntua (warna)"
+  },
+  {
+    "level": "N4",
+    "term": "薄い",
+    "reading": "うすい",
+    "meaning": "tawar (rasa)\nmuda (warna)\ntipis (barang)"
+  },
+  {
+    "level": "N4",
+    "term": "厚い",
+    "reading": "あつい",
+    "meaning": "tebal"
+  },
+  {
+    "level": "N4",
+    "term": "太い",
+    "reading": "ふとい",
+    "meaning": "gemuk"
+  },
+  {
+    "level": "N4",
+    "term": "細い",
+    "reading": "ほそい",
+    "meaning": "kurus"
+  },
+  {
+    "level": "N4",
+    "term": "空気",
+    "reading": "くうき",
+    "meaning": "udara"
+  },
+  {
+    "level": "N4",
+    "term": "涙",
+    "reading": "なみだ",
+    "meaning": "air mata"
+  },
+  {
+    "level": "N4",
+    "term": "和食",
+    "reading": "わしょく",
+    "meaning": "makanan jepang"
+  },
+  {
+    "level": "N4",
+    "term": "洋食",
+    "reading": "ようしょく",
+    "meaning": "makanan barat"
+  },
+  {
+    "level": "N4",
+    "term": "おかず",
+    "reading": "",
+    "meaning": "lauk-pauk"
+  },
+  {
+    "level": "N4",
+    "term": "量",
+    "reading": "りょう",
+    "meaning": "kuantitas"
+  },
+  {
+    "level": "N4",
+    "term": "洗濯物",
+    "reading": "せんたくもの",
+    "meaning": "cucian"
+  },
+  {
+    "level": "N4",
+    "term": "嫌がります",
+    "reading": "いやがります",
+    "meaning": "tidak mau"
+  },
+  {
+    "level": "N4",
+    "term": "うまく",
+    "reading": "",
+    "meaning": "pandai"
+  },
+  {
+    "level": "N4",
+    "term": "順序",
+    "reading": "じゅんじょ",
+    "meaning": "urutan"
+  },
+  {
+    "level": "N4",
+    "term": "表現",
+    "reading": "ひょうげん",
+    "meaning": "ungkapan\nekspresi"
+  },
+  {
+    "level": "N4",
+    "term": "別れます",
+    "reading": "わかれます",
+    "meaning": "berpisah"
+  },
+  {
+    "level": "N4",
+    "term": "これら",
+    "reading": "",
+    "meaning": "itu"
+  },
+  {
+    "level": "N4",
+    "term": "縁起が悪い",
+    "reading": "えんぎがわるい",
+    "meaning": "tidak menyenangkan"
+  },
+  {
+    "level": "N4",
+    "term": "信じます",
+    "reading": "しんじます",
+    "meaning": "percaya"
+  },
+  {
+    "level": "N4",
+    "term": "キャンセルします",
+    "reading": "",
+    "meaning": "membatalkan"
+  },
+  {
+    "level": "N4",
+    "term": "知らせます",
+    "reading": "しらせます",
+    "meaning": "memberitau"
+  },
+  {
+    "level": "N4",
+    "term": "保証書",
+    "reading": "ほしょうしょ",
+    "meaning": "surat garansi"
+  },
+  {
+    "level": "N4",
+    "term": "領収書",
+    "reading": "りょうしゅうしょ",
+    "meaning": "kuitansi"
+  },
+  {
+    "level": "N4",
+    "term": "キャンプ",
+    "reading": "",
+    "meaning": "kemah"
+  },
+  {
+    "level": "N4",
+    "term": "中止",
+    "reading": "ちゅうし",
+    "meaning": "batal"
+  },
+  {
+    "level": "N4",
+    "term": "点",
+    "reading": "てん",
+    "meaning": "poin\nnilai"
+  },
+  {
+    "level": "N4",
+    "term": "梅",
+    "reading": "うめ",
+    "meaning": "bunga plum"
+  },
+  {
+    "level": "N4",
+    "term": "無理に",
+    "reading": "むりに",
+    "meaning": "dengan paksa"
+  },
+  {
+    "level": "N4",
+    "term": "以上です",
+    "reading": "いじょうです",
+    "meaning": "sekian"
+  },
+  {
+    "level": "N4",
+    "term": "係員",
+    "reading": "かかりいん",
+    "meaning": "staf\npetugas"
+  },
+  {
+    "level": "N4",
+    "term": "優勝します",
+    "reading": "ゆうしょうします",
+    "meaning": "menang"
+  },
+  {
+    "level": "N4",
+    "term": "悩み",
+    "reading": "なやみ",
+    "meaning": "masalah"
+  },
+  {
+    "level": "N4",
+    "term": "目覚まし",
+    "reading": "めざまし",
+    "meaning": "weker"
+  },
+  {
+    "level": "N4",
+    "term": "回答",
+    "reading": "かいとう",
+    "meaning": "jawaban"
+  },
+  {
+    "level": "N4",
+    "term": "鳴ります",
+    "reading": "なります",
+    "meaning": "berbunyi"
+  },
+  {
+    "level": "N4",
+    "term": "それでも",
+    "reading": "",
+    "meaning": "masih"
+  },
+  {
+    "level": "N4",
+    "term": "セットします",
+    "reading": "",
+    "meaning": "memasang\nmengatur"
+  },
+  {
+    "level": "N4",
+    "term": "渡します",
+    "reading": "わたします",
+    "meaning": "menyerahkan"
+  },
+  {
+    "level": "N4",
+    "term": "帰って来ます",
+    "reading": "かえってきます",
+    "meaning": "pulang"
+  },
+  {
+    "level": "N4",
+    "term": "届きます",
+    "reading": "とどきます",
+    "meaning": "sampai"
+  },
+  {
+    "level": "N4",
+    "term": "入学します",
+    "reading": "にゅうがくします",
+    "meaning": "masuk"
+  },
+  {
+    "level": "N4",
+    "term": "焼きます",
+    "reading": "やきます",
+    "meaning": "membakar"
+  },
+  {
+    "level": "N4",
+    "term": "留守",
+    "reading": "るす",
+    "meaning": "ketiadaan\n(tidak ada orang di rumah)"
+  },
+  {
+    "level": "N4",
+    "term": "宅配便",
+    "reading": "たくはいびん",
+    "meaning": "titipan kilat"
+  },
+  {
+    "level": "N4",
+    "term": "原因",
+    "reading": "げんいん",
+    "meaning": "sebab"
+  },
+  {
+    "level": "N4",
+    "term": "半年",
+    "reading": "はんとし",
+    "meaning": "setengah tahun"
+  },
+  {
+    "level": "N4",
+    "term": "たった今",
+    "reading": "たったいま",
+    "meaning": "baru saja"
+  },
+  {
+    "level": "N4",
+    "term": "今いいですか",
+    "reading": "いまいいですか",
+    "meaning": "sekarang boleh mengganggu?\nbolehkah berbicara sekarang?"
+  },
+  {
+    "level": "N4",
+    "term": "具合",
+    "reading": "ぐあい",
+    "meaning": "kondisi"
+  },
+  {
+    "level": "N4",
+    "term": "申し訳ありません",
+    "reading": "もうしわけありません",
+    "meaning": "maaf"
+  },
+  {
+    "level": "N4",
+    "term": "向かいます",
+    "reading": "むかいます",
+    "meaning": "menuju"
+  },
+  {
+    "level": "N4",
+    "term": "ついています",
+    "reading": "",
+    "meaning": "mujur\nuntung"
+  },
+  {
+    "level": "N4",
+    "term": "床",
+    "reading": "ゆか",
+    "meaning": "lantai"
+  },
+  {
+    "level": "N4",
+    "term": "転びます",
+    "reading": "ころびます",
+    "meaning": "jatuh"
+  },
+  {
+    "level": "N4",
+    "term": "慌てて",
+    "reading": "あわてて",
+    "meaning": "tergesa-gesa"
+  },
+  {
+    "level": "N4",
+    "term": "順番に",
+    "reading": "じゅんばんに",
+    "meaning": "sesuai urutan"
+  },
+  {
+    "level": "N4",
+    "term": "出来事",
+    "reading": "できごと",
+    "meaning": "peristiwa"
+  },
+  {
+    "level": "N4",
+    "term": "吹きます",
+    "reading": "ふきます",
+    "meaning": "bertiup"
+  },
+  {
+    "level": "N4",
+    "term": "亡くなります",
+    "reading": "なくなります",
+    "meaning": "meninggal dunia"
+  },
+  {
+    "level": "N4",
+    "term": "集まります",
+    "reading": "あつまります",
+    "meaning": "berkumpul"
+  },
+  {
+    "level": "N4",
+    "term": "厳しい",
+    "reading": "きびしい",
+    "meaning": "keras\nberat"
+  },
+  {
+    "level": "N4",
+    "term": "ひどい",
+    "reading": "",
+    "meaning": "kejam"
+  },
+  {
+    "level": "N4",
+    "term": "怖い",
+    "reading": "こわい",
+    "meaning": "takut"
+  },
+  {
+    "level": "N4",
+    "term": "実験",
+    "reading": "じっけん",
+    "meaning": "percobaan\neksperimen"
+  },
+  {
+    "level": "N4",
+    "term": "人口",
+    "reading": "じんこう",
+    "meaning": "penduduk"
+  },
+  {
+    "level": "N4",
+    "term": "におい",
+    "reading": "",
+    "meaning": "bau"
+  },
+  {
+    "level": "N4",
+    "term": "科学",
+    "reading": "かがく",
+    "meaning": "ilmu pengetahuan"
+  },
+  {
+    "level": "N4",
+    "term": "医学",
+    "reading": "いがく",
+    "meaning": "ilmu kedokteran"
+  },
+  {
+    "level": "N4",
+    "term": "文学",
+    "reading": "ぶんがく",
+    "meaning": "sastra"
+  },
+  {
+    "level": "N4",
+    "term": "パトカー",
+    "reading": "",
+    "meaning": "mobil patroli"
+  },
+  {
+    "level": "N4",
+    "term": "救急車",
+    "reading": "きゅうきゅうしゃ",
+    "meaning": "mobil ambulan"
+  },
+  {
+    "level": "N4",
+    "term": "賛成",
+    "reading": "さんせい",
+    "meaning": "persetujuan"
+  },
+  {
+    "level": "N4",
+    "term": "反対",
+    "reading": "はんたい",
+    "meaning": "menentang"
+  },
+  {
+    "level": "N4",
+    "term": "大統領",
+    "reading": "だいとうりょう",
+    "meaning": "presiden"
+  },
+  {
+    "level": "N4",
+    "term": "～によると",
+    "reading": "",
+    "meaning": "menurut~"
+  },
+  {
+    "level": "N4",
+    "term": "婚約します",
+    "reading": "こんやくします",
+    "meaning": "bertunangan"
+  },
+  {
+    "level": "N4",
+    "term": "どうも",
+    "reading": "",
+    "meaning": "terima kasih\nmaaf\nrupanya\nsepertinya\nsangat"
+  },
+  {
+    "level": "N4",
+    "term": "恋人",
+    "reading": "こいびと",
+    "meaning": "pacar"
+  },
+  {
+    "level": "N4",
+    "term": "化粧",
+    "reading": "けしょう",
+    "meaning": "dandan"
+  },
+  {
+    "level": "N4",
+    "term": "女性",
+    "reading": "じょせい",
+    "meaning": "wanita"
+  },
+  {
+    "level": "N4",
+    "term": "男性",
+    "reading": "だんせい",
+    "meaning": "pria"
+  },
+  {
+    "level": "N4",
+    "term": "長生き",
+    "reading": "ながいき",
+    "meaning": "panjang umur"
+  },
+  {
+    "level": "N4",
+    "term": "降ろします",
+    "reading": "おろします",
+    "meaning": "menurunkan"
+  },
+  {
+    "level": "N4",
+    "term": "届けます",
+    "reading": "とどけます",
+    "meaning": "mengantarkan"
+  },
+  {
+    "level": "N4",
+    "term": "録音します",
+    "reading": "ろくおんします",
+    "meaning": "merekam"
+  },
+  {
+    "level": "N4",
+    "term": "塾",
+    "reading": "じゅく",
+    "meaning": "les"
+  },
+  {
+    "level": "N4",
+    "term": "営業",
+    "reading": "えいぎょう",
+    "meaning": "perdagangan"
+  },
+  {
+    "level": "N4",
+    "term": "それまでに",
+    "reading": "",
+    "meaning": "sebelumnya"
+  },
+  {
+    "level": "N4",
+    "term": "かまいません",
+    "reading": "",
+    "meaning": "tidak apa-apa"
+  },
+  {
+    "level": "N4",
+    "term": "親",
+    "reading": "おや",
+    "meaning": "orang tua"
+  },
+  {
+    "level": "N4",
+    "term": "習字",
+    "reading": "しゅうじ",
+    "meaning": "kaligrafi"
+  },
+  {
+    "level": "N4",
+    "term": "普通",
+    "reading": "ふつう",
+    "meaning": "biasa"
+  },
+  {
+    "level": "N4",
+    "term": "勤めます",
+    "reading": "つとめます",
+    "meaning": "bekerja"
+  },
+  {
+    "level": "N4",
+    "term": "過ごします",
+    "reading": "すごします",
+    "meaning": "menghabiskan\nmelewatkan"
+  },
+  {
+    "level": "N4",
+    "term": "いらっしゃいます",
+    "reading": "",
+    "meaning": "ada\npergi\ndatang\nkata hormat dari \nいます いきます きます"
+  },
+  {
+    "level": "N4",
+    "term": "召し上がります",
+    "reading": "めしあがります",
+    "meaning": "makan\nminum\nkata hormat dari \nたべます のみます"
+  },
+  {
+    "level": "N4",
+    "term": "おっしゃいます",
+    "reading": "",
+    "meaning": "berkata\nkata hormat dari \nいいます"
+  },
+  {
+    "level": "N4",
+    "term": "なさいます",
+    "reading": "",
+    "meaning": "melakukan\nkata hormat dari \nします"
+  },
+  {
+    "level": "N4",
+    "term": "ご覧になります",
+    "reading": "ごらんになります",
+    "meaning": "melihat\nkata hormat dari \nみます"
+  },
+  {
+    "level": "N4",
+    "term": "ご存じです",
+    "reading": "ごぞんじです",
+    "meaning": "mengetahui\nkata hormat dari \nしっています"
+  },
+  {
+    "level": "N4",
+    "term": "旅館",
+    "reading": "りょかん",
+    "meaning": "penginapan"
+  },
+  {
+    "level": "N4",
+    "term": "バス停",
+    "reading": "ばすてい",
+    "meaning": "halte bus"
+  },
+  {
+    "level": "N4",
+    "term": "奥様",
+    "reading": "おくさま",
+    "meaning": "nyonya"
+  },
+  {
+    "level": "N4",
+    "term": "たまに",
+    "reading": "",
+    "meaning": "kadang-kadang"
+  },
+  {
+    "level": "N4",
+    "term": "どなたでも",
+    "reading": "",
+    "meaning": "siapa saja"
+  },
+  {
+    "level": "N4",
+    "term": "よろしくお伝えください",
+    "reading": "よろしくおつたえください",
+    "meaning": "tolong sampaikan salam saya"
+  },
+  {
+    "level": "N4",
+    "term": "失礼いたします",
+    "reading": "しつれいいたします",
+    "meaning": "permisi\nkata merendah dari \nしつれいします"
+  },
+  {
+    "level": "N4",
+    "term": "経歴",
+    "reading": "けいれき",
+    "meaning": "CV\ndaftar riwayat hidup"
+  },
+  {
+    "level": "N4",
+    "term": "医学部",
+    "reading": "いがくぶ",
+    "meaning": "fakultas kedokteran"
+  },
+  {
+    "level": "N4",
+    "term": "目指します",
+    "reading": "めざします",
+    "meaning": "menargetkan"
+  },
+  {
+    "level": "N4",
+    "term": "進みます",
+    "reading": "すすみます",
+    "meaning": "melanjutkan"
+  },
+  {
+    "level": "N4",
+    "term": "開発します",
+    "reading": "かいはつします",
+    "meaning": "mengembangkan"
+  },
+  {
+    "level": "N4",
+    "term": "受賞します",
+    "reading": "じゅしょうします",
+    "meaning": "meraih"
+  },
+  {
+    "level": "N4",
+    "term": "講演会",
+    "reading": "こうえんかい",
+    "meaning": "seminar"
+  },
+  {
+    "level": "N4",
+    "term": "参ります",
+    "reading": "まいります",
+    "meaning": "pergi\ndatang\nkata merendah dari\nいきます　きます"
+  },
+  {
+    "level": "N4",
+    "term": "おります",
+    "reading": "",
+    "meaning": "ada\nkata merendah dari\nいます"
+  },
+  {
+    "level": "N4",
+    "term": "いただきます",
+    "reading": "",
+    "meaning": "makan\nminum\nmenerima\nkata merendah dari\nたべます　のみます　もらいます"
+  },
+  {
+    "level": "N4",
+    "term": "申します",
+    "reading": "もうします",
+    "meaning": "bernama\nkata merendah dari\nいいます"
+  },
+  {
+    "level": "N4",
+    "term": "いたします",
+    "reading": "",
+    "meaning": "melakukan\nkata merendah dari\nします"
+  },
+  {
+    "level": "N4",
+    "term": "拝見します",
+    "reading": "はいけんします",
+    "meaning": "melihat\nkata merendah dari\nみます"
+  },
+  {
+    "level": "N4",
+    "term": "存じます",
+    "reading": "ぞんじます",
+    "meaning": "kenal\nkata merendah dari\nしります"
+  },
+  {
+    "level": "N4",
+    "term": "伺います",
+    "reading": "うかがいます",
+    "meaning": "bertanya\nmendengar\nberkunjung\nkata merendah dari\nききます　いきます"
+  },
+  {
+    "level": "N4",
+    "term": "お目にかかります",
+    "reading": "おめにかかります",
+    "meaning": "bertemu\nkata merendah dari\nあいます"
+  },
+  {
+    "level": "N4",
+    "term": "いれます",
+    "reading": "",
+    "meaning": "membuat"
+  },
+  {
+    "level": "N4",
+    "term": "用意します",
+    "reading": "よういします",
+    "meaning": "menyediakan"
+  },
+  {
+    "level": "N4",
+    "term": "私",
+    "reading": "わたくし",
+    "meaning": "saya\nkata merendah dari\nわたし"
+  },
+  {
+    "level": "N4",
+    "term": "さ来週",
+    "reading": "さらいしゅう",
+    "meaning": "dua minggu lagi"
+  },
+  {
+    "level": "N4",
+    "term": "さ来月",
+    "reading": "さらいげつ",
+    "meaning": "dua bulan lagi"
+  },
+  {
+    "level": "N4",
+    "term": "さ来年",
+    "reading": "さらいねん",
+    "meaning": "dua tahun lagi"
+  },
+  {
+    "level": "N4",
+    "term": "初めに",
+    "reading": "はじめに",
+    "meaning": "pertama-tama"
+  },
+  {
+    "level": "N4",
+    "term": "緊張します",
+    "reading": "きんちょうします",
+    "meaning": "gugup\ngrogi"
+  },
+  {
+    "level": "N4",
+    "term": "賞金",
+    "reading": "しょうきん",
+    "meaning": "hadiah uang"
+  },
+  {
+    "level": "N4",
+    "term": "きりん",
+    "reading": "",
+    "meaning": "jerapah"
+  },
+  {
+    "level": "N4",
+    "term": "ころ",
+    "reading": "",
+    "meaning": "ketika\nsaat"
+  },
+  {
+    "level": "N4",
+    "term": "かないます",
+    "reading": "",
+    "meaning": "terkabul"
+  },
+  {
+    "level": "N4",
+    "term": "応援します",
+    "reading": "おうえんします",
+    "meaning": "mendukung"
+  },
+  {
+    "level": "N4",
+    "term": "心から",
+    "reading": "こころから",
+    "meaning": "dari segenap hati"
+  },
+  {
+    "level": "N4",
+    "term": "感謝します",
+    "reading": "かんしゃします",
+    "meaning": "berterima kasih"
+  },
+  {
+    "level": "N4",
+    "term": "お礼",
+    "reading": "おれい",
+    "meaning": "ucapan terima kasih"
+  },
+  {
+    "level": "N4",
+    "term": "お元気でいらっしゃいますか",
+    "reading": "おげんきでいらっしゃいますか",
+    "meaning": "bagaimana kabarnya\n(kata hormat)"
+  },
+  {
+    "level": "N4",
+    "term": "迷惑をかけます",
+    "reading": "めいわくをかけます",
+    "meaning": "mengganggu"
+  },
+  {
+    "level": "N4",
+    "term": "生かします",
+    "reading": "いかします",
+    "meaning": "menggunakan"
+  }
+]
